@@ -30,30 +30,13 @@ test_df = train_data.drop(train_df.index)
 X = train_df.drop(columns=["Type"])
 y = train_df["Type"]
 
-Pipeline
-# model =ExtraTreesClassifier(
-#         n_estimators=20,
-#         max_depth=3,
-#         min_samples_leaf=4,
-#         random_state=42
-#     )
+# Crear el modelo de Gradient Boosting
 model = Pipeline(
     steps=[("scaler", StandardScaler()), ("model", GradientBoostingClassifier(n_estimators=500, learning_rate=0.1, max_depth=3, random_state=42))]
 )
 
-# model = Pipeline(
-#     steps=[("scaler", StandardScaler()), ("model", AdaBoostClassifier(n_estimators=500, learning_rate=0.1, random_state=42))]
-# )
 
-# model = Pipeline(
-#     steps=[("scaler", StandardScaler()), ("model", SGDClassifier(loss="hinge", penalty="l2", max_iter=50))]
-# )
-
-
-# model = Pipeline(
-#     steps=[("scaler", StandardScaler()), ("model", KNeighborsClassifier(n_neighbors=11))]
-# )
-# Validación
+# Validación amb les dades d'entrenament
 cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
 scores = cross_val_score(model, X, y, cv=cv, scoring="accuracy")
 
@@ -63,8 +46,7 @@ print("Accuracy CV std:", scores.std())
 # Ajuste final
 model.fit(X, y)
 
-# y_test = model.predict(test_df.drop(columns=["Type"]))
-# accuracy_test = (y_test == test_df["Type"]).mean() * 100 
+
 y_test = model.predict(df.drop(columns=["Type"]))
 accuracy_test = (y_test == df["Type"]).mean() * 100 
 print(f"Accuracy en test: {accuracy_test:.2f}%")
