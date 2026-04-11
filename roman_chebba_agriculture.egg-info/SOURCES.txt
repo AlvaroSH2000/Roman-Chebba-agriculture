@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+roman_chebba_agriculture.egg-info/PKG-INFO
+roman_chebba_agriculture.egg-info/SOURCES.txt
+roman_chebba_agriculture.egg-info/dependency_links.txt
+roman_chebba_agriculture.egg-info/requires.txt
+roman_chebba_agriculture.egg-info/top_level.txt
