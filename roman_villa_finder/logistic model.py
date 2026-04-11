@@ -7,19 +7,27 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 
 # Cargar datos
-df = pd.read_excel("..\\data\\processed\\other_sites_processed.xlsx")
+df = pd.read_excel("..\\data\\processed\\combined_sites_processed.xlsx")
+
+# train_data = df.drop(columns=["FID"])
+train_data = df.copy
+# 75% of the data is selected
+train_df = train_data.sample(frac=0.75, random_state=4)
+# it drops the training data
+# from the original dataframe
+test_df = train_data.drop(train_df.index)
 
 # Quitar ID
-X = df.drop(columns=["FID", "Type"])
-y = df["Type"]
+X = train_df.drop(columns=["Type"])
+y = train_df["Type"]
 
 # Pipeline
 model = Pipeline([
     ("scaler", StandardScaler()),
     ("clf", LogisticRegression(
-        penalty="l2",      # cambia a "l1" si quieres selección de variables
+        penalty="l1",      # cambia a "l1" si quieres selección de variables
         solver="liblinear",
-        max_iter=1000
+        max_iter=100
     ))
 ])
 
@@ -44,3 +52,7 @@ importance = pd.DataFrame({
 }).sort_values("abs_coef", ascending=False)
 
 print(importance)
+
+y_test = model.predict(test_df.drop(columns=["Type"]))
+accuracy_test = (y_test == test_df["Type"]).mean() * 100 
+print(f"Accuracy en test: {accuracy_test:.2f}%")
