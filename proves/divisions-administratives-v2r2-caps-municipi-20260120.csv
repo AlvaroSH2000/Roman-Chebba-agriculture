@@ -1,0 +1,948 @@
+﻿Municipi;Municipi forma indexada;Cap de municipi;Cap de municipi indexada;Codi municipi;Codi municipi INE;Comarca;Codi comarca;Abreviatura comarca;Província;Codi província;UTM X;UTM Y;Longitud;Latitud
+Alcover;Alcover;Alcover;Alcover;430056;43005;Alt Camp;1;ACA;Tarragona;43;346608;4569560;1.168858284;41.262911399
+Alió;Alió;Alió;Alió;430108;43010;Alt Camp;1;ACA;Tarragona;43;358194;4572852;1.30634069;41.294663936
+Bràfim;Bràfim;Bràfim;Bràfim;430347;43034;Alt Camp;1;ACA;Tarragona;43;361066;4569918;1.341290393;41.268749059
+Cabra del Camp;Cabra del Camp;Cabra del Camp;Cabra del Camp;430363;43036;Alt Camp;1;ACA;Tarragona;43;355955;4584072;1.276943289;41.395294284
+Figuerola del Camp;Figuerola del Camp;Figuerola del Camp;Figuerola del Camp;430593;43059;Alt Camp;1;ACA;Tarragona;43;354900;4581444;1.264965381;41.37144108
+Mont-ral;Mont-ral;Mont-ral;Mont-ral;430918;43091;Alt Camp;1;ACA;Tarragona;43;340641;4572346;1.096936669;41.286833283
+Montferri;Montferri;Montferri;Montferri;430897;43089;Alt Camp;1;ACA;Tarragona;43;363110;4569536;1.365779712;41.26565945
+Nulles;Nulles;Nulles;Nulles;430982;43098;Alt Camp;1;ACA;Tarragona;43;357163;4567835;1.295200025;41.249312047
+Puigpelat;Puigpelat;Puigpelat;Puigpelat;431191;43119;Alt Camp;1;ACA;Tarragona;43;357373;4571227;1.296914752;41.279887357
+Querol;Querol;Querol;Querol;431205;43120;Alt Camp;1;ACA;Tarragona;43;366051;4586948;1.397024653;41.422933287
+Rodonyà;Rodonyà;Rodonyà;Rodonyà;431325;43132;Alt Camp;1;ACA;Tarragona;43;365927;4571057;1.399061774;41.279828899
+Aiguamúrcia;Aiguamúrcia;Santes Creus;Santes Creus;430017;43001;Alt Camp;1;ACA;Tarragona;43;363069;4578512;1.363265165;41.346470735
+Vallmoll;Vallmoll;Vallmoll;Vallmoll;431606;43160;Alt Camp;1;ACA;Tarragona;43;353278;4567149;1.249025345;41.242443869
+Valls;Valls;Valls;Valls;431613;43161;Alt Camp;1;ACA;Tarragona;43;353265;4571785;1.247752539;41.284175629
+Vila-rodona;Vila-rodona;Vila-rodona;Vila-rodona;431704;43170;Alt Camp;1;ACA;Tarragona;43;362563;4574564;1.358117024;41.31083706
+Vilabella;Vilabella;Vilabella;Vilabella;431652;43165;Alt Camp;1;ACA;Tarragona;43;360068;4567504;1.329941491;41.246835677
+el Milà;Milà, el;el Milà;Milà, el;430831;43083;Alt Camp;1;ACA;Tarragona;43;349738;4567828;1.20662969;41.247906855
+el Pla de Santa Maria;Pla de Santa Maria, el;el Pla de Santa Maria;Pla de Santa Maria, el;431080;43108;Alt Camp;1;ACA;Tarragona;43;356885;4580759;1.288852863;41.365624908
+el Pont d'Armentera;Pont d'Armentera, el;el Pont d'Armentera;Pont d'Armentera, el;431135;43113;Alt Camp;1;ACA;Tarragona;43;363109;4582643;1.362805361;41.383674473
+el Rourell;Rourell, el;el Rourell;Rourell, el;431346;43134;Alt Camp;1;ACA;Tarragona;43;350661;4565155;1.218295132;41.224012217
+els Garidells;Garidells, els;els Garidells;Garidells, els;430666;43066;Alt Camp;1;ACA;Tarragona;43;353007;4563259;1.246729151;41.207366433
+la Masó;Masó, la;la Masó;Masó, la;430803;43080;Alt Camp;1;ACA;Tarragona;43;351064;4566355;1.222803463;41.23488639
+la Riba;Riba, la;la Riba;Riba, la;431248;43124;Alt Camp;1;ACA;Tarragona;43;347506;4575688;1.178031912;41.318250949
+Agullana;Agullana;Agullana;Agullana;170010;17001;Alt Empordà;2;AEM;Girona;17;487380;4693513;2.846670142;42.393804699
+Albanyà;Albanyà;Albanyà;Albanyà;170031;17003;Alt Empordà;2;AEM;Girona;17;476911;4683599;2.71986289;42.304280173
+Avinyonet de Puigventós;Avinyonet de Puigventós;Avinyonet de Puigventós;Avinyonet de Puigventós;170123;17012;Alt Empordà;2;AEM;Girona;17;492963;4677486;2.914701715;42.249534831
+Biure;Biure;Biure;Biure;172348;17234;Alt Empordà;2;AEM;Girona;17;491350;4687272;2.894998835;42.337657992
+Boadella i les Escaules;Boadella i les Escaules;Boadella d'Empordà;Boadella d'Empordà;170293;17029;Alt Empordà;2;AEM;Girona;17;488158;4686417;2.856271057;42.32991431
+Borrassà;Borrassà;Borrassà;Borrassà;170268;17026;Alt Empordà;2;AEM;Girona;17;493918;4674516;2.926309348;42.222794565
+Bàscara;Bàscara;Bàscara;Bàscara;170160;17016;Alt Empordà;2;AEM;Girona;17;492602;4667516;2.910444572;42.159735746
+Cabanelles;Cabanelles;Cabanelles;Cabanelles;170314;17031;Alt Empordà;2;AEM;Girona;17;485122;4675423;2.819698027;42.230847849
+Cabanes;Cabanes;Cabanes;Cabanes;170307;17030;Alt Empordà;2;AEM;Girona;17;498210;4683863;2.978283233;42.307000409
+Cadaqués;Cadaqués;Cadaqués;Cadaqués;170329;17032;Alt Empordà;2;AEM;Girona;17;522744;4681800;3.275869869;42.288087206
+Saus, Camallera i Llampaies;Saus, Camallera i Llampaies;Camallera;Camallera;171870;17187;Alt Empordà;2;AEM;Girona;17;497004;4663448;2.963758519;42.123132701
+Cantallops;Cantallops;Cantallops;Cantallops;170412;17041;Alt Empordà;2;AEM;Girona;17;493856;4696636;2.925318506;42.422007911
+Capmany;Capmany;Capmany;Capmany;170427;17042;Alt Empordà;2;AEM;Girona;17;493498;4691138;2.921023161;42.372493241
+Castelló d'Empúries;Castelló d'Empúries;Castelló d'Empúries;Castelló d'Empúries;170470;17047;Alt Empordà;2;AEM;Girona;17;506139;4678461;3.074434461;42.258323711
+Cistella;Cistella;Cistella;Cistella;170519;17051;Alt Empordà;2;AEM;Girona;17;487405;4679620;2.847275069;42.268681362
+Colera;Colera;Colera;Colera;170545;17054;Alt Empordà;2;AEM;Girona;17;512407;4694628;3.150766201;42.403848704
+Darnius;Darnius;Darnius;Darnius;170600;17060;Alt Empordà;2;AEM;Girona;17;486164;4690711;2.831958326;42.368552781
+Espolla;Espolla;Espolla;Espolla;170643;17064;Alt Empordà;2;AEM;Girona;17;500071;4693199;3.000865645;42.391085003
+Figueres;Figueres;Figueres;Figueres;170669;17066;Alt Empordà;2;AEM;Girona;17;496767;4679450;2.960796851;42.267253018
+Fortià;Fortià;Fortià;Fortià;170741;17074;Alt Empordà;2;AEM;Girona;17;503358;4676648;3.040704541;42.242008394
+Garriguella;Garriguella;Garriguella;Garriguella;170773;17077;Alt Empordà;2;AEM;Girona;17;505294;4687782;3.064274139;42.342280012
+Garrigàs;Garrigàs;Garrigàs;Garrigàs;170754;17075;Alt Empordà;2;AEM;Girona;17;496208;4671253;2.954078557;42.193423593
+Lladó;Lladó;Lladó;Lladó;170887;17088;Alt Empordà;2;AEM;Girona;17;484640;4677285;2.813803126;42.24760608
+Llançà;Llançà;Llançà;Llançà;170926;17092;Alt Empordà;2;AEM;Girona;17;512519;4690121;3.152032378;42.363259811
+Llers;Llers;Llers;Llers;170932;17093;Alt Empordà;2;AEM;Girona;17;492775;4682580;2.912353205;42.295408877
+Pedret i Marzà;Pedret i Marzà;Marzà;Marzà;171292;17129;Alt Empordà;2;AEM;Girona;17;505565;4684287;3.067521597;42.310801228
+Masarac i Vilarnadal;Masarac i Vilarnadal;Masarac;Masarac;171002;17100;Alt Empordà;2;AEM;Girona;17;497758;4688718;2.972775685;42.350721867
+Maçanet de Cabrenys;Maçanet de Cabrenys;Maçanet de Cabrenys;Maçanet de Cabrenys;171024;17102;Alt Empordà;2;AEM;Girona;17;479262;4692658;2.7480676;42.385936018
+Mollet de Peralada;Mollet de Peralada;Mollet de Peralada;Mollet de Peralada;171061;17106;Alt Empordà;2;AEM;Girona;17;499981;4689727;2.999774376;42.359809515
+Navata;Navata;Navata;Navata;171117;17111;Alt Empordà;2;AEM;Girona;17;488503;4674631;2.860683132;42.223772945
+Ordis;Ordis;Ordis;Ordis;171156;17115;Alt Empordà;2;AEM;Girona;17;492303;4674054;2.90674003;42.218616663
+Palau-saverdera;Palau-saverdera;Palau-saverdera;Palau-saverdera;171208;17120;Alt Empordà;2;AEM;Girona;17;512364;4683990;3.150017098;42.308041536
+Pau;Pau;Pau;Pau;171289;17128;Alt Empordà;2;AEM;Girona;17;509573;4684848;3.116168969;42.315815593
+Peralada;Peralada;Peralada;Peralada;171328;17132;Alt Empordà;2;AEM;Girona;17;500671;4684001;3.008139245;42.308241321
+Pont de Molins;Pont de Molins;Pont de Molins;Pont de Molins;171352;17135;Alt Empordà;2;AEM;Girona;17;493876;4684709;2.925690703;42.314591198
+Pontós;Pontós;Pontós;Pontós;171365;17136;Alt Empordà;2;AEM;Girona;17;493110;4670504;2.916566672;42.18665597
+Portbou;Portbou;Portbou;Portbou;171387;17138;Alt Empordà;2;AEM;Girona;17;513047;4697073;3.158606152;42.42586273
+Rabós;Rabós;Rabós;Rabós;171432;17143;Alt Empordà;2;AEM;Girona;17;502348;4691865;3.028524999;42.379064345
+Riumors;Riumors;Riumors;Riumors;171518;17151;Alt Empordà;2;AEM;Girona;17;503476;4675014;3.042124039;42.227300327
+Roses;Roses;Roses;Roses;171523;17152;Alt Empordà;2;AEM;Girona;17;514672;4678903;3.17788689;42.262191491
+Sant Climent Sescebes;Sant Climent Sescebes;Sant Climent Sescebes;Sant Climent Sescebes;171582;17158;Alt Empordà;2;AEM;Girona;17;498395;4690723;2.980503302;42.36878192
+Sant Llorenç de la Muga;Sant Llorenç de la Muga;Sant Llorenç de la Muga;Sant Llorenç de la Muga;171714;17171;Alt Empordà;2;AEM;Girona;17;482659;4685326;2.789555289;42.319985549
+Sant Miquel de Fluvià;Sant Miquel de Fluvià;Sant Miquel de Fluvià;Sant Miquel de Fluvià;171753;17175;Alt Empordà;2;AEM;Girona;17;499315;4668870;2.991704388;42.171967774
+Sant Mori;Sant Mori;Sant Mori;Sant Mori;171766;17176;Alt Empordà;2;AEM;Girona;17;499237;4666850;2.990767175;42.153775931
+Sant Pere Pescador;Sant Pere Pescador;Sant Pere Pescador;Sant Pere Pescador;171788;17178;Alt Empordà;2;AEM;Girona;17;506768;4670671;3.081960079;42.188156771
+Palau de Santa Eulàlia;Palau de Santa Eulàlia;Santa Eulàlia;Santa Eulàlia;171194;17119;Alt Empordà;2;AEM;Girona;17;497077;4669020;2.964613902;42.173310991
+Santa Llogaia d'Àlguema;Santa Llogaia d'Àlguema;Santa Llogaia d'Àlguema;Santa Llogaia d'Àlguema;171827;17182;Alt Empordà;2;AEM;Girona;17;496041;4675684;2.952019792;42.233328579
+Siurana;Siurana;Siurana;Siurana;170524;17052;Alt Empordà;2;AEM;Girona;17;499514;4673034;2.994110033;42.209474489
+Terrades;Terrades;Terrades;Terrades;171962;17196;Alt Empordà;2;AEM;Girona;17;486796;4684252;2.839785356;42.310392674
+Torroella de Fluvià;Torroella de Fluvià;Torroella de Fluvià;Torroella de Fluvià;171984;17198;Alt Empordà;2;AEM;Girona;17;503384;4669194;3.040968953;42.17487873
+Ventalló;Ventalló;Ventalló;Ventalló;172109;17210;Alt Empordà;2;AEM;Girona;17;502221;4666306;3.026876583;42.148875212
+Vila-sacra;Vila-sacra;Vila-sacra;Vila-sacra;172305;17230;Alt Empordà;2;AEM;Girona;17;501495;4679255;3.018132233;42.265498568
+Vilabertran;Vilabertran;Vilabertran;Vilabertran;172142;17214;Alt Empordà;2;AEM;Girona;17;498480;4681164;2.981560473;42.282694936
+Viladamat;Viladamat;Viladamat;Viladamat;172174;17217;Alt Empordà;2;AEM;Girona;17;506179;4664597;3.074770992;42.133457267
+Vilafant;Vilafant;Vilafant;Vilafant;172214;17221;Alt Empordà;2;AEM;Girona;17;494850;4677201;2.937576321;42.246982743
+Vilajuïga;Vilajuïga;Vilajuïga;Vilajuïga;172235;17223;Alt Empordà;2;AEM;Girona;17;507659;4685922;3.092960052;42.325510093
+Vilamacolum;Vilamacolum;Vilamacolum;Vilamacolum;172253;17225;Alt Empordà;2;AEM;Girona;17;504690;4671588;3.056801259;42.196431635
+Vilamalla;Vilamalla;Vilamalla;Vilamalla;172266;17226;Alt Empordà;2;AEM;Girona;17;497563;4673946;2.970474501;42.217683894
+Vilamaniscle;Vilamaniscle;Vilamaniscle;Vilamaniscle;172272;17227;Alt Empordà;2;AEM;Girona;17;505580;4691433;3.067773732;42.375159545
+Vilanant;Vilanant;Vilanant;Vilanant;172288;17228;Alt Empordà;2;AEM;Girona;17;490818;4678050;2.888685182;42.254596326
+Vilaür;Vilaür;Vilaür;Vilaür;172229;17222;Alt Empordà;2;AEM;Girona;17;496289;4665722;2.955087148;42.143610132
+el Far d'Empordà;Far d'Empordà, el;el Far d'Empordà;Far d'Empordà, el;170059;17005;Alt Empordà;2;AEM;Girona;17;499689;4677721;2.996235357;42.251679719
+el Port de la Selva;Port de la Selva, el;el Port de la Selva;Port de la Selva, el;171404;17140;Alt Empordà;2;AEM;Girona;17;516864;4687373;3.204721567;42.338430754
+l'Armentera;Armentera, l';l'Armentera;Armentera, l';170118;17011;Alt Empordà;2;AEM;Girona;17;506155;4668887;3.074523974;42.172101301
+l'Escala;Escala, l';l'Escala;Escala, l';170622;17062;Alt Empordà;2;AEM;Girona;17;510952;4663640;3.132502105;42.124790453
+la Jonquera;Jonquera, la;la Jonquera;Jonquera, la;170865;17086;Alt Empordà;2;AEM;Girona;17;489655;4696131;2.874256251;42.417415518
+la Selva de Mar;Selva de Mar, la;la Selva de Mar;Selva de Mar, la;171886;17188;Alt Empordà;2;AEM;Girona;17;515365;4685822;3.186472926;42.324487885
+la Vajol;Vajol, la;la Vajol;Vajol, la;170144;17014;Alt Empordà;2;AEM;Girona;17;483558;4694631;2.800194482;42.403801953
+Avinyonet del Penedès;Avinyonet del Penedès;Avinyó Nou;Avinyó Nou;080137;08013;Alt Penedès;3;APE;Barcelona;08;397734;4579557;1.777332142;41.361030685
+Gelida;Gelida;Gelida;Gelida;080919;08091;Alt Penedès;3;APE;Barcelona;08;405076;4588311;1.863724449;41.440768928
+Font-rubí;Font-rubí;Guardiola de Font-rubí;Guardiola de Font-rubí;080850;08085;Alt Penedès;3;APE;Barcelona;08;387323;4585617;1.651764519;41.414213857
+Torrelavit;Torrelavit;Lavit;Lavit;082877;08287;Alt Penedès;3;APE;Barcelona;08;393880;4589094;1.729599364;41.446416556
+Olesa de Bonesvalls;Olesa de Bonesvalls;Olesa de Bonesvalls;Olesa de Bonesvalls;081461;08146;Alt Penedès;3;APE;Barcelona;08;403842;4578448;1.850525294;41.351794966
+Pacs del Penedès;Pacs del Penedès;Pacs del Penedès;Pacs del Penedès;081542;08154;Alt Penedès;3;APE;Barcelona;08;388715;4579798;1.669486163;41.362003984
+Pontons;Pontons;Pontons;Pontons;081688;08168;Alt Penedès;3;APE;Barcelona;08;376048;4585959;1.5168274;41.415631992
+Puigdàlber;Puigdàlber;Puigdàlber;Puigdàlber;081748;08174;Alt Penedès;3;APE;Barcelona;08;391414;4584466;1.700907912;41.404406776
+Sant Cugat Sesgarrigues;Sant Cugat Sesgarrigues;Sant Cugat Sesgarrigues;Sant Cugat Sesgarrigues;082068;08206;Alt Penedès;3;APE;Barcelona;08;395690;4579957;1.752830001;41.364372356
+Mediona;Mediona;Sant Joan de Mediona;Sant Joan de Mediona;081228;08122;Alt Penedès;3;APE;Barcelona;08;384051;4592695;1.611263745;41.477480453
+Sant Llorenç d'Hortons;Sant Llorenç d'Hortons;Sant Llorenç d'Hortons;Sant Llorenç d'Hortons;082227;08222;Alt Penedès;3;APE;Barcelona;08;401840;4591280;1.824508661;41.467114987
+Sant Martí Sarroca;Sant Martí Sarroca;Sant Martí Sarroca;Sant Martí Sarroca;082270;08227;Alt Penedès;3;APE;Barcelona;08;383908;4582402;1.611534615;41.384770148
+Olèrdola;Olèrdola;Sant Miquel d'Olèrdola;Sant Miquel d'Olèrdola;081458;08145;Alt Penedès;3;APE;Barcelona;08;393116;4575086;1.722925638;41.320163597
+Subirats;Subirats;Sant Pau d'Ordal;Sant Pau d'Ordal;082732;08273;Alt Penedès;3;APE;Barcelona;08;399345;4582031;1.796183728;41.383508713
+Sant Pere de Riudebitlles;Sant Pere de Riudebitlles;Sant Pere de Riudebitlles;Sant Pere de Riudebitlles;082325;08232;Alt Penedès;3;APE;Barcelona;08;391671;4589972;1.702993774;41.454024064
+Sant Quintí de Mediona;Sant Quintí de Mediona;Sant Quintí de Mediona;Sant Quintí de Mediona;082362;08236;Alt Penedès;3;APE;Barcelona;08;388342;4590928;1.662971905;41.462181184
+Sant Sadurní d'Anoia;Sant Sadurní d'Anoia;Sant Sadurní d'Anoia;Sant Sadurní d'Anoia;082401;08240;Alt Penedès;3;APE;Barcelona;08;398602;4586548;1.786538997;41.424096891
+Santa Fe del Penedès;Santa Fe del Penedès;Santa Fe del Penedès;Santa Fe del Penedès;082495;08249;Alt Penedès;3;APE;Barcelona;08;393056;4582236;1.720947074;41.384545052
+Torrelles de Foix;Torrelles de Foix;Torrelles de Foix;Torrelles de Foix;082883;08288;Alt Penedès;3;APE;Barcelona;08;380337;4582853;1.568745858;41.388310998
+Vilafranca del Penedès;Vilafranca del Penedès;Vilafranca del Penedès;Vilafranca del Penedès;083054;08305;Alt Penedès;3;APE;Barcelona;08;391088;4578030;1.698173458;41.346407521
+Vilobí del Penedès;Vilobí del Penedès;Vilobí del Penedès;Vilobí del Penedès;083041;08304;Alt Penedès;3;APE;Barcelona;08;388095;4582824;1.661513802;41.389169697
+el Pla del Penedès;Pla del Penedès, el;el Pla del Penedès;Pla del Penedès, el;081640;08164;Alt Penedès;3;APE;Barcelona;08;392442;4585906;1.712946612;41.417509547
+Santa Margarida i els Monjos;Santa Margarida i els Monjos;els Monjos;Monjos, els;082515;08251;Alt Penedès;3;APE;Barcelona;08;388142;4575408;1.663443522;41.322391441
+Castellet i la Gornal;Castellet i la Gornal;la Gornal;Gornal, la;080581;08058;Alt Penedès;3;APE;Barcelona;08;381949;4567944;1.590921193;41.254292977
+la Granada;Granada, la;la Granada;Granada, la;080945;08094;Alt Penedès;3;APE;Barcelona;08;392877;4581558;1.718923634;41.378419788
+Castellví de la Marca;Castellví de la Marca;la Múnia;Múnia, la;080654;08065;Alt Penedès;3;APE;Barcelona;08;384448;4575955;1.619221713;41.326792259
+les Cabanyes;Cabanyes, les;les Cabanyes;Cabanyes, les;080272;08027;Alt Penedès;3;APE;Barcelona;08;390374;4580825;1.689133527;41.371480248
+Alàs i Cerc;Alàs i Cerc;Alàs;Alàs;250058;25005;Alt Urgell;4;AUR;Lleida;25;377140;4689871;1.508278479;42.351403709
+les Valls de Valira;Valls de Valira, les;Anserall;Anserall;252398;25239;Alt Urgell;4;AUR;Lleida;25;372933;4693013;1.456522869;42.379017393
+Cava;Cava;Ansovell;Ansovell;250714;25071;Alt Urgell;4;AUR;Lleida;25;383357;4686872;1.584345925;42.32536247
+Arsèguel;Arsèguel;Arsèguel;Arsèguel;250328;25032;Alt Urgell;4;AUR;Lleida;25;383261;4689632;1.582630187;42.350194155
+Bassella;Bassella;Bassella;Bassella;250447;25044;Alt Urgell;4;AUR;Lleida;25;358826;4651853;1.295229079;42.006041837
+Cabó;Cabó;Cabó;Cabó;250616;25061;Alt Urgell;4;AUR;Lleida;25;355377;4677788;1.247172145;42.238892005
+Coll de Nargó;Coll de Nargó;Coll de Nargó;Coll de Nargó;250772;25077;Alt Urgell;4;AUR;Lleida;25;360896;4670547;1.315770473;42.174709948
+Estamariu;Estamariu;Estamariu;Estamariu;250886;25088;Alt Urgell;4;AUR;Lleida;25;378368;4692255;1.522676662;42.373064174
+Fígols i Alinyà;Fígols i Alinyà;Fígols;Fígols;259084;25908;Alt Urgell;4;AUR;Lleida;25;362922;4673635;1.33956335;42.202862421
+Montferrer i Castellbò;Montferrer i Castellbò;Montferrer;Montferrer;251403;25140;Alt Urgell;4;AUR;Lleida;25;370529;4688913;1.428255324;42.341704967
+les Valls d'Aguilar;Valls d'Aguilar, les;Noves de Segre;Noves de Segre;259062;25906;Alt Urgell;4;AUR;Lleida;25;363302;4683774;1.341775398;42.294210908
+Oliana;Oliana;Oliana;Oliana;251497;25149;Alt Urgell;4;AUR;Lleida;25;360567;4658356;1.314700495;42.064900746
+Organyà;Organyà;Organyà;Organyà;251556;25155;Alt Urgell;4;AUR;Lleida;25;362031;4674567;1.32855282;42.211095763
+Peramola;Peramola;Peramola;Peramola;251654;25165;Alt Urgell;4;AUR;Lleida;25;356670;4657576;1.267801318;42.057172984
+la Vansa i Fórnols;Vansa i Fórnols, la;Sorribes de la Vansa;Sorribes de la Vansa;259097;25909;Alt Urgell;4;AUR;Lleida;25;374611;4676829;1.480406563;42.233584732
+Josa i Tuixén;Josa i Tuixén;Tuixent;Tuixent;259101;25910;Alt Urgell;4;AUR;Lleida;25;381655;4676401;1.565835825;42.230829683
+Ribera d'Urgellet;Ribera d'Urgellet;el Pla de Sant Tirs;Pla de Sant Tirs, el;251850;25185;Alt Urgell;4;AUR;Lleida;25;366769;4685723;1.383365637;42.312355851
+el Pont de Bar;Pont de Bar, el;el Pont de Bar;Pont de Bar, el;250306;25030;Alt Urgell;4;AUR;Lleida;25;385158;4692060;1.605169559;42.372336005
+la Seu d'Urgell;Seu d'Urgell, la;la Seu d'Urgell;Seu d'Urgell, la;252038;25203;Alt Urgell;4;AUR;Lleida;25;373343;4690689;1.46201318;42.358163284
+la Vall de Boí;Vall de Boí, la;Barruera;Barruera;250432;25043;Alta Ribagorça;5;ARI;Lleida;25;319338;4708233;0.801124657;42.505378455
+Vilaller;Vilaller;Vilaller;Vilaller;252458;25245;Alta Ribagorça;5;ARI;Lleida;25;312241;4705234;0.715791498;42.476703425
+el Pont de Suert;Pont de Suert, el;el Pont de Suert;Pont de Suert, el;251734;25173;Alta Ribagorça;5;ARI;Lleida;25;314047;4697513;0.740242992;42.407655395
+Argençola;Argençola;Argençola;Argençola;080082;08008;Anoia;6;ANO;Barcelona;08;370289;4606295;1.443554697;41.59783259
+Bellprat;Bellprat;Bellprat;Bellprat;080214;08021;Anoia;6;ANO;Barcelona;08;369328;4597352;1.433983011;41.5171521
+Calaf;Calaf;Calaf;Calaf;080312;08031;Anoia;6;ANO;Barcelona;08;376166;4621317;1.510944003;41.734019127
+Calonge de Segarra;Calonge de Segarra;Calonge de Segarra;Calonge de Segarra;080364;08036;Anoia;6;ANO;Barcelona;08;373816;4624697;1.481977441;41.764085729
+Orpí;Orpí;Can Bou;Can Bou;081521;08152;Anoia;6;ANO;Barcelona;08;383775;4598382;1.606864529;41.528655487
+Cabrera d'Anoia;Cabrera d'Anoia;Canaletes;Canaletes;080288;08028;Anoia;6;ANO;Barcelona;08;391786;4592611;1.70390571;41.477803163
+Capellades;Capellades;Capellades;Capellades;080446;08044;Anoia;6;ANO;Barcelona;08;390386;4598557;1.686051806;41.531161614
+Carme;Carme;Carme;Carme;080484;08048;Anoia;6;ANO;Barcelona;08;384887;4598756;1.620114914;41.532178021
+Castellfollit de Riubregós;Castellfollit de Riubregós;Castellfollit de Riubregós;Castellfollit de Riubregós;080608;08060;Anoia;6;ANO;Barcelona;08;370204;4626104;1.438227878;41.776174375
+Castellolí;Castellolí;Castellolí;Castellolí;080636;08063;Anoia;6;ANO;Barcelona;08;391719;4605999;1.700683894;41.598355627
+Copons;Copons;Copons;Copons;080713;08071;Anoia;6;ANO;Barcelona;08;376627;4610546;1.518707744;41.637110846
+Igualada;Igualada;Igualada;Igualada;081022;08102;Anoia;6;ANO;Barcelona;08;384729;4603923;1.617228953;41.578681347
+Jorba;Jorba;Jorba;Jorba;081038;08103;Anoia;6;ANO;Barcelona;08;378954;4606596;1.54743913;41.601899372
+Masquefa;Masquefa;Masquefa;Masquefa;081192;08119;Anoia;6;ANO;Barcelona;08;400767;4595190;1.811022748;41.502195838
+Montmaneu;Montmaneu;Montmaneu;Montmaneu;081332;08133;Anoia;6;ANO;Barcelona;08;367933;4609429;1.414611522;41.625664699
+Piera;Piera;Piera;Piera;081614;08161;Anoia;6;ANO;Barcelona;08;395078;4596987;1.742556235;41.517654018
+Pujalt;Pujalt;Pujalt;Pujalt;081764;08176;Anoia;6;ANO;Barcelona;08;368637;4619577;1.420825073;41.717143845
+Rubió;Rubió;Rubió;Rubió;081859;08185;Anoia;6;ANO;Barcelona;08;380910;4611289;1.569969141;41.644453962
+Sant Martí Sesgueioles;Sant Martí Sesgueioles;Sant Martí Sesgueioles;Sant Martí Sesgueioles;082286;08228;Anoia;6;ANO;Barcelona;08;374221;4617828;1.488299494;41.702305783
+Sant Martí de Tous;Sant Martí de Tous;Sant Martí de Tous;Sant Martí de Tous;082264;08226;Anoia;6;ANO;Barcelona;08;376966;4601962;1.524537048;41.55986864
+Sant Pere Sallavinera;Sant Pere Sallavinera;Sant Pere Sallavinera;Sant Pere Sallavinera;081897;08189;Anoia;6;ANO;Barcelona;08;381529;4621523;1.575371533;41.736691032
+Santa Margarida de Montbui;Santa Margarida de Montbui;Santa Margarida de Montbui;Santa Margarida de Montbui;082508;08250;Anoia;6;ANO;Barcelona;08;383932;4603544;1.607753847;41.575156726
+Santa Maria de Miralles;Santa Maria de Miralles;Santa Maria de Miralles;Santa Maria de Miralles;082573;08257;Anoia;6;ANO;Barcelona;08;376924;4597322;1.524989672;41.518078598
+Vallbona d'Anoia;Vallbona d'Anoia;Vallbona d'Anoia;Vallbona d'Anoia;082922;08292;Anoia;6;ANO;Barcelona;08;392169;4597149;1.70767214;41.518726643
+Veciana;Veciana;Veciana;Veciana;082975;08297;Anoia;6;ANO;Barcelona;08;374140;4612701;1.488401284;41.6561298
+Vilanova del Camí;Vilanova del Camí;Vilanova del Camí;Vilanova del Camí;083020;08302;Anoia;6;ANO;Barcelona;08;386226;4603150;1.635338079;41.571941326
+el Bruc;Bruc, el;el Bruc;Bruc, el;080253;08025;Anoia;6;ANO;Barcelona;08;398632;4603595;1.784022875;41.577620079
+els Hostalets de Pierola;Hostalets de Pierola, els;els Hostalets de Pierola;Hostalets de Pierola, els;081629;08162;Anoia;6;ANO;Barcelona;08;397342;4598854;1.769372473;41.534758625
+els Prats de Rei;Prats de Rei, els;els Prats de Rei;Prats de Rei, els;081705;08170;Anoia;6;ANO;Barcelona;08;378672;4618099;1.541726998;41.7054294
+la Llacuna;Llacuna, la;la Llacuna;Llacuna, la;081043;08104;Anoia;6;ANO;Barcelona;08;377573;4592257;1.533788903;41.472570648
+la Pobla de Claramunt;Pobla de Claramunt, la;la Pobla de Claramunt;Pobla de Claramunt, la;081653;08165;Anoia;6;ANO;Barcelona;08;389485;4601130;1.674780783;41.554204723
+la Torre de Claramunt;Torre de Claramunt, la;la Torre de Claramunt;Torre de Claramunt, la;082861;08286;Anoia;6;ANO;Barcelona;08;388078;4598855;1.658337008;41.533523272
+Òdena;Òdena;Òdena;Òdena;081430;08143;Anoia;6;ANO;Barcelona;08;386875;4606961;1.642396633;41.606349798
+Aguilar de Segarra;Aguilar de Segarra;Aguilar de Segarra;Aguilar de Segarra;080023;08002;Bages;7;BAG;Barcelona;08;386240;4621721;1.631966008;41.739169106
+Artés;Artés;Artés;Artés;080109;08010;Bages;7;BAG;Barcelona;08;413059;4627900;1.953516241;41.798193805
+Avinyó;Avinyó;Avinyó;Avinyó;080121;08012;Bages;7;BAG;Barcelona;08;414625;4635161;1.971318448;41.86375268
+Balsareny;Balsareny;Balsareny;Balsareny;080180;08018;Bages;7;BAG;Barcelona;08;406777;4635188;1.876765648;41.863115459
+Callús;Callús;Callús;Callús;080386;08038;Bages;7;BAG;Barcelona;08;398960;4626207;1.784135265;41.78127786
+Cardona;Cardona;Cardona;Cardona;080478;08047;Bages;7;BAG;Barcelona;08;390625;4640991;1.68113098;41.913296682
+Castellfollit del Boix;Castellfollit del Boix;Castellfollit del Boix;Castellfollit del Boix;080594;08059;Bages;7;BAG;Barcelona;08;390417;4613615;1.683674881;41.666758439
+Castellgalí;Castellgalí;Castellgalí;Castellgalí;080615;08061;Bages;7;BAG;Barcelona;08;403422;4614501;1.839720016;41.676421956
+Castellnou de Bages;Castellnou de Bages;Castellnou de Bages;Castellnou de Bages;080620;08062;Bages;7;BAG;Barcelona;08;403464;4632030;1.837371486;41.834282461
+Fonollosa;Fonollosa;Fonollosa;Fonollosa;080847;08084;Bages;7;BAG;Barcelona;08;389336;4624363;1.668692236;41.76339325
+Gaià;Gaià;Gaià;Gaià;080902;08090;Bages;7;BAG;Barcelona;08;410908;4641063;1.92564494;41.916492689
+Manresa;Manresa;Manresa;Manresa;081136;08113;Bages;7;BAG;Barcelona;08;402434;4619716;1.826997476;41.723263566
+Marganell;Marganell;Marganell;Marganell;082423;08242;Bages;7;BAG;Barcelona;08;399172;4610622;1.789319151;41.640967279
+Monistrol de Montserrat;Monistrol de Montserrat;Monistrol de Montserrat;Monistrol de Montserrat;081271;08127;Bages;7;BAG;Barcelona;08;403554;4607082;1.842495088;41.609623457
+Mura;Mura;Mura;Mura;081398;08139;Bages;7;BAG;Barcelona;08;414814;4616927;1.976205065;41.699572587
+Navarcles;Navarcles;Navarcles;Navarcles;081402;08140;Bages;7;BAG;Barcelona;08;408859;4622780;1.903756546;41.751617501
+Navàs;Navàs;Navàs;Navàs;081419;08141;Bages;7;BAG;Barcelona;08;407009;4639275;1.878918213;41.899946911
+Rajadell;Rajadell;Rajadell;Rajadell;081786;08178;Bages;7;BAG;Barcelona;08;392379;4620391;1.706016465;41.728041209
+Sallent;Sallent;Sallent;Sallent;081918;08191;Bages;7;BAG;Barcelona;08;408360;4630863;1.896504192;41.824352288
+Sant Feliu Sasserra;Sant Feliu Sasserra;Sant Feliu Sasserra;Sant Feliu Sasserra;082129;08212;Bages;7;BAG;Barcelona;08;418969;4644063;2.022428853;41.944377984
+Sant Fruitós de Bages;Sant Fruitós de Bages;Sant Fruitós de Bages;Sant Fruitós de Bages;082135;08213;Bages;7;BAG;Barcelona;08;406359;4622725;1.873697176;41.750831276
+Sant Joan de Vilatorrada;Sant Joan de Vilatorrada;Sant Joan de Vilatorrada;Sant Joan de Vilatorrada;082188;08218;Bages;7;BAG;Barcelona;08;400627;4622208;1.804859378;41.745484839
+Sant Mateu de Bages;Sant Mateu de Bages;Sant Mateu de Bages;Sant Mateu de Bages;082299;08229;Bages;7;BAG;Barcelona;08;394713;4627975;1.732732068;41.79665276
+Sant Salvador de Guardiola;Sant Salvador de Guardiola;Sant Salvador de Guardiola;Sant Salvador de Guardiola;080983;08098;Bages;7;BAG;Barcelona;08;397370;4614921;1.766947392;41.679447474
+Sant Vicenç de Castellet;Sant Vicenç de Castellet;Sant Vicenç de Castellet;Sant Vicenç de Castellet;082628;08262;Bages;7;BAG;Barcelona;08;405418;4613264;1.863882735;41.665517914
+Santpedor;Santpedor;Santpedor;Santpedor;081923;08192;Bages;7;BAG;Barcelona;08;403539;4626342;1.839202199;41.783069923
+Súria;Súria;Súria;Súria;082747;08274;Bages;7;BAG;Barcelona;08;396562;4631789;1.754309091;41.831241212
+Talamanca;Talamanca;Talamanca;Talamanca;082779;08277;Bages;7;BAG;Barcelona;08;414951;4621210;1.977249747;41.738157321
+Castellbell i el Vilar;Castellbell i el Vilar;el Borràs;Borràs, el;080538;08053;Bages;7;BAG;Barcelona;08;405366;4609319;1.863881187;41.629992353
+el Pont de Vilomara i Rocafort;Pont de Vilomara i Rocafort, el;el Pont de Vilomara;Pont de Vilomara, el;081825;08182;Bages;7;BAG;Barcelona;08;406031;4617081;1.870647966;41.699968218
+Alforja;Alforja;Alforja;Alforja;430094;43009;Baix Camp;8;BCA;Tarragona;43;330267;4564086;0.975413192;41.210359353
+Almoster;Almoster;Almoster;Almoster;430115;43011;Baix Camp;8;BCA;Tarragona;43;341822;4562424;1.113597785;41.197744181
+Arbolí;Arbolí;Arbolí;Arbolí;430154;43015;Baix Camp;8;BCA;Tarragona;43;328113;4567689;0.948724552;41.242347149
+Botarell;Botarell;Botarell;Botarell;430332;43033;Baix Camp;8;BCA;Tarragona;43;331217;4555809;0.989014862;41.136051566
+Cambrils;Cambrils;Cambrils;Cambrils;430385;43038;Baix Camp;8;BCA;Tarragona;43;336324;4548837;1.051688034;41.07432746
+Capafonts;Capafonts;Capafonts;Capafonts;430398;43039;Baix Camp;8;BCA;Tarragona;43;334850;4573379;1.027527497;41.294971502
+Castellvell del Camp;Castellvell del Camp;Castellvell del Camp;Castellvell del Camp;430424;43042;Baix Camp;8;BCA;Tarragona;43;340329;4560617;1.096268921;41.18117702
+Colldejou;Colldejou;Colldejou;Colldejou;430458;43045;Baix Camp;8;BCA;Tarragona;43;322599;4551953;0.887520569;41.099503992
+Duesaigües;Duesaigües;Duesaigües;Duesaigües;430537;43053;Baix Camp;8;BCA;Tarragona;43;326357;4557041;0.930800358;41.146113085
+Maspujols;Maspujols;Maspujols;Maspujols;430810;43081;Baix Camp;8;BCA;Tarragona;43;336098;4560779;1.045809407;41.181793315
+Mont-roig del Camp;Mont-roig del Camp;Mont-roig del Camp;Mont-roig del Camp;430923;43092;Baix Camp;8;BCA;Tarragona;43;328470;4550563;0.957769917;41.088250856
+Montbrió del Camp;Montbrió del Camp;Montbrió del Camp;Montbrió del Camp;430884;43088;Baix Camp;8;BCA;Tarragona;43;332395;4554079;1.003519447;41.120723511
+Prades;Prades;Prades;Prades;431166;43116;Baix Camp;8;BCA;Tarragona;43;331571;4575082;0.98792525;41.309621739
+Pratdip;Pratdip;Pratdip;Pratdip;431188;43118;Baix Camp;8;BCA;Tarragona;43;321075;4546582;0.870944606;41.050818679
+Reus;Reus;Reus;Reus;431233;43123;Baix Camp;8;BCA;Tarragona;43;341314;4557699;1.108762995;41.155105448
+Riudecanyes;Riudecanyes;Riudecanyes;Riudecanyes;431270;43127;Baix Camp;8;BCA;Tarragona;43;328823;4555211;0.960676325;41.130167103
+Riudecols;Riudecols;Riudecols;Riudecols;431286;43128;Baix Camp;8;BCA;Tarragona;43;330212;4559439;0.976047452;41.168514993
+Riudoms;Riudoms;Riudoms;Riudoms;431299;43129;Baix Camp;8;BCA;Tarragona;43;336470;4556005;1.051519302;41.138891579
+Vandellòs i l'Hospitalet de l'Infant;Vandellòs i l'Hospitalet de l'Infant;Vandellòs;Vandellòs;431628;43162;Baix Camp;8;BCA;Tarragona;43;317656;4543231;0.831280095;41.019893933
+Vilanova d'Escornalbou;Vilanova d'Escornalbou;Vilanova d'Escornalbou;Vilanova d'Escornalbou;431671;43167;Baix Camp;8;BCA;Tarragona;43;326758;4553339;0.936626812;41.112872102
+Vilaplana;Vilaplana;Vilaplana;Vilaplana;431690;43169;Baix Camp;8;BCA;Tarragona;43;335156;4565995;1.033187166;41.228561921
+Vinyols i els Arcs;Vinyols i els Arcs;Vinyols;Vinyols;431785;43178;Baix Camp;8;BCA;Tarragona;43;335396;4553239;1.03947161;41.113771387
+l'Albiol;Albiol, l';l'Albiol;Albiol, l';430038;43003;Baix Camp;8;BCA;Tarragona;43;339902;4568498;1.089126795;41.252050566
+l'Aleixar;Aleixar, l';l'Aleixar;Aleixar, l';430075;43007;Baix Camp;8;BCA;Tarragona;43;336179;4562981;1.046193119;41.201631882
+l'Argentera;Argentera, l';l'Argentera;Argentera, l';430173;43017;Baix Camp;8;BCA;Tarragona;43;324528;4556128;0.909283103;41.137500707
+la Febró;Febró, la;la Febró;Febró, la;430574;43057;Baix Camp;8;BCA;Tarragona;43;332832;4571461;1.00397576;41.277287704
+la Selva del Camp;Selva del Camp, la;la Selva del Camp;Selva del Camp, la;431457;43145;Baix Camp;8;BCA;Tarragona;43;343833;4564336;1.137083404;41.215348961
+les Borges del Camp;Borges del Camp, les;les Borges del Camp;Borges del Camp, les;430311;43031;Baix Camp;8;BCA;Tarragona;43;333855;4559744;1.019367456;41.172018076
+Aldover;Aldover;Aldover;Aldover;430069;43006;Baix Ebre;9;BEB;Tarragona;43;289360;4528434;0.500058469;40.879900446
+Alfara de Carles;Alfara de Carles;Alfara de Carles;Alfara de Carles;430081;43008;Baix Ebre;9;BEB;Tarragona;43;280955;4527950;0.40056526;40.873344865
+Benifallet;Benifallet;Benifallet;Benifallet;430252;43025;Baix Ebre;9;BEB;Tarragona;43;291152;4538827;0.517808189;40.973902617
+Camarles;Camarles;Camarles;Camarles;439039;43903;Baix Ebre;9;BEB;Tarragona;43;303334;4516076;0.669673104;40.772140684
+Deltebre;Deltebre;Deltebre;Deltebre;439018;43901;Baix Ebre;9;BEB;Tarragona;43;308715;4509945;0.735259155;40.718221516
+Paüls;Paüls;Paüls;Paüls;431021;43102;Baix Ebre;9;BEB;Tarragona;43;281100;4533401;0.400361806;40.922439616
+Roquetes;Roquetes;Roquetes;Roquetes;431331;43133;Baix Ebre;9;BEB;Tarragona;43;289419;4521820;0.50298736;40.820392819
+Tivenys;Tivenys;Tivenys;Tivenys;431495;43149;Baix Ebre;9;BEB;Tarragona;43;290491;4531450;0.5124489;40.907334245
+Tortosa;Tortosa;Tortosa;Tortosa;431554;43155;Baix Ebre;9;BEB;Tarragona;43;290878;4520736;0.52064304;40.811008121
+Xerta;Xerta;Xerta;Xerta;430521;43052;Baix Ebre;9;BEB;Tarragona;43;288648;4531402;0.490609099;40.906435212
+el Perelló;Perelló, el;el Perelló;Perelló, el;431042;43104;Baix Ebre;9;BEB;Tarragona;43;307238;4527453;0.712376156;40.875480149
+l'Aldea;Aldea, l';l'Aldea;Aldea, l';439044;43904;Baix Ebre;9;BEB;Tarragona;43;299267;4513421;0.622370716;40.74726814
+l'Ametlla de Mar;Ametlla de Mar, l';l'Ametlla de Mar;Ametlla de Mar, l';430136;43013;Baix Ebre;9;BEB;Tarragona;43;314913;4528199;0.803165906;40.883957867
+l'Ampolla;Ampolla, l';l'Ampolla;Ampolla, l';439060;43906;Baix Ebre;9;BEB;Tarragona;43;306866;4520439;0.710140873;40.812251258
+Albons;Albons;Albons;Albons;170046;17004;Baix Empordà;10;BEM;Girona;17;507052;4661371;3.085288573;42.104398466
+Begur;Begur;Begur;Begur;170139;17013;Baix Empordà;10;BEM;Girona;17;517162;4644727;3.20707327;41.95433767
+Bellcaire d'Empordà;Bellcaire d'Empordà;Bellcaire d'Empordà;Bellcaire d'Empordà;170182;17018;Baix Empordà;10;BEM;Girona;17;507797;4658747;3.094270988;42.080760047
+Calonge i Sant Antoni;Calonge i Sant Antoni;Calonge;Calonge;170340;17034;Baix Empordà;10;BEM;Girona;17;506113;4634531;3.073651618;41.862664893
+Colomers;Colomers;Colomers;Colomers;170558;17055;Baix Empordà;10;BEM;Girona;17;498974;4659122;2.987594776;42.084172067
+Corçà;Corçà;Corçà;Corçà;170577;17057;Baix Empordà;10;BEM;Girona;17;501477;4648601;3.017835075;41.989412478
+Foixà;Foixà;Foixà;Foixà;170681;17068;Baix Empordà;10;BEM;Girona;17;499714;4654180;2.99654599;42.039661297
+Fontanilles;Fontanilles;Fontanilles;Fontanilles;170708;17070;Baix Empordà;10;BEM;Girona;17;508868;4650886;3.107097027;42.009947571
+Garrigoles;Garrigoles;Garrigoles;Garrigoles;170767;17076;Baix Empordà;10;BEM;Girona;17;502552;4661721;3.030872627;42.10757438
+Gualta;Gualta;Gualta;Gualta;170813;17081;Baix Empordà;10;BEM;Girona;17;508572;4652946;3.103551845;42.028501161
+Jafre;Jafre;Jafre;Jafre;170852;17085;Baix Empordà;10;BEM;Girona;17;500878;4657768;3.010617083;42.071975709
+Mont-ras;Mont-ras;Mont-ras;Mont-ras;171100;17110;Baix Empordà;10;BEM;Girona;17;511879;4639700;3.143230296;41.909153801
+Palafrugell;Palafrugell;Palafrugell;Palafrugell;171175;17117;Baix Empordà;10;BEM;Girona;17;513603;4640334;3.164038525;41.914840479
+Palamós;Palamós;Palamós;Palamós;171181;17118;Baix Empordà;10;BEM;Girona;17;510740;4632774;3.12937825;41.846787721
+Palau-sator;Palau-sator;Palau-sator;Palau-sator;171215;17121;Baix Empordà;10;BEM;Girona;17;509154;4648602;3.110515817;41.989367485
+Pals;Pals;Pals;Pals;171241;17124;Baix Empordà;10;BEM;Girona;17;512009;4646566;3.144940997;41.970992576
+Parlavà;Parlavà;Parlavà;Parlavà;171267;17126;Baix Empordà;10;BEM;Girona;17;502478;4652235;3.029928439;42.022144519
+Castell d'Aro, Platja d'Aro i s'Agaró;Castell d'Aro, Platja d'Aro i s'Agaró;Platja d'Aro;Platja d'Aro;170486;17048;Baix Empordà;10;BEM;Girona;17;505682;4629512;3.068417874;41.817467718
+Regencós;Regencós;Regencós;Regencós;171447;17144;Baix Empordà;10;BEM;Girona;17;514080;4644510;3.169889969;41.952445867
+Rupià;Rupià;Rupià;Rupià;171539;17153;Baix Empordà;10;BEM;Girona;17;500899;4652043;3.010858704;42.020417429
+Sant Feliu de Guíxols;Sant Feliu de Guíxols;Sant Feliu de Guíxols;Sant Feliu de Guíxols;171609;17160;Baix Empordà;10;BEM;Girona;17;502377;4625394;3.028607211;41.780385574
+Cruïlles, Monells i Sant Sadurní de l'Heura;Cruïlles, Monells i Sant Sadurní de l'Heura;Sant Sadurní de l'Heura;Sant Sadurní de l'Heura;179011;17901;Baix Empordà;10;BEM;Girona;17;499238;4644950;2.990801454;41.956528472
+Santa Cristina d'Aro;Santa Cristina d'Aro;Santa Cristina d'Aro;Santa Cristina d'Aro;171812;17181;Baix Empordà;10;BEM;Girona;17;499697;4628979;2.996348425;41.812686155
+Serra de Daró;Serra de Daró;Serra de Daró;Serra de Daró;171910;17191;Baix Empordà;10;BEM;Girona;17;505966;4652925;3.072067372;42.028334036
+Torrent;Torrent;Torrent;Torrent;171978;17197;Baix Empordà;10;BEM;Girona;17;510583;4644456;3.127693016;41.952010867
+Torroella de Montgrí;Torroella de Montgrí;Torroella de Montgrí;Torroella de Montgrí;171997;17199;Baix Empordà;10;BEM;Girona;17;510437;4654344;3.126102808;42.041070572
+Ullastret;Ullastret;Ullastret;Ullastret;172057;17205;Baix Empordà;10;BEM;Girona;17;505677;4649827;3.068546281;42.000437333
+Ullà;Ullà;Ullà;Ullà;172044;17204;Baix Empordà;10;BEM;Girona;17;508911;4655411;3.107679315;42.050701669
+Ultramort;Ultramort;Ultramort;Ultramort;172039;17203;Baix Empordà;10;BEM;Girona;17;502854;4653849;3.034477932;42.036678819
+Vall-llobrega;Vall-llobrega;Vall-llobrega;Vall-llobrega;172095;17209;Baix Empordà;10;BEM;Girona;17;510490;4636370;3.126424039;41.879186006
+Verges;Verges;Verges;Verges;172116;17211;Baix Empordà;10;BEM;Girona;17;503854;4656484;3.046577287;42.060403222
+Vilopriu;Vilopriu;Vilopriu;Vilopriu;172327;17232;Baix Empordà;10;BEM;Girona;17;499339;4661345;2.992002681;42.10419864
+Forallac;Forallac;Vulpellac;Vulpellac;179026;17902;Baix Empordà;10;BEM;Girona;17;504496;4645348;3.054249433;41.960101197
+la Bisbal d'Empordà;Bisbal d'Empordà, la;la Bisbal d'Empordà;Bisbal d'Empordà, la;170221;17022;Baix Empordà;10;BEM;Girona;17;503195;4645302;3.038550275;41.959696779
+la Pera;Pera, la;la Pera;Pera, la;171306;17130;Baix Empordà;10;BEM;Girona;17;497791;4652043;2.973314569;42.020412576
+la Tallada d'Empordà;Tallada d'Empordà, la;la Tallada d'Empordà;Tallada d'Empordà, la;171959;17195;Baix Empordà;10;BEM;Girona;17;504568;4658728;3.055231691;42.080607484
+Abrera;Abrera;Abrera;Abrera;080018;08001;Baix Llobregat;11;BLL;Barcelona;08;408430;4596641;1.902601581;41.516171187
+Begues;Begues;Begues;Begues;080207;08020;Baix Llobregat;11;BLL;Barcelona;08;409774;4576249;1.921745361;41.332672967
+Castelldefels;Castelldefels;Castelldefels;Castelldefels;080569;08056;Baix Llobregat;11;BLL;Barcelona;08;414330;4570397;1.97701006;41.280472128
+Castellví de Rosanes;Castellví de Rosanes;Castellví de Rosanes;Castellví de Rosanes;080667;08066;Baix Llobregat;11;BLL;Barcelona;08;408142;4589162;1.900291407;41.448785329
+Cervelló;Cervelló;Cervelló;Cervelló;080689;08068;Baix Llobregat;11;BLL;Barcelona;08;412985;4583253;1.959104276;41.396106981
+Collbató;Collbató;Collbató;Collbató;080692;08069;Baix Llobregat;11;BLL;Barcelona;08;402301;4602730;1.828167856;41.570286602
+Corbera de Llobregat;Corbera de Llobregat;Corbera de Llobregat;Corbera de Llobregat;080728;08072;Baix Llobregat;11;BLL;Barcelona;08;410000;4585698;1.923042237;41.417798556
+Cornellà de Llobregat;Cornellà de Llobregat;Cornellà de Llobregat;Cornellà de Llobregat;080734;08073;Baix Llobregat;11;BLL;Barcelona;08;422252;4578666;2.070534547;41.35574736
+Esparreguera;Esparreguera;Esparreguera;Esparreguera;080765;08076;Baix Llobregat;11;BLL;Barcelona;08;405777;4599212;1.870411656;41.539014376
+Esplugues de Llobregat;Esplugues de Llobregat;Esplugues de Llobregat;Esplugues de Llobregat;080771;08077;Baix Llobregat;11;BLL;Barcelona;08;423739;4581068;2.088004774;41.377521662
+Gavà;Gavà;Gavà;Gavà;080898;08089;Baix Llobregat;11;BLL;Barcelona;08;416564;4572890;2.003335671;41.303157849
+Martorell;Martorell;Martorell;Martorell;081141;08114;Baix Llobregat;11;BLL;Barcelona;08;410711;4591976;1.930625438;41.474420038
+Molins de Rei;Molins de Rei;Molins de Rei;Molins de Rei;081234;08123;Baix Llobregat;11;BLL;Barcelona;08;417755;4585173;2.015893753;41.413902117
+Olesa de Montserrat;Olesa de Montserrat;Olesa de Montserrat;Olesa de Montserrat;081477;08147;Baix Llobregat;11;BLL;Barcelona;08;407679;4599917;1.89309544;41.545592769
+Pallejà;Pallejà;Pallejà;Pallejà;081574;08157;Baix Llobregat;11;BLL;Barcelona;08;416153;4586027;1.996614979;41.421430638
+Sant Andreu de la Barca;Sant Andreu de la Barca;Sant Andreu de la Barca;Sant Andreu de la Barca;081960;08196;Baix Llobregat;11;BLL;Barcelona;08;414427;4588866;1.975556653;41.446815709
+Sant Boi de Llobregat;Sant Boi de Llobregat;Sant Boi de Llobregat;Sant Boi de Llobregat;082009;08200;Baix Llobregat;11;BLL;Barcelona;08;420123;4577694;2.045210922;41.346777716
+Sant Climent de Llobregat;Sant Climent de Llobregat;Sant Climent de Llobregat;Sant Climent de Llobregat;082042;08204;Baix Llobregat;11;BLL;Barcelona;08;415997;4576729;1.996035705;41.337674597
+Sant Esteve Sesrovires;Sant Esteve Sesrovires;Sant Esteve Sesrovires;Sant Esteve Sesrovires;082080;08208;Baix Llobregat;11;BLL;Barcelona;08;405998;4594148;1.873842327;41.493443519
+Sant Feliu de Llobregat;Sant Feliu de Llobregat;Sant Feliu de Llobregat;Sant Feliu de Llobregat;082114;08211;Baix Llobregat;11;BLL;Barcelona;08;420193;4581481;2.045552047;41.380899883
+Sant Joan Despí;Sant Joan Despí;Sant Joan Despí;Sant Joan Despí;082172;08217;Baix Llobregat;11;BLL;Barcelona;08;421053;4579932;2.056040487;41.367027289
+Sant Just Desvern;Sant Just Desvern;Sant Just Desvern;Sant Just Desvern;082212;08221;Baix Llobregat;11;BLL;Barcelona;08;422725;4582019;2.075766405;41.385986023
+Sant Vicenç dels Horts;Sant Vicenç dels Horts;Sant Vicenç dels Horts;Sant Vicenç dels Horts;082634;08263;Baix Llobregat;11;BLL;Barcelona;08;417235;4582902;2.009983041;41.393392099
+Santa Coloma de Cervelló;Santa Coloma de Cervelló;Santa Coloma de Cervelló;Santa Coloma de Cervelló;082444;08244;Baix Llobregat;11;BLL;Barcelona;08;417688;4580011;2.015794152;41.367404235
+Torrelles de Llobregat;Torrelles de Llobregat;Torrelles de Llobregat;Torrelles de Llobregat;082896;08289;Baix Llobregat;11;BLL;Barcelona;08;414780;4579105;1.98115644;41.358939008
+Vallirana;Vallirana;Vallirana;Vallirana;082956;08295;Baix Llobregat;11;BLL;Barcelona;08;410698;4582381;1.931888806;41.388007148
+Viladecans;Viladecans;Viladecans;Viladecans;083015;08301;Baix Llobregat;11;BLL;Barcelona;08;418008;4574276;2.020400769;41.315789985
+el Papiol;Papiol, el;el Papiol;Papiol, el;081580;08158;Baix Llobregat;11;BLL;Barcelona;08;417346;4587964;2.010620353;41.438998974
+el Prat de Llobregat;Prat de Llobregat, el;el Prat de Llobregat;Prat de Llobregat, el;081691;08169;Baix Llobregat;11;BLL;Barcelona;08;424110;4575845;2.093103274;41.330512976
+la Palma de Cervelló;Palma de Cervelló, la;la Palma de Cervelló;Palma de Cervelló, la;089058;08905;Baix Llobregat;11;BLL;Barcelona;08;413927;4584995;1.970123793;41.411896311
+Albinyana;Albinyana;Albinyana;Albinyana;430022;43002;Baix Penedès;12;BPE;Tarragona;43;373173;4567142;1.486364127;41.245744816
+Banyeres del Penedès;Banyeres del Penedès;Banyeres del Penedès;Banyeres del Penedès;430206;43020;Baix Penedès;12;BPE;Tarragona;43;381160;4570757;1.580949266;41.279506926
+Bellvei;Bellvei;Bellvei;Bellvei;430249;43024;Baix Penedès;12;BPE;Tarragona;43;380725;4566521;1.576592377;41.241297131
+Bonastre;Bonastre;Bonastre;Bonastre;430304;43030;Baix Penedès;12;BPE;Tarragona;43;369230;4564443;1.439895627;41.220809713
+Calafell;Calafell;Calafell;Calafell;430379;43037;Baix Penedès;12;BPE;Tarragona;43;379986;4562076;1.568641739;41.201158521
+Cunit;Cunit;Cunit;Cunit;430516;43051;Baix Penedès;12;BPE;Tarragona;43;385500;4561686;1.634466186;41.198446298
+Llorenç del Penedès;Llorenç del Penedès;Llorenç del Penedès;Llorenç del Penedès;430748;43074;Baix Penedès;12;BPE;Tarragona;43;378837;4571174;1.553134736;41.282917917
+Masllorenç;Masllorenç;Masllorenç;Masllorenç;430799;43079;Baix Penedès;12;BPE;Tarragona;43;367193;4569862;1.414427941;41.26927629
+Sant Jaume dels Domenys;Sant Jaume dels Domenys;Sant Jaume dels Domenys;Sant Jaume dels Domenys;431378;43137;Baix Penedès;12;BPE;Tarragona;43;379352;4572982;1.558929195;41.299280779
+Santa Oliva;Santa Oliva;Santa Oliva;Santa Oliva;431401;43140;Baix Penedès;12;BPE;Tarragona;43;378577;4567869;1.55069958;41.253117965
+el Vendrell;Vendrell, el;el Vendrell;Vendrell, el;431634;43163;Baix Penedès;12;BPE;Tarragona;43;377195;4564238;1.534929051;41.220214079
+l'Arboç;Arboç, l';l'Arboç;Arboç, l';430167;43016;Baix Penedès;12;BPE;Tarragona;43;383029;4569408;1.60352186;41.267638021
+la Bisbal del Penedès;Bisbal del Penedès, la;la Bisbal del Penedès;Bisbal del Penedès, la;430287;43028;Baix Penedès;12;BPE;Tarragona;43;373366;4571043;1.487856184;41.280897407
+el Montmell;Montmell, el;la Joncosa del Montmell;Joncosa del Montmell, la;430901;43090;Baix Penedès;12;BPE;Tarragona;43;370471;4574861;1.452484559;41.314821351
+Badalona;Badalona;Badalona;Badalona;080155;08015;Barcelonès;13;BAR;Barcelona;08;437012;4589239;2.24587666;41.452263347
+Barcelona;Barcelona;Barcelona;Barcelona;080193;08019;Barcelonès;13;BAR;Barcelona;08;431189;4581571;2.177032927;41.382721274
+Sant Adrià de Besòs;Sant Adrià de Besòs;Sant Adrià de Besòs;Sant Adrià de Besòs;081944;08194;Barcelonès;13;BAR;Barcelona;08;434677;4586853;2.218173528;41.430585474
+Santa Coloma de Gramenet;Santa Coloma de Gramenet;Santa Coloma de Gramenet;Santa Coloma de Gramenet;082457;08245;Barcelonès;13;BAR;Barcelona;08;433860;4589214;2.208136156;41.451785997
+l'Hospitalet de Llobregat;Hospitalet de Llobregat, l';l'Hospitalet de Llobregat;Hospitalet de Llobregat, l';081017;08101;Barcelonès;13;BAR;Barcelona;08;424698;4579079;2.099725367;41.359698457
+Avià;Avià;Avià;Avià;080116;08011;Berguedà;14;BER;Barcelona;08;402858;4659072;1.825611891;42.077717227
+Bagà;Bagà;Bagà;Bagà;080168;08016;Berguedà;14;BER;Barcelona;08;406121;4678474;1.861926322;42.252815584
+Berga;Berga;Berga;Berga;080229;08022;Berguedà;14;BER;Barcelona;08;404602;4662008;1.846218116;42.104364549
+Borredà;Borredà;Borredà;Borredà;080240;08024;Berguedà;14;BER;Barcelona;08;416874;4665318;1.994139922;42.135571492
+Capolat;Capolat;Capolat;Capolat;080459;08045;Berguedà;14;BER;Barcelona;08;396859;4659186;1.753092189;42.077971692
+Casserres;Casserres;Casserres;Casserres;080497;08049;Berguedà;14;BER;Barcelona;08;404093;4651948;1.841712148;42.013712419
+Castell de l'Areny;Castell de l'Areny;Castell de l'Areny;Castell de l'Areny;080575;08057;Berguedà;14;BER;Barcelona;08;412896;4669544;1.945378653;42.173187337
+Castellar de n'Hug;Castellar de n'Hug;Castellar de n'Hug;Castellar de n'Hug;080522;08052;Berguedà;14;BER;Barcelona;08;418967;4681652;2.017188951;42.282879171
+Cercs;Cercs;Cercs;Cercs;082687;08268;Berguedà;14;BER;Barcelona;08;405865;4666613;1.86074923;42.14598452
+Fígols;Fígols;Fígols;Fígols;080804;08080;Berguedà;14;BER;Barcelona;08;403885;4670517;1.83614198;42.180896536
+Gironella;Gironella;Gironella;Gironella;080924;08092;Berguedà;14;BER;Barcelona;08;407527;4654106;1.882829957;42.033555921
+Gisclareny;Gisclareny;Gisclareny;Gisclareny;080930;08093;Berguedà;14;BER;Barcelona;08;399912;4678238;1.786712961;42.249921453
+Guardiola de Berguedà;Guardiola de Berguedà;Guardiola de Berguedà;Guardiola de Berguedà;080996;08099;Berguedà;14;BER;Barcelona;08;407516;4676308;1.87918005;42.233477173
+Gósol;Gósol;Gósol;Gósol;251001;25100;Berguedà;14;BER;Lleida;25;389453;4676955;1.660203284;42.236956905
+Castellar del Riu;Castellar del Riu;Llinars;Llinars;080500;08050;Berguedà;14;BER;Barcelona;08;393260;4665133;1.708496492;42.131042174
+Montclar;Montclar;Montclar;Montclar;081304;08130;Berguedà;14;BER;Barcelona;08;397785;4652532;1.765440317;42.018181796
+Montmajor;Montmajor;Montmajor;Montmajor;081326;08132;Berguedà;14;BER;Barcelona;08;395275;4652509;1.735139512;42.01764703
+Olvan;Olvan;Olvan;Olvan;081445;08144;Berguedà;14;BER;Barcelona;08;409394;4656694;1.904980123;42.057078027
+Puig-reig;Puig-reig;Puig-reig;Puig-reig;081751;08175;Berguedà;14;BER;Barcelona;08;407111;4647579;1.878837767;41.97473919
+Sagàs;Sagàs;Sagàs;Sagàs;081884;08188;Berguedà;14;BER;Barcelona;08;414188;4656062;1.963008757;42.051926639
+Saldes;Saldes;Saldes;Saldes;081901;08190;Berguedà;14;BER;Barcelona;08;395643;4675939;1.735385192;42.228659051
+Sant Jaume de Frontanyà;Sant Jaume de Frontanyà;Sant Jaume de Frontanyà;Sant Jaume de Frontanyà;082166;08216;Berguedà;14;BER;Barcelona;08;419390;4671032;2.023790016;42.187286788
+Sant Julià de Cerdanyola;Sant Julià de Cerdanyola;Sant Julià de Cerdanyola;Sant Julià de Cerdanyola;089030;08903;Berguedà;14;BER;Barcelona;08;408629;4675204;1.892847282;42.223669397
+Santa Maria de Merlès;Santa Maria de Merlès;Santa Maria de Merlès;Santa Maria de Merlès;082554;08255;Berguedà;14;BER;Barcelona;08;415364;4650394;1.978037719;42.001015664
+Viver i Serrateix;Viver i Serrateix;Serrateix;Serrateix;083089;08308;Berguedà;14;BER;Barcelona;08;398570;4644513;1.776308276;41.946069938
+Vallcebre;Vallcebre;Vallcebre;Vallcebre;082938;08293;Berguedà;14;BER;Barcelona;08;402440;4673096;1.818215102;42.203939012
+Vilada;Vilada;Vilada;Vilada;082994;08299;Berguedà;14;BER;Barcelona;08;411702;4665552;1.931538128;42.137110878
+l'Espunyola;Espunyola, l';l'Espunyola;Espunyola, l';080787;08078;Berguedà;14;BER;Barcelona;08;398211;4656407;1.769906795;42.053126604
+la Nou de Berguedà;Nou de Berguedà, la;la Nou de Berguedà;Nou de Berguedà, la;081424;08142;Berguedà;14;BER;Barcelona;08;407887;4668782;1.8848739;42.165760595
+la Pobla de Lillet;Pobla de Lillet, la;la Pobla de Lillet;Pobla de Lillet, la;081666;08166;Berguedà;14;BER;Barcelona;08;415368;4677394;1.974161588;42.244149203
+la Quar;Quar, la;la Quar;Quar, la;081770;08177;Berguedà;14;BER;Barcelona;08;414115;4659293;1.9616501;42.081016129
+Isòvol;Isòvol;All;All;170849;17084;Cerdanya;15;CER;Girona;17;404314;4694577;1.837361267;42.397592638
+Alp;Alp;Alp;Alp;170062;17006;Cerdanya;15;CER;Girona;17;408230;4691744;1.885389092;42.372563455
+Bellver de Cerdanya;Bellver de Cerdanya;Bellver de Cerdanya;Bellver de Cerdanya;250518;25051;Cerdanya;15;CER;Lleida;25;399085;4691658;1.774353422;42.370654322
+Bolvir;Bolvir;Bolvir;Bolvir;170242;17024;Cerdanya;15;CER;Girona;17;407844;4696776;1.879890862;42.417820459
+Das;Das;Das;Das;170617;17061;Cerdanya;15;CER;Girona;17;406957;4690487;1.87012501;42.361092322
+Ger;Ger;Ger;Ger;170789;17078;Cerdanya;15;CER;Girona;17;404898;4696032;1.844213611;42.410765913
+Guils de Cerdanya;Guils de Cerdanya;Guils de Cerdanya;Guils de Cerdanya;170828;17082;Cerdanya;15;CER;Girona;17;407849;4700187;1.879405829;42.448537568
+Lles de Cerdanya;Lles de Cerdanya;Lles de Cerdanya;Lles de Cerdanya;251272;25127;Cerdanya;15;CER;Lleida;25;391972;4693951;1.687552467;42.390336932
+Llívia;Llívia;Llívia;Llívia;170947;17094;Cerdanya;15;CER;Girona;17;416213;4701852;1.980855351;42.464474834
+Montellà i Martinet;Montellà i Martinet;Martinet;Martinet;251399;25139;Cerdanya;15;CER;Lleida;25;392536;4690569;1.695029157;42.359970024
+Meranges;Meranges;Meranges;Meranges;170998;17099;Cerdanya;15;CER;Girona;17;400236;4700030;1.786868672;42.446184506
+Prats i Sansor;Prats i Sansor;Prats;Prats;251752;25175;Cerdanya;15;CER;Lleida;25;404228;4690956;1.836920976;42.364982422
+Prullans;Prullans;Prullans;Prullans;251790;25179;Cerdanya;15;CER;Lleida;25;396003;4692616;1.736748641;42.378872918
+Puigcerdà;Puigcerdà;Puigcerdà;Puigcerdà;171411;17141;Cerdanya;15;CER;Girona;17;411752;4698215;1.927164705;42.431238762
+Riu de Cerdanya;Riu de Cerdanya;Riu de Cerdanya;Riu de Cerdanya;259139;25913;Cerdanya;15;CER;Lleida;25;403301;4688774;1.826031082;42.345220809
+Urús;Urús;Urús;Urús;172060;17206;Cerdanya;15;CER;Girona;17;405614;4689281;1.854020737;42.35006996
+Fontanals de Cerdanya;Fontanals de Cerdanya;el Vilar d'Urtx;Vilar d'Urtx, el;170694;17069;Cerdanya;15;CER;Girona;17;409400;4693103;1.89937373;42.384929148
+Barberà de la Conca;Barberà de la Conca;Barberà de la Conca;Barberà de la Conca;430213;43021;Conca de Barberà;16;CBA;Tarragona;43;351926;4585889;1.228323935;41.41091586
+Blancafort;Blancafort;Blancafort;Blancafort;430290;43029;Conca de Barberà;16;CBA;Tarragona;43;346216;4589001;1.15925662;41.43785849
+Conesa;Conesa;Conesa;Conesa;430461;43046;Conca de Barberà;16;CBA;Tarragona;43;357418;4597737;1.291207359;41.518582513
+Forès;Forès;Forès;Forès;430614;43061;Conca de Barberà;16;CBA;Tarragona;43;352932;4595148;1.238109362;41.494461259
+Llorac;Llorac;Llorac;Llorac;430733;43073;Conca de Barberà;16;CBA;Tarragona;43;358861;4601927;1.307518497;41.556560783
+Montblanc;Montblanc;Montblanc;Montblanc;430862;43086;Conca de Barberà;16;CBA;Tarragona;43;346259;4582191;1.161499167;41.376562118
+Passanant i Belltall;Passanant i Belltall;Passanant;Passanant;431016;43101;Conca de Barberà;16;CBA;Tarragona;43;349586;4599355;1.196981826;41.53171585
+Pira;Pira;Pira;Pira;431074;43107;Conca de Barberà;16;CBA;Tarragona;43;349751;4587381;1.201947066;41.423950881
+Pontils;Pontils;Pontils;Pontils;431418;43141;Conca de Barberà;16;CBA;Tarragona;43;365393;4592995;1.387808724;41.477266123
+Rocafort de Queralt;Rocafort de Queralt;Rocafort de Queralt;Rocafort de Queralt;431303;43130;Conca de Barberà;16;CBA;Tarragona;43;356518;4593251;1.281495138;41.47803104
+Santa Coloma de Queralt;Santa Coloma de Queralt;Santa Coloma de Queralt;Santa Coloma de Queralt;431397;43139;Conca de Barberà;16;CBA;Tarragona;43;365180;4599125;1.3838885;41.532422455
+Sarral;Sarral;Sarral;Sarral;431423;43142;Conca de Barberà;16;CBA;Tarragona;43;353694;4589594;1.248578906;41.444602759
+Savallà del Comtat;Savallà del Comtat;Savallà del Comtat;Savallà del Comtat;431439;43143;Conca de Barberà;16;CBA;Tarragona;43;358116;4600448;1.298932311;41.543117005
+Senan;Senan;Senan;Senan;431460;43146;Conca de Barberà;16;CBA;Tarragona;43;340377;4592692;1.088425982;41.469950528
+Solivella;Solivella;Solivella;Solivella;431476;43147;Conca de Barberà;16;CBA;Tarragona;43;347792;4590983;1.177610507;41.456004221
+Vallclara;Vallclara;Vallclara;Vallclara;431589;43158;Conca de Barberà;16;CBA;Tarragona;43;331271;4582614;0.982252141;41.377367144
+Vallfogona de Riucorb;Vallfogona de Riucorb;Vallfogona de Riucorb;Vallfogona de Riucorb;431592;43159;Conca de Barberà;16;CBA;Tarragona;43;352909;4602752;1.23596702;41.562917055
+Vilanova de Prades;Vilanova de Prades;Vilanova de Prades;Vilanova de Prades;431687;43168;Conca de Barberà;16;CBA;Tarragona;43;328954;4579411;0.955454027;41.348046341
+Vilaverd;Vilaverd;Vilaverd;Vilaverd;431726;43172;Conca de Barberà;16;CBA;Tarragona;43;347486;4577465;1.177348059;41.334248253
+Vimbodí i Poblet;Vimbodí i Poblet;Vimbodí;Vimbodí;431763;43176;Conca de Barberà;16;CBA;Tarragona;43;337074;4585011;1.050959245;41.400141944
+l'Espluga de Francolí;Espluga de Francolí, l';l'Espluga de Francolí;Espluga de Francolí, l';430542;43054;Conca de Barberà;16;CBA;Tarragona;43;341537;4584523;1.1044433;41.396638934
+les Piles de Gaià;Piles de Gaià, les;les Piles de Gaià;Piles de Gaià, les;431055;43105;Conca de Barberà;16;CBA;Tarragona;43;361620;4596020;1.34195029;41.503865266
+Canyelles;Canyelles;Canyelles;Canyelles;080431;08043;Garraf;17;GAF;Barcelona;08;392998;4571312;1.722171016;41.28615903
+Cubelles;Cubelles;Cubelles;Cubelles;080749;08074;Garraf;17;GAF;Barcelona;08;388695;4562732;1.672372818;41.208312846
+Olivella;Olivella;Olivella;Olivella;081483;08148;Garraf;17;GAF;Barcelona;08;400472;4573897;1.81099001;41.310398987
+Sant Pere de Ribes;Sant Pere de Ribes;Sant Pere de Ribes;Sant Pere de Ribes;082310;08231;Garraf;17;GAF;Barcelona;08;397140;4568599;1.772090811;41.262268381
+Sitges;Sitges;Sitges;Sitges;082704;08270;Garraf;17;GAF;Barcelona;08;400410;4565515;1.811618107;41.234907462
+Vilanova i la Geltrú;Vilanova i la Geltrú;Vilanova i la Geltrú;Vilanova i la Geltrú;083073;08307;Garraf;17;GAF;Barcelona;08;393211;4564436;1.725919672;41.22426707
+Arbeca;Arbeca;Arbeca;Arbeca;250292;25029;Garrigues;18;GAR;Lleida;25;326851;4600969;0.924154304;41.541651668
+Bellaguarda;Bellaguarda;Bellaguarda;Bellaguarda;251706;25170;Garrigues;18;GAR;Lleida;25;310559;4578713;0.735957765;41.337645552
+Bovera;Bovera;Bovera;Bovera;250560;25056;Garrigues;18;GAR;Lleida;25;302401;4577689;0.638865632;41.326471556
+Castelldans;Castelldans;Castelldans;Castelldans;250674;25067;Garrigues;18;GAR;Lleida;25;313475;4596425;0.765323867;41.497744164
+Cervià de les Garrigues;Cervià de les Garrigues;Cervià de les Garrigues;Cervià de les Garrigues;250735;25073;Garrigues;18;GAR;Lleida;25;321092;4588145;0.858969081;41.424952708
+Fulleda;Fulleda;Fulleda;Fulleda;250978;25097;Garrigues;18;GAR;Lleida;25;335009;4592109;1.024331601;41.463615292
+Granyena de les Garrigues;Granyena de les Garrigues;Granyena de les Garrigues;Granyena de les Garrigues;251057;25105;Garrigues;18;GAR;Lleida;25;303587;4589476;0.649206595;41.432844461
+Juncosa;Juncosa;Juncosa;Juncosa;251180;25118;Garrigues;18;GAR;Lleida;25;313954;4582393;0.775369774;41.371561827
+Juneda;Juneda;Juneda;Juneda;251193;25119;Garrigues;18;GAR;Lleida;25;318609;4602038;0.825093631;41.549446832
+Puiggròs;Puiggròs;Puiggròs;Puiggròs;251804;25180;Garrigues;18;GAR;Lleida;25;324025;4602024;0.889995826;41.550533759
+Tarrés;Tarrés;Tarrés;Tarrés;252189;25218;Garrigues;18;GAR;Lleida;25;334513;4587561;1.019648039;41.422570402
+Vinaixa;Vinaixa;Vinaixa;Vinaixa;252555;25255;Garrigues;18;GAR;Lleida;25;330823;4588311;0.97529967;41.428556663
+el Cogul;Cogul, el;el Cogul;Cogul, el;250766;25076;Garrigues;18;GAR;Lleida;25;307051;4593180;0.68945474;41.467019925
+el Soleràs;Soleràs, el;el Soleràs;Soleràs, el;252069;25206;Garrigues;18;GAR;Lleida;25;306240;4587203;0.681659372;41.413034503
+el Vilosell;Vilosell, el;el Vilosell;Vilosell, el;252537;25253;Garrigues;18;GAR;Lleida;25;328309;4583415;0.946623661;41.383948084
+els Omellons;Omellons, els;els Omellons;Omellons, els;251538;25153;Garrigues;18;GAR;Lleida;25;329692;4596439;0.959479049;41.501479778
+els Torms;Torms, els;els Torms;Torms, els;252249;25224;Garrigues;18;GAR;Lleida;25;309366;4585024;0.719724851;41.394169013
+l'Albagés;Albagés, l';l'Albagés;Albagés, l';250061;25006;Garrigues;18;GAR;Lleida;25;311139;4591082;0.739023176;41.449114027
+l'Albi;Albi, l';l'Albi;Albi, l';250096;25009;Garrigues;18;GAR;Lleida;25;327572;4587759;0.936579849;41.422895875
+l'Espluga Calba;Espluga Calba, l';l'Espluga Calba;Espluga Calba, l';250812;25081;Garrigues;18;GAR;Lleida;25;333362;4595634;1.003650523;41.495013099
+la Floresta;Floresta, la;la Floresta;Floresta, la;250925;25092;Garrigues;18;GAR;Lleida;25;326386;4597507;0.91958904;41.510384658
+la Granadella;Granadella, la;la Granadella;Granadella, la;251018;25101;Garrigues;18;GAR;Lleida;25;304662;4580855;0.664842266;41.355520003
+la Pobla de Cérvoles;Pobla de Cérvoles, la;la Pobla de Cérvoles;Pobla de Cérvoles, la;251692;25169;Garrigues;18;GAR;Lleida;25;325665;4581674;0.915522735;41.367708652
+les Borges Blanques;Borges Blanques, les;les Borges Blanques;Borges Blanques, les;250582;25058;Garrigues;18;GAR;Lleida;25;322087;4598819;0.867716983;41.52125107
+Argelaguer;Argelaguer;Argelaguer;Argelaguer;170101;17010;Garrotxa;19;GAX;Girona;17;470416;4673508;2.641583767;42.21317776
+Besalú;Besalú;Besalú;Besalú;170195;17019;Garrotxa;19;GAX;Girona;17;475192;4671903;2.699512098;42.198891853
+Beuda;Beuda;Beuda;Beuda;170216;17021;Garrotxa;19;GAX;Girona;17;476032;4676137;2.70951599;42.237053328
+Castellfollit de la Roca;Castellfollit de la Roca;Castellfollit de la Roca;Castellfollit de la Roca;170464;17046;Garrotxa;19;GAX;Girona;17;462866;4674220;2.550075627;42.219267915
+Maià de Montcal;Maià de Montcal;Maià de Montcal;Maià de Montcal;170985;17098;Garrotxa;19;GAX;Girona;17;478718;4674493;2.742129247;42.222323013
+Mieres;Mieres;Mieres;Mieres;171058;17105;Garrotxa;19;GAX;Girona;17;470088;4663503;2.638125319;42.12305622
+Montagut i Oix;Montagut i Oix;Montagut;Montagut;171096;17109;Garrotxa;19;GAX;Girona;17;466690;4675541;2.596320619;42.231337563
+Olot;Olot;Olot;Olot;171143;17114;Garrotxa;19;GAX;Girona;17;457863;4670174;2.489740859;42.182577368
+Riudaura;Riudaura;Riudaura;Riudaura;171498;17149;Garrotxa;19;GAX;Girona;17;451018;4670884;2.406803371;42.188571994
+Sales de Llierca;Sales de Llierca;Sales de Llierca;Sales de Llierca;171544;17154;Garrotxa;19;GAX;Girona;17;471106;4675997;2.649819185;42.235621503
+la Vall d'en Bas;Vall d'en Bas, la;Sant Esteve d'en Bas;Sant Esteve d'en Bas;172076;17207;Garrotxa;19;GAX;Girona;17;455284;4663048;2.459062907;42.118255657
+Sant Aniol de Finestres;Sant Aniol de Finestres;Sant Esteve de Llémena;Sant Esteve de Llémena;171833;17183;Garrotxa;19;GAX;Girona;17;468130;4656898;2.614794031;42.063501072
+Sant Feliu de Pallerols;Sant Feliu de Pallerols;Sant Feliu de Pallerols;Sant Feliu de Pallerols;171616;17161;Garrotxa;19;GAX;Girona;17;459221;4658285;2.507024176;42.075579181
+Sant Ferriol;Sant Ferriol;Sant Ferriol;Sant Ferriol;171621;17162;Garrotxa;19;GAX;Girona;17;472633;4671793;2.668522568;42.197815436
+Sant Jaume de Llierca;Sant Jaume de Llierca;Sant Jaume de Llierca;Sant Jaume de Llierca;171655;17165;Garrotxa;19;GAX;Girona;17;467692;4673485;2.60858452;42.21286335
+Sant Joan les Fonts;Sant Joan les Fonts;Sant Joan les Fonts;Sant Joan les Fonts;171851;17185;Garrotxa;19;GAX;Girona;17;459702;4673502;2.511779666;42.212644881
+Santa Pau;Santa Pau;Santa Pau;Santa Pau;171848;17184;Garrotxa;19;GAX;Girona;17;464582;4665883;2.57136437;42.144269395
+Tortellà;Tortellà;Tortellà;Tortellà;172001;17200;Garrotxa;19;GAX;Girona;17;469469;4675700;2.630000591;42.232881797
+la Vall de Bianya;Vall de Bianya, la;l'Hostalnou de Bianya;Hostalnou de Bianya, l';172082;17208;Garrotxa;19;GAX;Girona;17;454899;4673345;2.453614237;42.210973357
+les Planes d'Hostoles;Planes d'Hostoles, les;les Planes d'Hostoles;Planes d'Hostoles, les;171334;17133;Garrotxa;19;GAX;Girona;17;461703;4656046;2.537176248;42.05553479
+les Preses;Preses, les;les Preses;Preses, les;171390;17139;Garrotxa;19;GAX;Girona;17;455475;4665592;2.461175183;42.141183068
+Aiguaviva;Aiguaviva;Aiguaviva;Aiguaviva;170025;17002;Gironès;20;GIR;Girona;17;480250;4642955;2.761759172;41.938317975
+Bescanó;Bescanó;Bescanó;Bescanó;170209;17020;Gironès;20;GIR;Girona;17;478636;4645989;2.742168943;41.965600482
+Bordils;Bordils;Bordils;Bordils;170255;17025;Gironès;20;GIR;Girona;17;492815;4654321;2.913191442;42.040897857
+Campllong;Campllong;Campllong;Campllong;170388;17038;Gironès;20;GIR;Girona;17;485903;4637661;2.830076097;41.890756072
+Canet d'Adri;Canet d'Adri;Canet d'Adri;Canet d'Adri;170405;17040;Gironès;20;GIR;Girona;17;478232;4653521;2.737025253;42.033424436
+Cassà de la Selva;Cassà de la Selva;Cassà de la Selva;Cassà de la Selva;170448;17044;Gironès;20;GIR;Girona;17;489566;4637280;2.874239415;41.887382289
+Celrà;Celrà;Celrà;Celrà;170499;17049;Gironès;20;GIR;Girona;17;489979;4652525;2.878947284;42.024690829
+Cervià de Ter;Cervià de Ter;Cervià de Ter;Cervià de Ter;170502;17050;Gironès;20;GIR;Girona;17;492525;4657298;2.909650204;42.067712397
+Flaçà;Flaçà;Flaçà;Flaçà;170675;17067;Gironès;20;GIR;Girona;17;496502;4655004;2.957735312;42.047073887
+Fornells de la Selva;Fornells de la Selva;Fornells de la Selva;Fornells de la Selva;170736;17073;Gironès;20;GIR;Girona;17;484433;4642123;2.812237664;41.930920339
+Girona;Girona;Girona;Girona;170792;17079;Gironès;20;GIR;Girona;17;485475;4647925;2.824666339;41.983190918
+Juià;Juià;Juià;Juià;170871;17087;Gironès;20;GIR;Girona;17;492283;4651681;2.906798884;42.017117399
+Llagostera;Llagostera;Llagostera;Llagostera;170890;17089;Gironès;20;GIR;Girona;17;491033;4630786;2.892017103;41.828912544
+Llambilles;Llambilles;Llambilles;Llambilles;170904;17090;Gironès;20;GIR;Girona;17;488351;4641026;2.859510637;41.921103396
+Madremanya;Madremanya;Madremanya;Madremanya;170979;17097;Gironès;20;GIR;Girona;17;496458;4648675;2.957240173;41.990074393
+Quart;Quart;Quart;Quart;171426;17142;Gironès;20;GIR;Girona;17;486726;4643104;2.839871945;41.939792886
+Salt;Salt;Salt;Salt;171557;17155;Gironès;20;GIR;Girona;17;482856;4646964;2.793078442;41.974482625
+Sant Andreu Salou;Sant Andreu Salou;Sant Andreu Salou;Sant Andreu Salou;171576;17157;Gironès;20;GIR;Girona;17;485512;4635750;2.825402859;41.873535322
+Sant Gregori;Sant Gregori;Sant Gregori;Sant Gregori;171637;17163;Gironès;20;GIR;Girona;17;480135;4648771;2.76017203;41.990700077
+Sant Joan de Mollet;Sant Joan de Mollet;Sant Joan de Mollet;Sant Joan de Mollet;171680;17168;Gironès;20;GIR;Girona;17;495260;4654848;2.942718878;42.04566963
+Sant Jordi Desvalls;Sant Jordi Desvalls;Sant Jordi Desvalls;Sant Jordi Desvalls;171668;17166;Gironès;20;GIR;Girona;17;496181;4657779;2.953832637;42.072064145
+Sant Julià de Ramis;Sant Julià de Ramis;Sant Julià de Ramis;Sant Julià de Ramis;171693;17169;Gironès;20;GIR;Girona;17;486722;4653624;2.839585635;42.034540856
+Sant Martí Vell;Sant Martí Vell;Sant Martí Vell;Sant Martí Vell;171735;17173;Gironès;20;GIR;Girona;17;494295;4651974;2.931087857;42.019778069
+Sant Martí de Llémena;Sant Martí de Llémena;Sant Martí de Llémena;Sant Martí de Llémena;171729;17172;Gironès;20;GIR;Girona;17;470826;4653877;2.647532744;42.036395932
+Sarrià de Ter;Sarrià de Ter;Sarrià de Ter;Sarrià de Ter;171864;17186;Gironès;20;GIR;Girona;17;485547;4651842;2.825438112;42.018475692
+Vilablareix;Vilablareix;Vilablareix;Vilablareix;172155;17215;Gironès;20;GIR;Girona;17;481186;4645014;2.772984383;41.956880955
+Viladasens;Viladasens;Viladasens;Viladasens;172168;17216;Gironès;20;GIR;Girona;17;494226;4660407;2.930170671;42.095722811
+Alella;Alella;Alella;Alella;080039;08003;Maresme;21;MAR;Barcelona;08;441149;4593808;2.294956934;41.493732172
+Arenys de Mar;Arenys de Mar;Arenys de Mar;Arenys de Mar;080060;08006;Maresme;21;MAR;Barcelona;08;462612;4603175;2.551497556;41.579385432
+Arenys de Munt;Arenys de Munt;Arenys de Munt;Arenys de Munt;080076;08007;Maresme;21;MAR;Barcelona;08;461703;4606467;2.54038107;41.608993356
+Argentona;Argentona;Argentona;Argentona;080095;08009;Maresme;21;MAR;Barcelona;08;450020;4600513;2.400663981;41.55472727
+Cabrera de Mar;Cabrera de Mar;Cabrera de Mar;Cabrera de Mar;080291;08029;Maresme;21;MAR;Barcelona;08;449383;4597317;2.393297337;41.525900891
+Cabrils;Cabrils;Cabrils;Cabrils;080305;08030;Maresme;21;MAR;Barcelona;08;447310;4597299;2.368450483;41.52560018
+Caldes d'Estrac;Caldes d'Estrac;Caldes d'Estrac;Caldes d'Estrac;080327;08032;Maresme;21;MAR;Barcelona;08;460634;4602421;2.527811321;41.572498403
+Calella;Calella;Calella;Calella;080351;08035;Maresme;21;MAR;Barcelona;08;471441;4606908;2.657224007;41.613379348
+Canet de Mar;Canet de Mar;Canet de Mar;Canet de Mar;080403;08040;Maresme;21;MAR;Barcelona;08;465219;4604265;2.582697241;41.589324792
+Dosrius;Dosrius;Dosrius;Dosrius;080752;08075;Maresme;21;MAR;Barcelona;08;450558;4604908;2.406755957;41.594341635
+Malgrat de Mar;Malgrat de Mar;Malgrat de Mar;Malgrat de Mar;081108;08110;Maresme;21;MAR;Barcelona;08;478504;4610523;2.741868343;41.646162275
+Mataró;Mataró;Mataró;Mataró;081213;08121;Maresme;21;MAR;Barcelona;08;453812;4598945;2.446258624;41.540825723
+Montgat;Montgat;Montgat;Montgat;081265;08126;Maresme;21;MAR;Barcelona;08;439797;4590807;2.279058431;41.466603607
+Palafolls;Palafolls;Palafolls;Palafolls;081555;08155;Maresme;21;MAR;Barcelona;08;479136;4612831;2.749378597;41.666963094
+Pineda de Mar;Pineda de Mar;Pineda de Mar;Pineda de Mar;081635;08163;Maresme;21;MAR;Barcelona;08;474122;4608460;2.68933842;41.627442252
+Premià de Dalt;Premià de Dalt;Premià de Dalt;Premià de Dalt;082303;08230;Maresme;21;MAR;Barcelona;08;445086;4595281;2.34197767;41.507273918
+Premià de Mar;Premià de Mar;Premià de Mar;Premià de Mar;081727;08172;Maresme;21;MAR;Barcelona;08;446419;4593618;2.358107443;41.492391828
+Sant Andreu de Llavaneres;Sant Andreu de Llavaneres;Sant Andreu de Llavaneres;Sant Andreu de Llavaneres;081976;08197;Maresme;21;MAR;Barcelona;08;456921;4602655;2.483267663;41.574421495
+Sant Cebrià de Vallalta;Sant Cebrià de Vallalta;Sant Cebrià de Vallalta;Sant Cebrià de Vallalta;082037;08203;Maresme;21;MAR;Barcelona;08;466648;4607637;2.599659686;41.619753832
+Sant Iscle de Vallalta;Sant Iscle de Vallalta;Sant Iscle de Vallalta;Sant Iscle de Vallalta;081939;08193;Maresme;21;MAR;Barcelona;08;464073;4608168;2.568722657;41.624424036
+Sant Pol de Mar;Sant Pol de Mar;Sant Pol de Mar;Sant Pol de Mar;082359;08235;Maresme;21;MAR;Barcelona;08;468452;4605459;2.62142265;41.600209828
+Sant Vicenç de Montalt;Sant Vicenç de Montalt;Sant Vicenç de Montalt;Sant Vicenç de Montalt;082649;08264;Maresme;21;MAR;Barcelona;08;459097;4603077;2.509331421;41.578333858
+Santa Susanna;Santa Susanna;Santa Susanna;Santa Susanna;082613;08261;Maresme;21;MAR;Barcelona;08;475642;4609340;2.707549722;41.635421087
+Teià;Teià;Teià;Teià;082819;08281;Maresme;21;MAR;Barcelona;08;443205;4594447;2.319523126;41.499634258
+Tiana;Tiana;Tiana;Tiana;082824;08282;Maresme;21;MAR;Barcelona;08;438963;4592512;2.268902679;41.481890468
+Tordera;Tordera;Tordera;Tordera;082845;08284;Maresme;21;MAR;Barcelona;08;476557;4616685;2.718241819;41.701602534
+Vilassar de Dalt;Vilassar de Dalt;Vilassar de Dalt;Vilassar de Dalt;082140;08214;Maresme;21;MAR;Barcelona;08;446465;4596373;2.358405823;41.517205213
+Vilassar de Mar;Vilassar de Mar;Vilassar de Mar;Vilassar de Mar;082191;08219;Maresme;21;MAR;Barcelona;08;449306;4594697;2.392600072;41.502293001
+el Masnou;Masnou, el;el Masnou;Masnou, el;081189;08118;Maresme;21;MAR;Barcelona;08;442922;4592184;2.316344462;41.479226859
+Òrrius;Òrrius;Òrrius;Òrrius;081537;08153;Maresme;21;MAR;Barcelona;08;446192;4600583;2.35475897;41.555104884
+Alcanar;Alcanar;Alcanar;Alcanar;430043;43004;Montsià;22;MON;Tarragona;43;286662;4491105;0.480770667;40.5432439
+Amposta;Amposta;Amposta;Amposta;430141;43014;Montsià;22;MON;Tarragona;43;295677;4509746;0.58108201;40.713302175
+Freginals;Freginals;Freginals;Freginals;430629;43062;Montsià;22;MON;Tarragona;43;290390;4505274;0.520036336;40.671726623
+Godall;Godall;Godall;Godall;430688;43068;Montsià;22;MON;Tarragona;43;286085;4503546;0.469734342;40.655069819
+Mas de Barberans;Mas de Barberans;Mas de Barberans;Mas de Barberans;430770;43077;Montsià;22;MON;Tarragona;43;278247;4512623;0.373914393;40.734688606
+Masdenverge;Masdenverge;Masdenverge;Masdenverge;430786;43078;Montsià;22;MON;Tarragona;43;291457;4510141;0.531035324;40.71580481
+Sant Jaume d'Enveja;Sant Jaume d'Enveja;Sant Jaume d'Enveja;Sant Jaume d'Enveja;439023;43902;Montsià;22;MON;Tarragona;43;307350;4508739;0.719470283;40.707050959
+Santa Bàrbara;Santa Bàrbara;Santa Bàrbara;Santa Bàrbara;431384;43138;Montsià;22;MON;Tarragona;43;288191;4510091;0.492412991;40.714520499
+Ulldecona;Ulldecona;Ulldecona;Ulldecona;431567;43156;Montsià;22;MON;Tarragona;43;284138;4497288;0.448875456;40.59823916
+la Galera;Galera, la;la Galera;Galera, la;430635;43063;Montsià;22;MON;Tarragona;43;285632;4506511;0.463373507;40.681638991
+la Ràpita;Ràpita, la;la Ràpita;Ràpita, la;431362;43136;Montsià;22;MON;Tarragona;43;296385;4499366;0.592817384;40.620052443
+la Sénia;Sénia, la;la Sénia;Sénia, la;430445;43044;Montsià;22;MON;Tarragona;43;270482;4501568;0.286093403;40.633080905
+Albesa;Albesa;Albesa;Albesa;250083;25008;Noguera;23;NOG;Lleida;25;305482;4624816;0.660407593;41.751364415
+Algerri;Algerri;Algerri;Algerri;250156;25015;Noguera;23;NOG;Lleida;25;303861;4632052;0.638537956;41.816083362
+Alòs de Balaguer;Alòs de Balaguer;Alòs de Balaguer;Alòs de Balaguer;250220;25022;Noguera;23;NOG;Lleida;25;330907;4642045;0.961095041;41.912257927
+Artesa de Segre;Artesa de Segre;Artesa de Segre;Artesa de Segre;250349;25034;Noguera;23;NOG;Lleida;25;337851;4640043;1.045328591;41.895692096
+Balaguer;Balaguer;Balaguer;Balaguer;250404;25040;Noguera;23;NOG;Lleida;25;317638;4628760;0.805297348;41.789737784
+Bellcaire d'Urgell;Bellcaire d'Urgell;Bellcaire d'Urgell;Bellcaire d'Urgell;250479;25047;Noguera;23;NOG;Lleida;25;325942;4625179;0.906224822;41.759371454
+Bellmunt d'Urgell;Bellmunt d'Urgell;Bellmunt d'Urgell;Bellmunt d'Urgell;250498;25049;Noguera;23;NOG;Lleida;25;329795;4626747;0.952096614;41.774326659
+Cabanabona;Cabanabona;Cabanabona;Cabanabona;250609;25060;Noguera;23;NOG;Lleida;25;351945;4634841;1.216448648;41.851633809
+Camarasa;Camarasa;Camarasa;Camarasa;250621;25062;Noguera;23;NOG;Lleida;25;323904;4638090;0.877882111;41.875131237
+Castelló de Farfanya;Castelló de Farfanya;Castelló de Farfanya;Castelló de Farfanya;250693;25069;Noguera;23;NOG;Lleida;25;311267;4632329;0.727550228;41.820370347
+Cubells;Cubells;Cubells;Cubells;250791;25079;Noguera;23;NOG;Lleida;25;330565;4635313;0.958899414;41.851590977
+Foradada;Foradada;Foradada;Foradada;250946;25094;Noguera;23;NOG;Lleida;25;335075;4638005;1.012445694;41.87677525
+la Baronia de Rialb;Baronia de Rialb, la;Gualter;Gualter;250426;25042;Noguera;23;NOG;Lleida;25;350454;4643842;1.196218307;41.932384931
+Ivars de Noguera;Ivars de Noguera;Ivars de Noguera;Ivars de Noguera;251121;25112;Noguera;23;NOG;Lleida;25;299593;4635960;0.585879641;41.850178817
+Menàrguens;Menàrguens;Menàrguens;Menàrguens;251348;25134;Noguera;23;NOG;Lleida;25;312332;4622215;0.743556424;41.72959752
+Montgai;Montgai;Montgai;Montgai;251386;25138;Noguera;23;NOG;Lleida;25;330603;4629565;0.961007723;41.799860395
+Oliola;Oliola;Oliola;Oliola;251500;25150;Noguera;23;NOG;Lleida;25;348454;4637583;1.173709403;41.875657865
+Os de Balaguer;Os de Balaguer;Os de Balaguer;Os de Balaguer;251569;25156;Noguera;23;NOG;Lleida;25;310676;4638006;0.718616267;41.87132008
+Penelles;Penelles;Penelles;Penelles;251641;25164;Noguera;23;NOG;Lleida;25;330872;4624864;0.965575901;41.757602389
+Ponts;Ponts;Ponts;Ponts;251728;25172;Noguera;23;NOG;Lleida;25;349584;4642005;1.18619719;41.915679444
+Preixens;Preixens;Preixens;Preixens;251771;25177;Noguera;23;NOG;Lleida;25;338036;4628747;1.050648317;41.794052281
+Tiurana;Tiurana;Tiurana;Tiurana;252228;25222;Noguera;23;NOG;Lleida;25;355474;4648564;1.255582012;41.97582543
+Torrelameu;Torrelameu;Torrelameu;Torrelameu;252311;25231;Noguera;23;NOG;Lleida;25;308809;4619541;0.702082985;41.704690513
+Térmens;Térmens;Térmens;Térmens;252206;25220;Noguera;23;NOG;Lleida;25;313712;4620831;0.760563433;41.71746482
+Vallfogona de Balaguer;Vallfogona de Balaguer;Vallfogona de Balaguer;Vallfogona de Balaguer;252402;25240;Noguera;23;NOG;Lleida;25;318234;4624604;0.813743489;41.752469349
+Vilanova de Meià;Vilanova de Meià;Vilanova de Meià;Vilanova de Meià;252509;25250;Noguera;23;NOG;Lleida;25;336227;4651142;1.022675463;41.99526464
+Vilanova de l'Aguda;Vilanova de l'Aguda;Vilanova de l'Aguda;Vilanova de l'Aguda;252496;25249;Noguera;23;NOG;Lleida;25;355083;4641475;1.252605077;41.911938859
+la Sentiu de Sió;Sentiu de Sió, la;la Sentiu de Sió;Sentiu de Sió, la;250352;25035;Noguera;23;NOG;Lleida;25;323758;4630280;0.878457386;41.804804716
+les Avellanes i Santa Linya;Avellanes i Santa Linya, les;les Avellanes;Avellanes, les;250371;25037;Noguera;23;NOG;Lleida;25;314548;4641968;0.764000415;41.907897134
+Àger;Àger;Àger;Àger;250024;25002;Noguera;23;NOG;Lleida;25;314787;4652147;0.763678739;41.999565244
+Aiguafreda;Aiguafreda;Aiguafreda;Aiguafreda;080142;08014;Osona;24;OSO;Barcelona;08;437707;4624288;2.250544628;41.767986176
+Calldetenes;Calldetenes;Calldetenes;Calldetenes;080370;08037;Osona;24;OSO;Barcelona;08;440677;4641662;2.284540336;41.924689664
+Orís;Orís;Can Branques;Can Branques;081509;08150;Osona;24;OSO;Barcelona;08;437055;4656507;2.239267902;42.05810337
+Centelles;Centelles;Centelles;Centelles;080673;08067;Osona;24;OSO;Barcelona;08;435120;4627589;2.219070942;41.797509094
+Espinelves;Espinelves;Espinelves;Espinelves;170638;17063;Osona;24;OSO;Girona;17;451640;4635394;2.417266174;41.868980533
+Folgueroles;Folgueroles;Folgueroles;Folgueroles;080832;08083;Osona;24;OSO;Barcelona;08;443542;4643193;2.318939366;41.93868614
+Gurb;Gurb;Gurb;Gurb;081000;08100;Osona;24;OSO;Barcelona;08;436558;4645161;2.234490285;41.955883286
+Malla;Malla;Malla;Malla;081115;08111;Osona;24;OSO;Barcelona;08;436503;4637521;2.234648149;41.887065718
+Manlleu;Manlleu;Manlleu;Manlleu;081120;08112;Osona;24;OSO;Barcelona;08;440700;4650139;2.283958583;42.001035413
+Montesquiu;Montesquiu;Montesquiu;Montesquiu;081311;08131;Osona;24;OSO;Barcelona;08;434666;4662291;2.209748189;42.109991873
+Muntanyola;Muntanyola;Muntanyola;Muntanyola;081290;08129;Osona;24;OSO;Barcelona;08;431780;4636590;2.177829111;41.87828835
+Roda de Ter;Roda de Ter;Roda de Ter;Roda de Ter;081831;08183;Osona;24;OSO;Barcelona;08;442790;4647898;2.309407251;41.981008781
+Rupit i Pruit;Rupit i Pruit;Rupit;Rupit;089019;08901;Osona;24;OSO;Barcelona;08;455691;4652531;2.464781417;42.023559558
+Sant Agustí de Lluçanès;Sant Agustí de Lluçanès;Sant Agustí de Lluçanès;Sant Agustí de Lluçanès;081957;08195;Osona;24;OSO;Barcelona;08;427808;4659583;2.127137058;42.085001917
+Sant Bartomeu del Grau;Sant Bartomeu del Grau;Sant Bartomeu del Grau;Sant Bartomeu del Grau;081995;08199;Osona;24;OSO;Barcelona;08;431643;4648001;2.174857958;41.981046028
+Sant Boi de Lluçanès;Sant Boi de Lluçanès;Sant Boi de Lluçanès;Sant Boi de Lluçanès;082016;08201;Osona;24;OSO;Barcelona;08;429822;4656467;2.151866839;42.057126337
+Sant Hipòlit de Voltregà;Sant Hipòlit de Voltregà;Sant Hipòlit de Voltregà;Sant Hipòlit de Voltregà;082153;08215;Osona;24;OSO;Barcelona;08;436777;4651761;2.23642223;42.015332565
+Sant Julià de Vilatorta;Sant Julià de Vilatorta;Sant Julià de Vilatorta;Sant Julià de Vilatorta;082205;08220;Osona;24;OSO;Barcelona;08;444038;4641328;2.325098974;41.92192644
+Sant Martí de Centelles;Sant Martí de Centelles;Sant Martí de Centelles;Sant Martí de Centelles;082248;08224;Osona;24;OSO;Barcelona;08;433884;4624060;2.204582558;41.765624382
+Sant Pere de Torelló;Sant Pere de Torelló;Sant Pere de Torelló;Sant Pere de Torelló;082331;08233;Osona;24;OSO;Barcelona;08;441830;4658344;2.296791299;42.075014654
+Sant Quirze de Besora;Sant Quirze de Besora;Sant Quirze de Besora;Sant Quirze de Besora;082378;08237;Osona;24;OSO;Barcelona;08;435738;4661189;2.222831485;42.10015944
+Sant Sadurní d'Osormort;Sant Sadurní d'Osormort;Sant Sadurní d'Osormort;Sant Sadurní d'Osormort;082418;08241;Osona;24;OSO;Barcelona;08;448697;4639071;2.381485599;41.901917804
+Sant Vicenç de Torelló;Sant Vicenç de Torelló;Sant Vicenç de Torelló;Sant Vicenç de Torelló;082652;08265;Osona;24;OSO;Barcelona;08;439913;4656852;2.273774384;42.061435234
+Santa Cecília de Voltregà;Santa Cecília de Voltregà;Santa Cecília de Voltregà;Santa Cecília de Voltregà;082439;08243;Osona;24;OSO;Barcelona;08;435585;4649307;2.222286785;41.993142253
+Santa Eugènia de Berga;Santa Eugènia de Berga;Santa Eugènia de Berga;Santa Eugènia de Berga;082460;08246;Osona;24;OSO;Barcelona;08;440540;4638943;2.283161543;41.900188347
+Santa Eulàlia de Riuprimer;Santa Eulàlia de Riuprimer;Santa Eulàlia de Riuprimer;Santa Eulàlia de Riuprimer;082476;08247;Osona;24;OSO;Barcelona;08;432668;4640215;2.188120418;41.911011142
+Santa Maria de Besora;Santa Maria de Besora;Santa Maria de Besora;Santa Maria de Besora;082536;08253;Osona;24;OSO;Barcelona;08;438664;4664123;2.257911373;42.126811514
+Seva;Seva;Seva;Seva;082690;08269;Osona;24;OSO;Barcelona;08;440206;4632135;2.279824361;41.838853766
+Sora;Sora;Sora;Sora;082726;08272;Osona;24;OSO;Barcelona;08;430603;4662611;2.160576058;42.112524303
+Taradell;Taradell;Taradell;Taradell;082785;08278;Osona;24;OSO;Barcelona;08;440882;4636048;2.287570008;41.874139387
+Tavertet;Tavertet;Tavertet;Tavertet;082802;08280;Osona;24;OSO;Barcelona;08;451902;4649465;2.419269161;41.995729742
+Tavèrnoles;Tavèrnoles;Tavèrnoles;Tavèrnoles;082750;08275;Osona;24;OSO;Barcelona;08;444180;4644674;2.326492526;41.952071512
+Tona;Tona;Tona;Tona;082830;08283;Osona;24;OSO;Barcelona;08;435962;4633444;2.228561133;41.850312124
+Torelló;Torelló;Torelló;Torelló;082858;08285;Osona;24;OSO;Barcelona;08;438992;4655227;2.262805553;42.046725793
+Vic;Vic;Vic;Vic;082981;08298;Osona;24;OSO;Barcelona;08;438179;4642328;2.254339978;41.930490478
+Vidrà;Vidrà;Vidrà;Vidrà;172121;17212;Osona;24;OSO;Girona;17;442956;4663605;2.30988455;42.122471681
+Viladrau;Viladrau;Viladrau;Viladrau;172207;17220;Osona;24;OSO;Girona;17;449359;4633026;2.389982465;41.847516348
+Vilanova de Sau;Vilanova de Sau;Vilanova de Sau;Vilanova de Sau;083036;08303;Osona;24;OSO;Barcelona;08;449189;4644227;2.386964443;41.948381259
+el Brull;Brull, el;el Brull;Brull, el;080266;08026;Osona;24;OSO;Barcelona;08;442297;4629678;2.305247767;41.816876748
+Balenyà;Balenyà;els Hostalets de Balenyà;Hostalets de Balenyà, els;080174;08017;Osona;24;OSO;Barcelona;08;436528;4629373;2.235818873;41.813689827
+l'Esquirol;Esquirol, l';l'Esquirol;Esquirol, l';082541;08254;Osona;24;OSO;Barcelona;08;447861;4653835;2.370095341;42.034828008
+les Masies de Roda;Masies de Roda, les;les Masies de Roda;Masies de Roda, les;081167;08116;Osona;24;OSO;Barcelona;08;443515;4648887;2.318064242;41.989966773
+les Masies de Voltregà;Masies de Voltregà, les;les Masies de Voltregà;Masies de Voltregà, les;081173;08117;Osona;24;OSO;Barcelona;08;436494;4652577;2.232916969;42.022664502
+Abella de la Conca;Abella de la Conca;Abella de la Conca;Abella de la Conca;250019;25001;Pallars Jussà;25;PJU;Lleida;25;342420;4669462;1.09247165;42.16144193
+Gavet de la Conca;Gavet de la Conca;Gavet de la Conca;Gavet de la Conca;250984;25098;Pallars Jussà;25;PJU;Lleida;25;328102;4665567;0.920409639;42.123366673
+Castell de Mur;Castell de Mur;Guàrdia de Noguera;Guàrdia de Noguera;259046;25904;Pallars Jussà;25;PJU;Lleida;25;324448;4662159;0.877256985;42.091888475
+Isona i Conca Dellà;Isona i Conca Dellà;Isona;Isona;251155;25115;Pallars Jussà;25;PJU;Lleida;25;338271;4664611;1.04361906;42.11692648
+Llimiana;Llimiana;Llimiana;Llimiana;251288;25128;Pallars Jussà;25;PJU;Lleida;25;327620;4660201;0.916153921;42.07496634
+Salàs de Pallars;Salàs de Pallars;Salàs de Pallars;Salàs de Pallars;251902;25190;Pallars Jussà;25;PJU;Lleida;25;329258;4675470;0.931479588;42.21276002
+Sant Esteve de la Sarga;Sant Esteve de la Sarga;Sant Esteve de la Sarga;Sant Esteve de la Sarga;251961;25196;Pallars Jussà;25;PJU;Lleida;25;315020;4661038;0.763690094;42.079634631
+Sarroca de Bellera;Sarroca de Bellera;Sarroca de Bellera;Sarroca de Bellera;252017;25201;Pallars Jussà;25;PJU;Lleida;25;325520;4691891;0.881272863;42.359720139
+Senterada;Senterada;Senterada;Senterada;252022;25202;Pallars Jussà;25;PJU;Lleida;25;330053;4687915;0.937451098;42.324939473
+Talarn;Talarn;Talarn;Talarn;252154;25215;Pallars Jussà;25;PJU;Lleida;25;326601;4672512;0.900185083;42.185548656
+Tremp;Tremp;Tremp;Tremp;252347;25234;Pallars Jussà;25;PJU;Lleida;25;326144;4670508;0.895259127;42.167410257
+Conca de Dalt;Conca de Dalt;el Pont de Claverol;Pont de Claverol, el;251615;25161;Pallars Jussà;25;PJU;Lleida;25;332648;4678944;0.971516787;42.244758667
+la Pobla de Segur;Pobla de Segur, la;la Pobla de Segur;Pobla de Segur, la;251713;25171;Pallars Jussà;25;PJU;Lleida;25;332442;4679512;0.96885546;42.249828971
+la Torre de Cabdella;Torre de Cabdella, la;la Torre de Capdella;Torre de Capdella, la;252271;25227;Pallars Jussà;25;PJU;Lleida;25;334023;4698594;0.982531466;42.421907466
+Alins;Alins;Alins;Alins;250175;25017;Pallars Sobirà;26;PSO;Lleida;25;361859;4712083;1.317472691;42.548794993
+Farrera;Farrera;Burg;Burg;250899;25089;Pallars Sobirà;26;PSO;Lleida;25;358152;4707149;1.273561963;42.503710964
+Espot;Espot;Espot;Espot;250827;25082;Pallars Sobirà;26;PSO;Lleida;25;343165;4715482;1.088960845;42.575819767
+Esterri d'Àneu;Esterri d'Àneu;Esterri d'Àneu;Esterri d'Àneu;250864;25086;Pallars Sobirà;26;PSO;Lleida;25;346029;4721286;1.122276439;42.628642034
+Esterri de Cardós;Esterri de Cardós;Esterri de Cardós;Esterri de Cardós;250870;25087;Pallars Sobirà;26;PSO;Lleida;25;357381;4717047;1.2617201;42.592667945
+Baix Pallars;Baix Pallars;Gerri de la Sal;Gerri de la Sal;250390;25039;Pallars Sobirà;26;PSO;Lleida;25;340499;4687498;1.064277037;42.323393377
+Lladorre;Lladorre;Lladorre;Lladorre;251235;25123;Pallars Sobirà;26;PSO;Lleida;25;356444;4720225;1.249503442;42.621102535
+Llavorsí;Llavorsí;Llavorsí;Llavorsí;251266;25126;Pallars Sobirà;26;PSO;Lleida;25;353006;4706364;1.211167277;42.495681756
+Rialp;Rialp;Rialp;Rialp;251832;25183;Pallars Sobirà;26;PSO;Lleida;25;346602;4700775;1.134765713;42.444132362
+Vall de Cardós;Vall de Cardós;Ribera de Cardós;Ribera de Cardós;259010;25901;Pallars Sobirà;26;PSO;Lleida;25;354296;4713872;1.22493649;42.563504693
+Sort;Sort;Sort;Sort;252094;25209;Pallars Sobirà;26;PSO;Lleida;25;346115;4697120;1.129821869;42.411134564
+Tírvia;Tírvia;Tírvia;Tírvia;252213;25221;Pallars Sobirà;26;PSO;Lleida;25;355664;4708465;1.242971327;42.51509054
+Alt Àneu;Alt Àneu;València d'Àneu;València d'Àneu;250241;25024;Pallars Sobirà;26;PSO;Lleida;25;345030;4721811;1.109954836;42.633161891
+Soriguera;Soriguera;Vilamur;Vilamur;252081;25208;Pallars Sobirà;26;PSO;Lleida;25;348639;4693570;1.161413322;42.379677008
+la Guingueta d'Àneu;Guingueta d'Àneu, la;la Guingueta d'Àneu;Guingueta d'Àneu, la;259031;25903;Pallars Sobirà;26;PSO;Lleida;25;346689;4717528;1.131331231;42.594944651
+Barbens;Barbens;Barbens;Barbens;250411;25041;Pla d'Urgell;27;PUR;Lleida;25;335059;4616036;1.018357494;41.679015226
+Bell-lloc d'Urgell;Bell-lloc d'Urgell;Bell-lloc d'Urgell;Bell-lloc d'Urgell;250485;25048;Pla d'Urgell;27;PUR;Lleida;25;315030;4611039;0.779431843;41.629638917
+Bellvís;Bellvís;Bellvís;Bellvís;250523;25052;Pla d'Urgell;27;PUR;Lleida;25;318318;4615642;0.817477768;41.671827802
+Castellnou de Seana;Castellnou de Seana;Castellnou de Seana;Castellnou de Seana;250680;25068;Pla d'Urgell;27;PUR;Lleida;25;331029;4612719;0.970907309;41.648317778
+Fondarella;Fondarella;Fondarella;Fondarella;250931;25093;Pla d'Urgell;27;PUR;Lleida;25;322961;4611399;0.874474119;41.634683198
+Golmés;Golmés;Golmés;Golmés;250997;25099;Pla d'Urgell;27;PUR;Lleida;25;327790;4611043;0.932518362;41.632535988
+Ivars d'Urgell;Ivars d'Urgell;Ivars d'Urgell;Ivars d'Urgell;251137;25113;Pla d'Urgell;27;PUR;Lleida;25;332349;4616532;0.985676464;41.682913494
+Linyola;Linyola;Linyola;Linyola;251229;25122;Pla d'Urgell;27;PUR;Lleida;25;325682;4619780;0.904673448;41.710719482
+Miralcamp;Miralcamp;Miralcamp;Miralcamp;251351;25135;Pla d'Urgell;27;PUR;Lleida;25;323254;4608125;0.878953557;41.60528225
+Mollerussa;Mollerussa;Mollerussa;Mollerussa;251370;25137;Pla d'Urgell;27;PUR;Lleida;25;324549;4610821;0.893696867;41.629835214
+Sidamon;Sidamon;Sidamon;Sidamon;252056;25205;Pla d'Urgell;27;PUR;Lleida;25;319408;4610888;0.832005153;41.629289796
+Torregrossa;Torregrossa;Torregrossa;Torregrossa;252304;25230;Pla d'Urgell;27;PUR;Lleida;25;319262;4605535;0.831862911;41.581072474
+Vila-sana;Vila-sana;Vila-sana;Vila-sana;252521;25252;Pla d'Urgell;27;PUR;Lleida;25;327459;4614469;0.927562392;41.663298104
+Vilanova de Bellpuig;Vilanova de Bellpuig;Vilanova de Bellpuig;Vilanova de Bellpuig;252483;25248;Pla d'Urgell;27;PUR;Lleida;25;330096;4609013;0.96076488;41.614759921
+el Palau d'Anglesola;Palau d'Anglesola, el;el Palau d'Anglesola;Palau d'Anglesola, el;251581;25158;Pla d'Urgell;27;PUR;Lleida;25;323483;4613279;0.88017925;41.651722566
+el Poal;Poal, el;el Poal;Poal, el;251689;25168;Pla d'Urgell;27;PUR;Lleida;25;321604;4616264;0.856747415;41.678169227
+Banyoles;Banyoles;Banyoles;Banyoles;170157;17015;Pla de l'Estany;28;PES;Girona;17;480605;4662916;2.765370615;42.118105569
+Camós;Camós;Camós;Camós;170353;17035;Pla de l'Estany;28;PES;Girona;17;480748;4660258;2.767199365;42.094171368
+Cornellà del Terri;Cornellà del Terri;Cornellà del Terri;Cornellà del Terri;170561;17056;Pla de l'Estany;28;PES;Girona;17;484785;4659788;2.816020886;42.090025988
+Crespià;Crespià;Crespià;Crespià;170583;17058;Pla de l'Estany;28;PES;Girona;17;483360;4670572;2.798479828;42.187122017
+Esponellà;Esponellà;Esponellà;Esponellà;170656;17065;Pla de l'Estany;28;PES;Girona;17;483076;4669664;2.795073253;42.178934142
+Fontcoberta;Fontcoberta;Fontcoberta;Fontcoberta;170715;17071;Pla de l'Estany;28;PES;Girona;17;482571;4665670;2.789082911;42.142954554
+Porqueres;Porqueres;Mata;Mata;171371;17137;Pla de l'Estany;28;PES;Girona;17;482101;4661705;2.783509078;42.10723249
+Palol de Revardit;Palol de Revardit;Palol de Revardit;Palol de Revardit;171236;17123;Pla de l'Estany;28;PES;Girona;17;483140;4657555;2.796199255;42.069883806
+Sant Miquel de Campmajor;Sant Miquel de Campmajor;Sant Miquel de Campmajor;Sant Miquel de Campmajor;171740;17174;Pla de l'Estany;28;PES;Girona;17;473489;4664917;2.679208315;42.135918452
+Serinyà;Serinyà;Serinyà;Serinyà;171903;17190;Pla de l'Estany;28;PES;Girona;17;478887;4668579;2.744392576;42.169063013
+Vilademuls;Vilademuls;Vilademuls;Vilademuls;172180;17218;Pla de l'Estany;28;PES;Girona;17;490734;4665181;2.887874229;42.138689863
+Bellmunt del Priorat;Bellmunt del Priorat;Bellmunt del Priorat;Bellmunt del Priorat;430234;43023;Priorat;29;PRI;Tarragona;43;312644;4559506;0.766749088;41.165252561
+Cabacés;Cabacés;Cabacés;Cabacés;430350;43035;Priorat;29;PRI;Tarragona;43;310104;4568703;0.733648623;41.247444664
+Capçanes;Capçanes;Capçanes;Capçanes;430402;43040;Priorat;29;PRI;Tarragona;43;313699;4552214;0.781537268;41.099860461
+Cornudella de Montsant;Cornudella de Montsant;Cornudella de Montsant;Cornudella de Montsant;430496;43049;Priorat;29;PRI;Tarragona;43;324579;4570362;0.905807466;41.265646384
+Falset;Falset;Falset;Falset;430555;43055;Priorat;29;PRI;Tarragona;43;317068;4557253;0.820118387;41.145980353
+Gratallops;Gratallops;Gratallops;Gratallops;430691;43069;Priorat;29;PRI;Tarragona;43;313566;4562602;0.776797598;41.193332642
+Margalef;Margalef;Margalef;Margalef;430751;43075;Priorat;29;PRI;Tarragona;43;311915;4572764;0.75399189;41.284419117
+Marçà;Marçà;Marçà;Marçà;430764;43076;Priorat;29;PRI;Tarragona;43;315344;4555087;0.8002487;41.126095734
+Poboleda;Poboleda;Poboleda;Poboleda;431129;43112;Priorat;29;PRI;Tarragona;43;319387;4566908;0.844885206;41.233409847
+Porrera;Porrera;Porrera;Porrera;431140;43114;Priorat;29;PRI;Tarragona;43;320201;4561949;0.856046971;41.188958686
+Pradell de la Teixeta;Pradell de la Teixeta;Pradell de la Teixeta;Pradell de la Teixeta;431153;43115;Priorat;29;PRI;Tarragona;43;321778;4558356;0.875892926;41.156962335
+Torroja del Priorat;Torroja del Priorat;Torroja del Priorat;Torroja del Priorat;431541;43154;Priorat;29;PRI;Tarragona;43;316461;4564756;0.810642279;41.213378659
+Ulldemolins;Ulldemolins;Ulldemolins;Ulldemolins;431573;43157;Priorat;29;PRI;Tarragona;43;322270;4576744;0.876395017;41.322591033
+el Lloar;Lloar, el;el Lloar;Lloar, el;430727;43072;Priorat;29;PRI;Tarragona;43;311374;4561836;0.750910385;41.185932351
+el Masroig;Masroig, el;el Masroig;Masroig, el;430825;43082;Priorat;29;PRI;Tarragona;43;309572;4555285;0.731472983;41.126543559
+el Molar;Molar, el;el Molar;Molar, el;430859;43085;Priorat;29;PRI;Tarragona;43;307533;4559603;0.70585164;41.164930219
+els Guiamets;Guiamets, els;els Guiamets;Guiamets, els;430705;43070;Priorat;29;PRI;Tarragona;43;311225;4552514;0.752004305;41.10198728
+la Bisbal de Montsant;Bisbal de Montsant, la;la Bisbal de Montsant;Bisbal de Montsant, la;430271;43027;Priorat;29;PRI;Tarragona;43;309338;4572370;0.72336181;41.280270213
+la Figuera;Figuera, la;la Figuera;Figuera, la;430580;43058;Priorat;29;PRI;Tarragona;43;309831;4565236;0.731469274;41.216173398
+la Morera de Montsant;Morera de Montsant, la;la Morera de Montsant;Morera de Montsant, la;430960;43096;Priorat;29;PRI;Tarragona;43;319217;4570417;0.841819466;41.264957666
+la Torre de Fontaubella;Torre de Fontaubella, la;la Torre de Fontaubella;Torre de Fontaubella, la;431515;43151;Priorat;29;PRI;Tarragona;43;320716;4554761;0.864296174;41.124365285
+la Vilella Alta;Vilella Alta, la;la Vilella Alta;Vilella Alta, la;431732;43173;Priorat;29;PRI;Tarragona;43;313965;4566156;0.780464754;41.225412566
+la Vilella Baixa;Vilella Baixa, la;la Vilella Baixa;Vilella Baixa, la;431747;43174;Priorat;29;PRI;Tarragona;43;312387;4565669;0.761806057;41.220665627
+Ascó;Ascó;Ascó;Ascó;430192;43019;Ribera d'Ebre;30;REB;Tarragona;43;295970;4561662;0.567443286;41.180631047
+Benissanet;Benissanet;Benissanet;Benissanet;430265;43026;Ribera d'Ebre;30;REB;Tarragona;43;301229;4547748;0.634595291;41.056706296
+Flix;Flix;Flix;Flix;430607;43060;Ribera d'Ebre;30;REB;Tarragona;43;294681;4567395;0.550170156;41.231902294
+Garcia;Garcia;Garcia;Garcia;430653;43065;Ribera d'Ebre;30;REB;Tarragona;43;302774;4556625;0.650125375;41.136985757
+Ginestar;Ginestar;Ginestar;Ginestar;430672;43067;Ribera d'Ebre;30;REB;Tarragona;43;301164;4546098;0.634355505;41.041843181
+Miravet;Miravet;Miravet;Miravet;430846;43084;Ribera d'Ebre;30;REB;Tarragona;43;298060;4545747;0.597571412;41.037919571
+Móra d'Ebre;Móra d'Ebre;Móra d'Ebre;Móra d'Ebre;430939;43093;Ribera d'Ebre;30;REB;Tarragona;43;301885;4551708;0.641124373;41.092510558
+Móra la Nova;Móra la Nova;Móra la Nova;Móra la Nova;430944;43094;Ribera d'Ebre;30;REB;Tarragona;43;302724;4552511;0.650853043;41.099943756
+Rasquera;Rasquera;Rasquera;Rasquera;431212;43121;Ribera d'Ebre;30;REB;Tarragona;43;297941;4541701;0.597487437;41.001478434
+Riba-roja d'Ebre;Riba-roja d'Ebre;Riba-roja d'Ebre;Riba-roja d'Ebre;431251;43125;Ribera d'Ebre;30;REB;Tarragona;43;289498;4569632;0.487612602;41.250705352
+Tivissa;Tivissa;Tivissa;Tivissa;431508;43150;Ribera d'Ebre;30;REB;Tarragona;43;309375;4546043;0.731989555;41.043306762
+Vinebre;Vinebre;Vinebre;Vinebre;431779;43177;Ribera d'Ebre;30;REB;Tarragona;43;297940;4561989;0.590805719;41.18406803
+la Palma d'Ebre;Palma d'Ebre, la;la Palma d'Ebre;Palma d'Ebre, la;430995;43099;Ribera d'Ebre;30;REB;Tarragona;43;304556;4572786;0.666168357;41.282871564
+la Torre de l'Espanyol;Torre de l'Espanyol, la;la Torre de l'Espanyol;Torre de l'Espanyol, la;431520;43152;Ribera d'Ebre;30;REB;Tarragona;43;300840;4562769;0.625098934;41.191809572
+Campdevànol;Campdevànol;Campdevànol;Campdevànol;170366;17036;Ripollès;31;RIP;Girona;17;431273;4675035;2.167213333;42.224467627
+Campelles;Campelles;Campelles;Campelles;170372;17037;Ripollès;31;RIP;Girona;17;429116;4682803;2.140128037;42.294229688
+Camprodon;Camprodon;Camprodon;Camprodon;170391;17039;Ripollès;31;RIP;Girona;17;447675;4684585;2.365078268;42.311741783
+Gombrèn;Gombrèn;Gombrèn;Gombrèn;170806;17080;Ripollès;31;RIP;Girona;17;425012;4677748;2.090996644;42.248326933
+Llanars;Llanars;Llanars;Llanars;170911;17091;Ripollès;31;RIP;Girona;17;445944;4685564;2.343988943;42.320443121
+Molló;Molló;Molló;Molló;171077;17107;Ripollès;31;RIP;Girona;17;450960;4688451;2.404610854;42.346774934
+Ogassa;Ogassa;Ogassa;Ogassa;171122;17112;Ripollès;31;RIP;Girona;17;440360;4679558;2.276852176;42.265950012
+Pardines;Pardines;Pardines;Pardines;171254;17125;Ripollès;31;RIP;Girona;17;435185;4684742;2.213525583;42.312220372
+Planoles;Planoles;Planoles;Planoles;171349;17134;Ripollès;31;RIP;Girona;17;426145;4685283;2.103769293;42.316282623
+Queralbs;Queralbs;Queralbs;Queralbs;170433;17043;Ripollès;31;RIP;Girona;17;431040;4688820;2.162746129;42.348583114
+Ribes de Freser;Ribes de Freser;Ribes de Freser;Ribes de Freser;171450;17145;Ripollès;31;RIP;Girona;17;431397;4684106;2.167638307;42.306166316
+Ripoll;Ripoll;Ripoll;Ripoll;171479;17147;Ripollès;31;RIP;Girona;17;433177;4672396;2.190587139;42.200866756
+Sant Joan de les Abadesses;Sant Joan de les Abadesses;Sant Joan de les Abadesses;Sant Joan de les Abadesses;171674;17167;Ripollès;31;RIP;Girona;17;440987;4675869;2.284821954;42.23277865
+Sant Pau de Segúries;Sant Pau de Segúries;Sant Pau de Segúries;Sant Pau de Segúries;171772;17177;Ripollès;31;RIP;Girona;17;447620;4678935;2.364922292;42.26086051
+Setcases;Setcases;Setcases;Setcases;171925;17192;Ripollès;31;RIP;Girona;17;442467;4691691;2.30117955;42.375371225
+Toses;Toses;Toses;Toses;172018;17201;Ripollès;31;RIP;Girona;17;419000;4685957;2.016986439;42.321643679
+Vallfogona de Ripollès;Vallfogona de Ripollès;Vallfogona de Ripollès;Vallfogona de Ripollès;171707;17170;Ripollès;31;RIP;Girona;17;442505;4671705;2.303632757;42.195385739
+Vilallonga de Ter;Vilallonga de Ter;Vilallonga de Ter;Vilallonga de Ter;172240;17224;Ripollès;31;RIP;Girona;17;443329;4686774;2.312139512;42.33115611
+les Llosses;Llosses, les;les Llosses;Llosses, les;170963;17096;Ripollès;31;RIP;Girona;17;427029;4666869;2.116808189;42.150545655
+Cervera;Cervera;Cervera;Cervera;250729;25072;Segarra;32;SGA;Lleida;25;356061;4614109;1.271020203;41.665741746
+Estaràs;Estaràs;Estaràs;Estaràs;250851;25085;Segarra;32;SGA;Lleida;25;365042;4616805;1.37825372;41.691586366
+Granyena de Segarra;Granyena de Segarra;Granyena de Segarra;Granyena de Segarra;251044;25104;Segarra;32;SGA;Lleida;25;353953;4609461;1.246857472;41.623510787
+Guissona;Guissona;Guissona;Guissona;251109;25110;Segarra;32;SGA;Lleida;25;357797;4627342;1.288706212;41.785190662
+Ivorra;Ivorra;Ivorra;Ivorra;251142;25114;Segarra;32;SGA;Lleida;25;366657;4625709;1.395657482;41.772023735
+Massoteres;Massoteres;Massoteres;Massoteres;251327;25132;Segarra;32;SGA;Lleida;25;359654;4628671;1.310738284;41.797486396
+Montoliu de Segarra;Montoliu de Segarra;Montoliu de Segarra;Montoliu de Segarra;251410;25141;Segarra;32;SGA;Lleida;25;355816;4605712;1.270111952;41.590097815
+Montornès de Segarra;Montornès de Segarra;Montornès de Segarra;Montornès de Segarra;251431;25143;Segarra;32;SGA;Lleida;25;352461;4606963;1.229567753;41.600744694
+Sanaüja;Sanaüja;Sanaüja;Sanaüja;251919;25191;Segarra;32;SGA;Lleida;25;359832;4637421;1.310801656;41.876295836
+Ribera d'Ondara;Ribera d'Ondara;Sant Antolí i Vilanova;Sant Antolí i Vilanova;259059;25905;Segarra;32;SGA;Lleida;25;361798;4609536;1.340967564;41.625584719
+Sant Guim de Freixenet;Sant Guim de Freixenet;Sant Guim de Freixenet;Sant Guim de Freixenet;251924;25192;Segarra;32;SGA;Lleida;25;368326;4612755;1.418591093;41.655667748
+Sant Guim de la Plana;Sant Guim de la Plana;Sant Guim de la Plana;Sant Guim de la Plana;251977;25197;Segarra;32;SGA;Lleida;25;360688;4624814;1.324076516;41.762941427
+Sant Ramon;Sant Ramon;Sant Ramon;Sant Ramon;251945;25194;Segarra;32;SGA;Lleida;25;363418;4620495;1.357902627;41.724532724
+Talavera;Talavera;Talavera;Talavera;252167;25216;Segarra;32;SGA;Lleida;25;361475;4604707;1.338203694;41.582053855
+Tarroja de Segarra;Tarroja de Segarra;Tarroja de Segarra;Tarroja de Segarra;252192;25219;Segarra;32;SGA;Lleida;25;356473;4621288;1.274248;41.730447949
+Torrefeta i Florejacs;Torrefeta i Florejacs;Torrefeta;Torrefeta;259078;25907;Segarra;32;SGA;Lleida;25;356480;4623905;1.27370028;41.754010508
+Granyanella;Granyanella;la Curullada;Curullada, la;251039;25103;Segarra;32;SGA;Lleida;25;352483;4614181;1.228047765;41.665734367
+les Oluges;Oluges, les;les Oluges;Oluges, les;251522;25152;Segarra;32;SGA;Lleida;25;360117;4617525;1.318928401;41.697221095
+els Plans de Sió;Plans de Sió, els;les Pallargues;Pallargues, les;259118;25911;Segarra;32;SGA;Lleida;25;350137;4624929;1.19717837;41.762058947
+Aitona;Aitona;Aitona;Aitona;250387;25038;Segrià;33;SGR;Lleida;25;287883;4596733;0.458875465;41.494156354
+Albatàrrec;Albatàrrec;Albatàrrec;Albatàrrec;250077;25007;Segrià;33;SGR;Lleida;25;300254;4605149;0.604158956;41.573075993
+Alcanó;Alcanó;Alcanó;Alcanó;250100;25010;Segrià;33;SGR;Lleida;25;301025;4594924;0.616776692;41.481244824
+Alcarràs;Alcarràs;Alcarràs;Alcarràs;250117;25011;Segrià;33;SGR;Lleida;25;293639;4604230;0.525200819;41.563128446
+Alcoletge;Alcoletge;Alcoletge;Alcoletge;250122;25012;Segrià;33;SGR;Lleida;25;307979;4613186;0.694161884;41.647304165
+Alfarràs;Alfarràs;Alfarràs;Alfarràs;250138;25013;Segrià;33;SGR;Lleida;25;298247;4633701;0.570449974;41.829515718
+Alfés;Alfés;Alfés;Alfés;250143;25014;Segrià;33;SGR;Lleida;25;301501;4599397;0.62100072;41.521618423
+Alguaire;Alguaire;Alguaire;Alguaire;250169;25016;Segrià;33;SGR;Lleida;25;299068;4623326;0.583830422;41.736353947
+Almacelles;Almacelles;Almacelles;Almacelles;250194;25019;Segrià;33;SGR;Lleida;25;286849;4623167;0.437094544;41.731744261
+Almatret;Almatret;Almatret;Almatret;250208;25020;Segrià;33;SGR;Lleida;25;284359;4575853;0.424135707;41.305328646
+Almenar;Almenar;Almenar;Almenar;250215;25021;Segrià;33;SGR;Lleida;25;297936;4630191;0.567895095;41.797843999
+Alpicat;Alpicat;Alpicat;Alpicat;250236;25023;Segrià;33;SGR;Lleida;25;296467;4615652;0.555198295;41.666634379
+Artesa de Lleida;Artesa de Lleida;Artesa de Lleida;Artesa de Lleida;250334;25033;Segrià;33;SGR;Lleida;25;308489;4602560;0.70367123;41.55179061
+Aspa;Aspa;Aspa;Aspa;250365;25036;Segrià;33;SGR;Lleida;25;305706;4596390;0.672325006;41.495591607
+Benavent de Segrià;Benavent de Segrià;Benavent de Segrià;Benavent de Segrià;250539;25053;Segrià;33;SGR;Lleida;25;303036;4618723;0.633031977;41.695925504
+Corbins;Corbins;Corbins;Corbins;250788;25078;Segrià;33;SGR;Lleida;25;308010;4617999;0.692989787;41.690621576
+Gimenells i el Pla de la Font;Gimenells i el Pla de la Font;Gimenells;Gimenells;259123;25912;Segrià;33;SGR;Lleida;25;282626;4614467;0.38953973;41.652321455
+Llardecans;Llardecans;Llardecans;Llardecans;251253;25125;Segrià;33;SGR;Lleida;25;295117;4583176;0.550051577;41.374032992
+Lleida;Lleida;Lleida;Lleida;251207;25120;Segrià;33;SGR;Lleida;25;302257;4609732;0.626648769;41.614813757
+Maials;Maials;Maials;Maials;251333;25133;Segrià;33;SGR;Lleida;25;291267;4582261;0.504374083;41.364813558
+Massalcoreig;Massalcoreig;Massalcoreig;Massalcoreig;251312;25131;Segrià;33;SGR;Lleida;25;279432;4593098;0.359062697;41.459164936
+Montoliu de Lleida;Montoliu de Lleida;Montoliu de Lleida;Montoliu de Lleida;251425;25142;Segrià;33;SGR;Lleida;25;298944;4603796;0.58890293;41.560567123
+Puigverd de Lleida;Puigverd de Lleida;Puigverd de Lleida;Puigverd de Lleida;251826;25182;Segrià;33;SGR;Lleida;25;310913;4601553;0.733030421;41.543303082
+Rosselló;Rosselló;Rosselló;Rosselló;251898;25189;Segrià;33;SGR;Lleida;25;299883;4618517;0.595233971;41.693287511
+Sarroca de Lleida;Sarroca de Lleida;Sarroca de Lleida;Sarroca de Lleida;252000;25200;Segrià;33;SGR;Lleida;25;296385;4592519;0.562054227;41.458434376
+Seròs;Seròs;Seròs;Seròs;252043;25204;Segrià;33;SGR;Lleida;25;283663;4593428;0.409552253;41.463292262
+Soses;Soses;Soses;Soses;252108;25210;Segrià;33;SGR;Lleida;25;290398;4600992;0.487489382;41.533146006
+Sudanell;Sudanell;Sudanell;Sudanell;252115;25211;Segrià;33;SGR;Lleida;25;297127;4603518;0.567232421;41.557613287
+Sunyer;Sunyer;Sunyer;Sunyer;252120;25212;Segrià;33;SGR;Lleida;25;299171;4599644;0.593018412;41.523258118
+Torre-serona;Torre-serona;Torre-serona;Torre-serona;252332;25233;Segrià;33;SGR;Lleida;25;302654;4616060;0.629325377;41.671862234
+Torrebesses;Torrebesses;Torrebesses;Torrebesses;252265;25226;Segrià;33;SGR;Lleida;25;299046;4588912;0.595093687;41.426648148
+Torrefarrera;Torrefarrera;Torrefarrera;Torrefarrera;252287;25228;Segrià;33;SGR;Lleida;25;300770;4616262;0.606638548;41.673216214
+Torres de Segre;Torres de Segre;Torres de Segre;Torres de Segre;252326;25232;Segrià;33;SGR;Lleida;25;292581;4601165;0.51357715;41.535264505
+Vilanova de Segrià;Vilanova de Segrià;Vilanova de Segrià;Vilanova de Segrià;252516;25251;Segrià;33;SGR;Lleida;25;301906;4620612;0.618834708;41.712645181
+Vilanova de la Barca;Vilanova de la Barca;Vilanova de la Barca;Vilanova de la Barca;252542;25254;Segrià;33;SGR;Lleida;25;311012;4617967;0.72904341;41.691058074
+els Alamús;Alamús, els;els Alamús;Alamús, els;250045;25004;Segrià;33;SGR;Lleida;25;311666;4609598;0.739536227;41.615888615
+la Granja d'Escarp;Granja d'Escarp, la;la Granja d'Escarp;Granja d'Escarp, la;251023;25102;Segrià;33;SGR;Lleida;25;278722;4588593;0.352225093;41.418438851
+la Portella;Portella, la;la Portella;Portella, la;251749;25174;Segrià;33;SGR;Lleida;25;303694;4623590;0.639320944;41.739889487
+Amer;Amer;Amer;Amer;170078;17007;Selva;34;SEL;Girona;17;467128;4650879;2.603018891;42.00924462
+Anglès;Anglès;Anglès;Anglès;170084;17008;Selva;34;SEL;Girona;17;470171;4645114;2.640058649;41.957446412
+Arbúcies;Arbúcies;Arbúcies;Arbúcies;170097;17009;Selva;34;SEL;Girona;17;459649;4629470;2.514167946;41.816080579
+Blanes;Blanes;Blanes;Blanes;170237;17023;Selva;34;SEL;Girona;17;482721;4613799;2.79240678;41.675766459
+Sant Julià del Llor i Bonmatí;Sant Julià del Llor i Bonmatí;Bonmatí;Bonmatí;179032;17903;Selva;34;SEL;Girona;17;472169;4646545;2.664109899;41.970410145
+Breda;Breda;Breda;Breda;170274;17027;Selva;34;SEL;Girona;17;463164;4621952;2.556951659;41.748538982
+Brunyola i Sant Martí Sapresa;Brunyola i Sant Martí Sapresa;Brunyola;Brunyola;170280;17028;Selva;34;SEL;Girona;17;473815;4639227;2.684296786;41.904551162
+Caldes de Malavella;Caldes de Malavella;Caldes de Malavella;Caldes de Malavella;170335;17033;Selva;34;SEL;Girona;17;484187;4631907;2.809537259;41.838900402
+Riells i Viabrea;Riells i Viabrea;Can Salvà;Can Salvà;171463;17146;Selva;34;SEL;Girona;17;463251;4619361;2.558162486;41.725201826
+Fogars de la Selva;Fogars de la Selva;Fogars de la Selva;Fogars de la Selva;080826;08082;Selva;34;SEL;Barcelona;08;472694;4620408;2.671644331;41.735011503
+Hostalric;Hostalric;Hostalric;Hostalric;170834;17083;Selva;34;SEL;Girona;17;469804;4621638;2.636836674;41.74599253
+Lloret de Mar;Lloret de Mar;Lloret de Mar;Lloret de Mar;170950;17095;Selva;34;SEL;Girona;17;487283;4616420;2.847167472;41.699465931
+Massanes;Massanes;Massanes;Massanes;171019;17101;Selva;34;SEL;Girona;17;471056;4623844;2.65177868;41.765902174
+Maçanet de la Selva;Maçanet de la Selva;Maçanet de la Selva;Maçanet de la Selva;171030;17103;Selva;34;SEL;Girona;17;477631;4625102;2.730836365;41.777448562
+Osor;Osor;Osor;Osor;171169;17116;Selva;34;SEL;Girona;17;463321;4643817;2.55748816;41.945470221
+Riudarenes;Riudarenes;Riudarenes;Riudarenes;171485;17148;Selva;34;SEL;Girona;17;476501;4630117;2.717045116;41.82258709
+Riudellots de la Selva;Riudellots de la Selva;Riudellots de la Selva;Riudellots de la Selva;171501;17150;Selva;34;SEL;Girona;17;483682;4637895;2.803296238;41.892818132
+Sant Feliu de Buixalleu;Sant Feliu de Buixalleu;Sant Feliu de Buixalleu;Sant Feliu de Buixalleu;171595;17159;Selva;34;SEL;Girona;17;465640;4626671;2.586467432;41.791147515
+Sant Hilari Sacalm;Sant Hilari Sacalm;Sant Hilari Sacalm;Sant Hilari Sacalm;171642;17164;Selva;34;SEL;Girona;17;459240;4636478;2.508763908;41.879177604
+Susqueda;Susqueda;Sant Martí Sacalm;Sant Martí Sacalm;171946;17194;Selva;34;SEL;Girona;17;462490;4651490;2.546977827;42.014545001
+Santa Coloma de Farners;Santa Coloma de Farners;Santa Coloma de Farners;Santa Coloma de Farners;171805;17180;Selva;34;SEL;Girona;17;472002;4634740;2.662652048;41.864076499
+Sils;Sils;Sils;Sils;171931;17193;Selva;34;SEL;Girona;17;478647;4628805;2.742934015;41.81082984
+Tossa de Mar;Tossa de Mar;Tossa de Mar;Tossa de Mar;172023;17202;Selva;34;SEL;Girona;17;494280;4618470;2.931230066;41.718007599
+Vidreres;Vidreres;Vidreres;Vidreres;172137;17213;Selva;34;SEL;Girona;17;481655;4626360;2.779222911;41.788884342
+Vilobí d'Onyar;Vilobí d'Onyar;Vilobí d'Onyar;Vilobí d'Onyar;172333;17233;Selva;34;SEL;Girona;17;478641;4637429;2.742548231;41.888505963
+la Cellera de Ter;Cellera de Ter, la;la Cellera de Ter;Cellera de Ter, la;171899;17189;Selva;34;SEL;Girona;17;468575;4646327;2.620736596;41.968304119
+Biosca;Biosca;Biosca;Biosca;250557;25055;Solsonès;35;SOL;Lleida;25;363738;4633567;1.358748948;41.842277682
+Odèn;Odèn;Cambrils;Cambrils;251484;25148;Solsonès;35;SOL;Lleida;25;366716;4665835;1.38728764;42.133294896
+Castellar de la Ribera;Castellar de la Ribera;Castellar de la Ribera;Castellar de la Ribera;250642;25064;Solsonès;35;SOL;Lleida;25;368862;4653509;1.415999097;42.022693092
+Clariana de Cardener;Clariana de Cardener;Clariana de Cardener;Clariana de Cardener;250753;25075;Solsonès;35;SOL;Lleida;25;386009;4643345;1.625028279;41.933846234
+Lladurs;Lladurs;Lladurs;Lladurs;251240;25124;Solsonès;35;SOL;Lleida;25;376542;4655812;1.508250669;42.044666674
+Llobera;Llobera;Llobera;Llobera;251291;25129;Solsonès;35;SOL;Lleida;25;373399;4645461;1.472518109;41.950967722
+Navès;Navès;Navès;Navès;251462;25146;Solsonès;35;SOL;Lleida;25;387360;4649649;1.64011245;41.990796996
+Pinós;Pinós;Pinós;Pinós;251673;25167;Solsonès;35;SOL;Lleida;25;378773;4632815;1.539931968;41.837957458
+Pinell de Solsonès;Pinell de Solsonès;Sant Climenç;Sant Climenç;251667;25166;Solsonès;35;SOL;Lleida;25;368938;4645465;1.418708558;41.950276466
+Sant Llorenç de Morunys;Sant Llorenç de Morunys;Sant Llorenç de Morunys;Sant Llorenç de Morunys;251930;25193;Solsonès;35;SOL;Lleida;25;383633;4665951;1.591892963;42.137034726
+Solsona;Solsona;Solsona;Solsona;252075;25207;Solsonès;35;SOL;Lleida;25;377267;4650211;1.518177593;41.994348446
+Torà;Torà;Torà;Torà;252234;25223;Solsonès;35;SOL;Lleida;25;367333;4630221;1.402776614;41.81276729
+Guixers;Guixers;Valls;Valls;251116;25111;Solsonès;35;SOL;Lleida;25;389804;4665356;1.666657653;42.132570093
+Riner;Riner;el Miracle;Miracle, el;251863;25186;Solsonès;35;SOL;Lleida;25;377677;4641335;1.524970684;41.914499342
+Olius;Olius;el Pi de Sant Just;Pi de Sant Just, el;251517;25151;Solsonès;35;SOL;Lleida;25;380302;4648291;1.555208806;41.977528234
+la Coma i la Pedra;Coma i la Pedra, la;la Coma;Coma, la;251636;25163;Solsonès;35;SOL;Lleida;25;383528;4670285;1.589748936;42.176048082
+la Molsosa;Molsosa, la;la Molsosa;Molsosa, la;251364;25136;Solsonès;35;SOL;Lleida;25;379033;4627008;1.544244425;41.785706085
+Altafulla;Altafulla;Altafulla;Altafulla;430120;43012;Tarragonès;36;TAR;Tarragona;43;363716;4555875;1.376050084;41.142750135
+Constantí;Constantí;Constantí;Constantí;430477;43047;Tarragonès;36;TAR;Tarragona;43;350023;4557376;1.212592424;41.153854407
+Creixell;Creixell;Creixell;Creixell;430509;43050;Tarragonès;36;TAR;Tarragona;43;369191;4558550;1.44069294;41.167743363
+Perafort;Perafort;Perafort;Perafort;431037;43103;Tarragonès;36;TAR;Tarragona;43;353691;4561436;1.255320372;41.191072965
+Renau;Renau;Renau;Renau;431227;43122;Tarragonès;36;TAR;Tarragona;43;358450;4565083;1.311192711;41.224758402
+Roda de Berà;Roda de Berà;Roda de Berà;Roda de Berà;431310;43131;Tarragonès;36;TAR;Tarragona;43;370377;4560554;1.45440035;41.185978787
+Salomó;Salomó;Salomó;Salomó;431359;43135;Tarragonès;36;TAR;Tarragona;43;363773;4565500;1.374588576;41.229424965
+Salou;Salou;Salou;Salou;439057;43905;Tarragonès;36;TAR;Tarragona;43;343275;4549478;1.134226673;41.081471656
+Tarragona;Tarragona;Tarragona;Tarragona;431482;43148;Tarragonès;36;TAR;Tarragona;43;353527;4553204;1.255330426;41.116927895
+Torredembarra;Torredembarra;Torredembarra;Torredembarra;431536;43153;Tarragonès;36;TAR;Tarragona;43;365365;4556168;1.395631328;41.145661627
+Vespella de Gaià;Vespella de Gaià;Vespella de Gaià;Vespella de Gaià;431649;43164;Tarragonès;36;TAR;Tarragona;43;362495;4562703;1.359974477;41.204030417
+Vila-seca;Vila-seca;Vila-seca;Vila-seca;431711;43171;Tarragonès;36;TAR;Tarragona;43;344253;4552734;1.145039098;41.110971948
+Vilallonga del Camp;Vilallonga del Camp;Vilallonga del Camp;Vilallonga del Camp;431665;43166;Tarragonès;36;TAR;Tarragona;43;349580;4563780;1.20574366;41.21142924
+el Catllar;Catllar, el;el Catllar;Catllar, el;430430;43043;Tarragonès;36;TAR;Tarragona;43;359606;4559577;1.326250797;41.175380726
+el Morell;Morell, el;el Morell;Morell, el;430957;43095;Tarragonès;36;TAR;Tarragona;43;349799;4561639;1.208875583;41.192191787
+els Pallaresos;Pallaresos, els;els Pallaresos;Pallaresos, els;431009;43100;Tarragonès;36;TAR;Tarragona;43;354848;4559646;1.26952816;41.175170292
+la Canonja;Canonja, la;la Canonja;Canonja, la;439076;43907;Tarragonès;36;TAR;Tarragona;43;347142;4554055;1.179098666;41.123413761
+la Nou de Gaià;Nou de Gaià, la;la Nou de Gaià;Nou de Gaià, la;430976;43097;Tarragonès;36;TAR;Tarragona;43;363607;4560345;1.373760241;41.182986176
+la Pobla de Mafumet;Pobla de Mafumet, la;la Pobla de Mafumet;Pobla de Mafumet, la;431093;43109;Tarragonès;36;TAR;Tarragona;43;349858;4561125;1.209706004;41.18757797
+la Pobla de Montornès;Pobla de Montornès, la;la Pobla de Montornès;Pobla de Montornès, la;431114;43111;Tarragonès;36;TAR;Tarragona;43;367040;4559591;1.414836966;41.176764276
+la Riera de Gaià;Riera de Gaià, la;la Riera de Gaià;Riera de Gaià, la;431264;43126;Tarragonès;36;TAR;Tarragona;43;362556;4558352;1.361681623;41.164855893
+la Secuita;Secuita, la;la Secuita;Secuita, la;431444;43144;Tarragonès;36;TAR;Tarragona;43;355757;4562902;1.279593598;41.20464645
+Arnes;Arnes;Arnes;Arnes;430189;43018;Terra Alta;37;TAL;Tarragona;43;269310;4532379;0.260882637;40.910005124
+Batea;Batea;Batea;Batea;430228;43022;Terra Alta;37;TAL;Tarragona;43;274198;4552727;0.311413833;41.094462323
+Bot;Bot;Bot;Bot;430326;43032;Terra Alta;37;TAL;Tarragona;43;280079;4543068;0.384818011;41.009156655
+Caseres;Caseres;Caseres;Caseres;430419;43041;Terra Alta;37;TAL;Tarragona;43;268908;4546677;0.250766135;41.038538992
+Corbera d'Ebre;Corbera d'Ebre;Corbera d'Ebre;Corbera d'Ebre;430483;43048;Terra Alta;37;TAL;Tarragona;43;288131;4550443;0.477947926;41.077660463
+Gandesa;Gandesa;Gandesa;Gandesa;430640;43064;Terra Alta;37;TAL;Tarragona;43;284794;4547704;0.439214346;41.052136004
+Horta de Sant Joan;Horta de Sant Joan;Horta de Sant Joan;Horta de Sant Joan;430712;43071;Terra Alta;37;TAL;Tarragona;43;274170;4537107;0.316800183;40.953905217
+Prat de Comte;Prat de Comte;Prat de Comte;Prat de Comte;431172;43117;Terra Alta;37;TAL;Tarragona;43;281712;4540199;0.405234861;40.983775267
+Vilalba dels Arcs;Vilalba dels Arcs;Vilalba dels Arcs;Vilalba dels Arcs;431750;43175;Terra Alta;37;TAL;Tarragona;43;282581;4555424;0.410180932;41.121014372
+el Pinell de Brai;Pinell de Brai, el;el Pinell de Brai;Pinell de Brai, el;431068;43106;Terra Alta;37;TAL;Tarragona;43;290996;4543450;0.51439464;41.015469093
+la Fatarella;Fatarella, la;la Fatarella;Fatarella, la;430568;43056;Terra Alta;37;TAL;Tarragona;43;288010;4559860;0.473250114;41.162369126
+la Pobla de Massaluca;Pobla de Massaluca, la;la Pobla de Massaluca;Pobla de Massaluca, la;431107;43110;Terra Alta;37;TAL;Tarragona;43;278044;4562144;0.353761607;41.180257912
+Agramunt;Agramunt;Agramunt;Agramunt;250030;25003;Urgell;38;URG;Lleida;25;342025;4627901;1.098859253;41.787239279
+Anglesola;Anglesola;Anglesola;Anglesola;250273;25027;Urgell;38;URG;Lleida;25;340255;4613680;1.081379442;41.658868197
+Belianes;Belianes;Belianes;Belianes;250463;25046;Urgell;38;URG;Lleida;25;334689;4603015;1.017511477;41.561728116
+Bellpuig;Bellpuig;Bellpuig;Bellpuig;250501;25050;Urgell;38;URG;Lleida;25;334324;4610161;1.011153698;41.625979583
+Castellserà;Castellserà;Castellserà;Castellserà;250707;25070;Urgell;38;URG;Lleida;25;332622;4623634;0.986958685;41.746900004
+Ciutadilla;Ciutadilla;Ciutadilla;Ciutadilla;250740;25074;Urgell;38;URG;Lleida;25;344844;4602779;1.139284506;41.561635518
+Guimerà;Guimerà;Guimerà;Guimerà;251095;25109;Urgell;38;URG;Lleida;25;348678;4602993;1.185197254;41.564300977
+Maldà;Maldà;Maldà;Maldà;251305;25130;Urgell;38;URG;Lleida;25;336544;4601774;1.040077271;41.550940403
+Nalec;Nalec;Nalec;Nalec;251459;25145;Urgell;38;URG;Lleida;25;342829;4602661;1.11516823;41.560181134
+Ossó de Sió;Ossó de Sió;Ossó de Sió;Ossó de Sió;251575;25157;Urgell;38;URG;Lleida;25;346982;4624198;1.159434416;41.754880026
+Preixana;Preixana;Preixana;Preixana;251765;25176;Urgell;38;URG;Lleida;25;336484;4608090;1.037644841;41.607780658
+Puigverd d'Agramunt;Puigverd d'Agramunt;Puigverd d'Agramunt;Puigverd d'Agramunt;251811;25181;Urgell;38;URG;Lleida;25;343927;4626753;1.122034943;41.777278312
+Sant Martí de Riucorb;Sant Martí de Riucorb;Sant Martí de Maldà;Sant Martí de Maldà;259025;25902;Urgell;38;URG;Lleida;25;337770;4602658;1.054532188;41.559144039
+Tornabous;Tornabous;Tornabous;Tornabous;252252;25225;Urgell;38;URG;Lleida;25;338006;4618484;1.053080289;41.701659826
+Tàrrega;Tàrrega;Tàrrega;Tàrrega;252173;25217;Urgell;38;URG;Lleida;25;345054;4612190;1.13936906;41.64640449
+Vallbona de les Monges;Vallbona de les Monges;Vallbona de les Monges;Vallbona de les Monges;252385;25238;Urgell;38;URG;Lleida;25;340524;4598805;1.088563444;41.525015755
+Verdú;Verdú;Verdú;Verdú;252424;25242;Urgell;38;URG;Lleida;25;345323;4608161;1.143637907;41.610182657
+Vilagrassa;Vilagrassa;Vilagrassa;Vilagrassa;252445;25244;Urgell;38;URG;Lleida;25;342260;4612490;1.10576315;41.648557721
+els Omells de na Gaia;Omells de na Gaia, els;els Omells de na Gaia;Omells de na Gaia, els;251543;25154;Urgell;38;URG;Lleida;25;339321;4596039;1.074888402;41.499870775
+la Fuliola;Fuliola, la;la Fuliola;Fuliola, la;250962;25096;Urgell;38;URG;Lleida;25;335160;4619810;1.018525477;41.713010708
+Arres;Arres;Arres de Jos;Arres de Jos;250313;25031;Val d'Aran;39;VAR;Lleida;25;312715;4736137;0.71138294;42.754900684
+Bausen;Bausen;Bausen;Bausen;250450;25045;Val d'Aran;39;VAR;Lleida;25;313405;4744984;0.716881022;42.834669843
+Bossòst;Bossòst;Bossòst;Bossòst;250595;25059;Val d'Aran;39;VAR;Lleida;25;311223;4739589;0.692016272;42.785593957
+Canejan;Canejan;Canejan;Canejan;250637;25063;Val d'Aran;39;VAR;Lleida;25;315289;4745323;0.739804236;42.838178118
+Es Bòrdes;Bòrdes, Es;Es Bòrdes;Bòrdes, Es;250576;25057;Val d'Aran;39;VAR;Lleida;25;313308;4734245;0.719252514;42.738018737
+Les;Les;Les;Les;251214;25121;Val d'Aran;39;VAR;Lleida;25;312806;4742268;0.710457379;42.810089167
+Naut Aran;Naut Aran;Salardú;Salardú;250254;25025;Val d'Aran;39;VAR;Lleida;25;328113;4730382;0.901170239;42.706712131
+Vielha e Mijaran;Vielha e Mijaran;Vielha;Vielha;252430;25243;Val d'Aran;39;VAR;Lleida;25;319458;4730076;0.795650851;42.70196997
+Vilamòs;Vilamòs;Vilamòs;Vilamòs;252477;25247;Val d'Aran;39;VAR;Lleida;25;313961;4735275;0.726886536;42.747441963
+Badia del Vallès;Badia del Vallès;Badia del Vallès;Badia del Vallès;089045;08904;Vallès Occidental;40;VOC;Barcelona;08;426007;4595651;2.113347047;41.509070517
+Barberà del Vallès;Barberà del Vallès;Barberà del Vallès;Barberà del Vallès;082520;08252;Vallès Occidental;40;VOC;Barcelona;08;426954;4596420;2.124595576;41.516082587
+Castellar del Vallès;Castellar del Vallès;Castellar del Vallès;Castellar del Vallès;080517;08051;Vallès Occidental;40;VOC;Barcelona;08;423955;4607686;2.087229617;41.617268216
+Castellbisbal;Castellbisbal;Castellbisbal;Castellbisbal;080543;08054;Vallès Occidental;40;VOC;Barcelona;08;414881;4591980;1.980556465;41.474905372
+Cerdanyola del Vallès;Cerdanyola del Vallès;Cerdanyola del Vallès;Cerdanyola del Vallès;082665;08266;Vallès Occidental;40;VOC;Barcelona;08;428260;4593656;2.140571964;41.491307302
+Gallifa;Gallifa;Gallifa;Gallifa;080879;08087;Vallès Occidental;40;VOC;Barcelona;08;426393;4616095;2.115452621;41.693234907
+Matadepera;Matadepera;Matadepera;Matadepera;081206;08120;Vallès Occidental;40;VOC;Barcelona;08;418862;4605471;2.026405601;41.596819281
+Montcada i Reixac;Montcada i Reixac;Montcada;Montcada;081252;08125;Vallès Occidental;40;VOC;Barcelona;08;432213;4593095;2.18799215;41.486605137
+Palau-solità i Plegamans;Palau-solità i Plegamans;Palau-solità i Plegamans;Palau-solità i Plegamans;081568;08156;Vallès Occidental;40;VOC;Barcelona;08;431533;4604291;2.178570418;41.587377763
+Polinyà;Polinyà;Polinyà;Polinyà;081672;08167;Vallès Occidental;40;VOC;Barcelona;08;429666;4601006;2.156558703;41.557632516
+Rellinars;Rellinars;Rellinars;Rellinars;081799;08179;Vallès Occidental;40;VOC;Barcelona;08;409285;4610086;1.910811449;41.637352874
+Ripollet;Ripollet;Ripollet;Ripollet;081803;08180;Vallès Occidental;40;VOC;Barcelona;08;429477;4594287;2.155081583;41.497105194
+Rubí;Rubí;Rubí;Rubí;081846;08184;Vallès Occidental;40;VOC;Barcelona;08;419127;4593863;2.031153605;41.49230826
+Sabadell;Sabadell;Sabadell;Sabadell;081878;08187;Vallès Occidental;40;VOC;Barcelona;08;425627;4599779;2.108276488;41.546220016
+Sant Cugat del Vallès;Sant Cugat del Vallès;Sant Cugat del Vallès;Sant Cugat del Vallès;082055;08205;Vallès Occidental;40;VOC;Barcelona;08;423591;4591427;2.084930177;41.470805245
+Sant Llorenç Savall;Sant Llorenç Savall;Sant Llorenç Savall;Sant Llorenç Savall;082233;08223;Vallès Occidental;40;VOC;Barcelona;08;421620;4614535;2.058309974;41.678725406
+Sant Quirze del Vallès;Sant Quirze del Vallès;Sant Quirze del Vallès;Sant Quirze del Vallès;082384;08238;Vallès Occidental;40;VOC;Barcelona;08;423319;4598347;2.080789249;41.533103673
+Santa Perpètua de Mogoda;Santa Perpètua de Mogoda;Santa Perpètua de Mogoda;Santa Perpètua de Mogoda;082606;08260;Vallès Occidental;40;VOC;Barcelona;08;431861;4598463;2.183170164;41.534919247
+Sentmenat;Sentmenat;Sentmenat;Sentmenat;082671;08267;Vallès Occidental;40;VOC;Barcelona;08;427961;4606689;2.135427871;41.608664926
+Terrassa;Terrassa;Terrassa;Terrassa;082798;08279;Vallès Occidental;40;VOC;Barcelona;08;417480;4601777;2.010333414;41.563415465
+Ullastrell;Ullastrell;Ullastrell;Ullastrell;082900;08290;Vallès Occidental;40;VOC;Barcelona;08;413222;4597969;1.959821989;41.528665678
+Vacarisses;Vacarisses;Vacarisses;Vacarisses;082917;08291;Vallès Occidental;40;VOC;Barcelona;08;409834;4606734;1.917909239;41.607228344
+Viladecavalls;Viladecavalls;Viladecavalls;Viladecavalls;083008;08300;Vallès Occidental;40;VOC;Barcelona;08;412753;4600883;1.953783969;41.554858631
+Bigues i Riells del Fai;Bigues i Riells del Fai;Bigues;Bigues;080235;08023;Vallès Oriental;41;VOR;Barcelona;08;435236;4614239;2.221915789;41.677289414
+Caldes de Montbui;Caldes de Montbui;Caldes de Montbui;Caldes de Montbui;080333;08033;Vallès Oriental;41;VOR;Barcelona;08;430280;4609530;2.162930303;41.634459496
+Campins;Campins;Campins;Campins;080399;08039;Vallès Oriental;41;VOR;Barcelona;08;455371;4619344;2.463430993;41.724643513
+Canovelles;Canovelles;Canovelles;Canovelles;080410;08041;Vallès Oriental;41;VOR;Barcelona;08;439784;4608043;2.277179111;41.621838569
+Cardedeu;Cardedeu;Cardedeu;Cardedeu;080462;08046;Vallès Oriental;41;VOR;Barcelona;08;446361;4609844;2.355953108;41.638528198
+les Franqueses del Vallès;Franqueses del Vallès, les;Corró d'Avall;Corró d'Avall;080863;08086;Vallès Oriental;41;VOR;Barcelona;08;441488;4609632;2.297473315;41.636277818
+Cànoves i Samalús;Cànoves i Samalús;Cànoves;Cànoves;080425;08042;Vallès Oriental;41;VOR;Barcelona;08;446276;4615953;2.354390336;41.69353999
+Figaró-Montmany;Figaró-Montmany;Figaró;Figaró;081347;08134;Vallès Oriental;41;VOR;Barcelona;08;439545;4619148;2.27318706;41.721837996
+Granollers;Granollers;Granollers;Granollers;080961;08096;Vallès Oriental;41;VOR;Barcelona;08;440636;4606495;2.287549966;41.607956446
+Gualba;Gualba;Gualba;Gualba;080977;08097;Vallès Oriental;41;VOR;Barcelona;08;458575;4620091;2.501889753;41.731551614
+Llinars del Vallès;Llinars del Vallès;Llinars del Vallès;Llinars del Vallès;081069;08106;Vallès Oriental;41;VOR;Barcelona;08;450401;4609866;2.404456817;41.638986049
+Lliçà d'Amunt;Lliçà d'Amunt;Lliçà d'Amunt;Lliçà d'Amunt;081075;08107;Vallès Oriental;41;VOR;Barcelona;08;436511;4606878;2.238010433;41.611092413
+Lliçà de Vall;Lliçà de Vall;Lliçà de Vall;Lliçà de Vall;081081;08108;Vallès Oriental;41;VOR;Barcelona;08;436615;4604091;2.239555897;41.585998279
+Martorelles;Martorelles;Martorelles;Martorelles;081154;08115;Vallès Oriental;41;VOR;Barcelona;08;436865;4597374;2.243262968;41.525524772
+Mollet del Vallès;Mollet del Vallès;Mollet del Vallès;Mollet del Vallès;081249;08124;Vallès Oriental;41;VOR;Barcelona;08;434188;4598598;2.211045913;41.536328945
+Montmeló;Montmeló;Montmeló;Montmeló;081350;08135;Vallès Oriental;41;VOR;Barcelona;08;437291;4600263;2.248068696;41.551577302
+Montornès del Vallès;Montornès del Vallès;Montornès del Vallès;Montornès del Vallès;081363;08136;Vallès Oriental;41;VOR;Barcelona;08;438798;4599509;2.266212986;41.544901315
+Montseny;Montseny;Montseny;Montseny;081379;08137;Vallès Oriental;41;VOR;Barcelona;08;449699;4623213;2.394910036;41.759158173
+Fogars de Montclús;Fogars de Montclús;Mosqueroles;Mosqueroles;080811;08081;Vallès Oriental;41;VOR;Barcelona;08;453689;4619718;2.443172895;41.727920226
+Parets del Vallès;Parets del Vallès;Parets del Vallès;Parets del Vallès;081593;08159;Vallès Oriental;41;VOR;Barcelona;08;436170;4602658;2.234374942;41.573058332
+Sant Antoni de Vilamajor;Sant Antoni de Vilamajor;Sant Antoni de Vilamajor;Sant Antoni de Vilamajor;081982;08198;Vallès Oriental;41;VOR;Barcelona;08;450158;4613703;2.401225232;41.673531138
+Sant Celoni;Sant Celoni;Sant Celoni;Sant Celoni;082021;08202;Vallès Oriental;41;VOR;Barcelona;08;457726;4615480;2.492009735;41.689974816
+Sant Esteve de Palautordera;Sant Esteve de Palautordera;Sant Esteve de Palautordera;Sant Esteve de Palautordera;082074;08207;Vallès Oriental;41;VOR;Barcelona;08;453142;4616905;2.436820784;41.702551289
+Sant Feliu de Codines;Sant Feliu de Codines;Sant Feliu de Codines;Sant Feliu de Codines;082107;08210;Vallès Oriental;41;VOR;Barcelona;08;430435;4615567;2.164079984;41.688844816
+Sant Fost de Campsentelles;Sant Fost de Campsentelles;Sant Fost de Campsentelles;Sant Fost de Campsentelles;082093;08209;Vallès Oriental;41;VOR;Barcelona;08;435969;4596635;2.232602775;41.518797542
+Sant Pere de Vilamajor;Sant Pere de Vilamajor;Sant Pere de Vilamajor;Sant Pere de Vilamajor;082346;08234;Vallès Oriental;41;VOR;Barcelona;08;449097;4614889;2.388373648;41.684148422
+Santa Eulàlia de Ronçana;Santa Eulàlia de Ronçana;Santa Eulàlia de Ronçana;Santa Eulàlia de Ronçana;082482;08248;Vallès Oriental;41;VOR;Barcelona;08;435846;4611480;2.22953985;41.65248899
+Santa Maria de Martorelles;Santa Maria de Martorelles;Santa Maria de Martorelles;Santa Maria de Martorelles;082567;08256;Vallès Oriental;41;VOR;Barcelona;08;437694;4596711;2.253260234;41.519617357
+Santa Maria de Palautordera;Santa Maria de Palautordera;Santa Maria de Palautordera;Santa Maria de Palautordera;082592;08259;Vallès Oriental;41;VOR;Barcelona;08;453890;4615866;2.445887832;41.693237536
+Tagamanent;Tagamanent;Tagamanent;Tagamanent;082763;08276;Vallès Oriental;41;VOR;Barcelona;08;439056;4620906;2.267121372;41.737632503
+Vallgorguina;Vallgorguina;Vallgorguina;Vallgorguina;082943;08294;Vallès Oriental;41;VOR;Barcelona;08;459242;4610746;2.510551073;41.647412544
+Vallromanes;Vallromanes;Vallromanes;Vallromanes;082969;08296;Vallès Oriental;41;VOR;Barcelona;08;441432;4598006;2.297940997;41.531562767
+Vilalba Sasserra;Vilalba Sasserra;Vilalba Sasserra;Vilalba Sasserra;083067;08306;Vallès Oriental;41;VOR;Barcelona;08;453461;4611371;2.441078141;41.652725296
+Vilanova del Vallès;Vilanova del Vallès;Vilanova del Vallès;Vilanova del Vallès;089024;08902;Vallès Oriental;41;VOR;Barcelona;08;440720;4600523;2.289150335;41.554177288
+l'Ametlla del Vallès;Ametlla del Vallès, l';l'Ametlla del Vallès;Ametlla del Vallès, l';080057;08005;Vallès Oriental;41;VOR;Barcelona;08;438340;4613769;2.259255578;41.673301252
+la Garriga;Garriga, la;la Garriga;Garriga, la;080885;08088;Vallès Oriental;41;VOR;Barcelona;08;440553;4615069;2.285700594;41.685175167
+la Llagosta;Llagosta, la;la Llagosta;Llagosta, la;081056;08105;Vallès Oriental;41;VOR;Barcelona;08;432656;4596013;2.192966992;41.512916645
+la Roca del Vallès;Roca del Vallès, la;la Roca del Vallès;Roca del Vallès, la;081810;08181;Vallès Oriental;41;VOR;Barcelona;08;443797;4604191;2.325707417;41.587437049
+Calders;Calders;Calders;Calders;080348;08034;Moianès;42;MOI;Barcelona;08;416234;4626883;1.9918776;41.789382427
+Castellcir;Castellcir;Castellcir;Castellcir;080556;08055;Moianès;42;MOI;Barcelona;08;429318;4623528;2.14971647;41.760438651
+Castellterçol;Castellterçol;Castellterçol;Castellterçol;080641;08064;Moianès;42;MOI;Barcelona;08;426882;4622558;2.120534702;41.751482766
+Collsuspina;Collsuspina;Collsuspina;Collsuspina;080706;08070;Moianès;42;MOI;Barcelona;08;431507;4630742;2.175212812;41.825605156
+Granera;Granera;Granera;Granera;080958;08095;Moianès;42;MOI;Barcelona;08;421540;4619723;2.056667057;41.725440927
+Moià;Moià;Moià;Moià;081385;08138;Moianès;42;MOI;Barcelona;08;425009;4629414;2.097144427;41.813056066
+Monistrol de Calders;Monistrol de Calders;Monistrol de Calders;Monistrol de Calders;081287;08128;Moianès;42;MOI;Barcelona;08;418024;4623583;2.013870057;41.759848006
+Sant Quirze Safaja;Sant Quirze Safaja;Sant Quirze Safaja;Sant Quirze Safaja;082397;08239;Moianès;42;MOI;Barcelona;08;429722;4619921;2.155008262;41.727989409
+Santa Maria d'Oló;Santa Maria d'Oló;Santa Maria d'Oló;Santa Maria d'Oló;082589;08258;Moianès;42;MOI;Barcelona;08;419973;4636216;2.035604967;41.873819518
+l'Estany;Estany, l';l'Estany;Estany, l';080790;08079;Moianès;42;MOI;Barcelona;08;426333;4635610;2.112307789;41.868979464
+Alpens;Alpens;Alpens;Alpens;080044;08004;Lluçanès;43;LLU;Barcelona;08;425708;4663415;2.101272672;42.119320911
+Olost;Olost;Olost;Olost;081496;08149;Lluçanès;43;LLU;Barcelona;08;425109;4648620;2.095915035;41.986027278
+Oristà;Oristà;Oristà;Oristà;081516;08151;Lluçanès;43;LLU;Barcelona;08;422130;4642680;2.060736976;41.932247732
+Perafita;Perafita;Perafita;Perafita;081607;08160;Lluçanès;43;LLU;Barcelona;08;426076;4654854;2.10679646;42.042262095
+Prats de Lluçanès;Prats de Lluçanès;Prats de Lluçanès;Prats de Lluçanès;081712;08171;Lluçanès;43;LLU;Barcelona;08;419641;4651228;2.029558026;42.008974653
+Sant Martí d'Albars;Sant Martí d'Albars;Sant Martí d'Albars;Sant Martí d'Albars;082251;08225;Lluçanès;43;LLU;Barcelona;08;423334;4653330;2.073872971;42.028267164
+Lluçà;Lluçà;Santa Eulàlia de Puig-oriol;Santa Eulàlia de Puig-oriol;081094;08109;Lluçanès;43;LLU;Barcelona;08;423269;4657776;2.072504134;42.068304343
+Sobremunt;Sobremunt;Sobremunt;Sobremunt;082711;08271;Lluçanès;43;LLU;Barcelona;08;431048;4654113;2.166952101;42.036038964
