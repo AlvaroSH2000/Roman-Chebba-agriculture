@@ -1,0 +1,101 @@
+A_max: 20000 #ha
+A_min: 1000 #ha
+
+alpha_v: 0.65
+alpha_o: 0.35
+
+y_base: 
+    "v": [4500,5000],  # wine L/ha
+    "o": [169,170],   # oil L/ha
+    "w": [1100,1400]   # wheat kg/ha
+
+gamma_soil:
+    1:    # soil type 1
+        "v": [0.95,1.0],  # wine
+        "o": [0.999,1.0],  # oil
+        "w": [0.999,1.0]   # wheat
+    2:  # soil type 2
+        "v": [0.8,0.9],  # wine
+        "o": [0.85,0.95],  # oil
+        "w": [0.65,0.75]   # wheat
+    3:  # soil type 3
+        "v": [0.65,0.75],  # wine
+        "o": [0.6,0.75],  # oil
+        "w": [0.5,0.65]   # wheat
+
+gamma_hydro:
+    1:  # hydro type 1
+        "v": [0.95,1.0],  # wine
+        "o": [0.95,1.0],  # oil
+        "w": [0.95,1.0]   # wheat
+    2:  # hydro type 2
+        "v": [0.7,0.8],  # wine
+        "o": [0.7,0.8],  # oil
+        "w": [0.7,0.8]   # wheat
+
+eta_rain:
+    "dry":
+        "v": 0.85,  # wine
+        "o": 0.8,  # oil
+        "w": 0.65   # wheat
+    "normal":
+        "v": 1.0,  # wine
+        "o": 1.0,  # oil
+        "w": 1.0   # wheat
+    "humid":
+        "v": 1.05,  # wine
+        "o": 1.10,  # oil
+        "w": 1.15   # wheat
+
+eta_temp:
+    "cool":
+        "v": 0.9,  # wine
+        "o": 0.95,  # oil
+        "w": 1.05   # wheat
+    "normal":
+        "v": 1.0,  # wine
+        "o": 1.0,  # oil
+        "w": 1.0   # wheat
+    "warm":
+        "v": 1.03,  # wine
+        "o": 1.0,   # oil
+        "w": 0.92    # wheat
+    "very_warm":
+        "v": 0.85,  # wine
+        "o": 0.9,   # oil
+        "w": 0.8    # wheat
+
+mu_site:
+    "small_farm":
+        "v": [0.75,0.85],  # wine
+        "o": [0.75,0.90],   # oil
+        "w": [0.85,0.95]    # wheat
+    "large_farm":
+        "v": [0.85,0.95],   # wine
+        "o": [0.9,1.0],   # oil
+        "w": [0.999,1.0]    # wheat
+    "villa":
+        "v": [1.15,1.25],   # wine
+        "o": [1.15,1.25],   # oil
+        "w": [1.0999,1.1]    # wheat
+
+epsilon_extreme: [0.8, 0.9]
+
+lambda:
+    "v": 0.1,  # wine
+    "o": 0.15, # oil
+    "w": 0.2   # wheat
+
+Alt_o: [0.7, 1, 1.2] 
+R_w: 0.5
+
+beta_w: 0.45
+
+food_requirement_base: 300 #kg/person/year
+kappa_food:
+    "adult_male": 1.0,
+    "adult_female": 0.8,
+    "adolescent": 0.65,
+    "child": 0.45,
+    "eldery": 0.70
+    
