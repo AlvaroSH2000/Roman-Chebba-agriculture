@@ -47,7 +47,6 @@ class FieldAgent(Agent):
         def yield_function(crop):
             rain_state = getattr(self.model, "rain", "normal")
             temp_state = getattr(self.model, "temp", "normal")
-            epsilon = getattr(self.model, "epsilon", 1)
             site_type = getattr(self.site, "site_type", "villa")
             if site_type not in self.model.params["mu_site"]:
                 site_type = "villa"
@@ -55,11 +54,9 @@ class FieldAgent(Agent):
             return (
                 self.model.rand(self.model.params["y_base"][crop])
                 * self.model.rand(self.model.params["gamma_soil"][int(self.soil)][crop])
-                * self.model.rand(self.model.params["gamma_hydro"][int(self.hydro)][crop])
-                * self.model.params["eta_rain"][rain_state][crop]
-                * self.model.params["eta_temp"][temp_state][crop]
+                * self.model.params["gamma_hydro"][int(self.hydro)][crop]
+                * self.model.params["eta_climate"][crop][temp_state][rain_state]
                 * self.model.rand(self.model.params["mu_site"][site_type][crop])
-                * epsilon
             )
         if self.crop == "v":
             self.y_v = yield_function("v")
@@ -92,7 +89,7 @@ class FieldAgent(Agent):
         lambda_o = getattr(self.model, "lambda_o", self.model.params["lambda"]["o"])
         lambda_w = getattr(self.model, "lambda_w", self.model.params["lambda"]["w"])
         r_w = getattr(self.model, "R_w", self.model.params.get("R_w", 0.5))
-        sigma_w = getattr(self.model, "sigma_w", 0)
+        sigma_w = getattr(self.model, "sigma_w", self.model.params.get("sigma_w", 0))
 
         self.Q_v = self.area * self.y_v * delta_t * (1 - lambda_v)
         self.Q_o = self.area * self.y_o * delta_t * (1 - lambda_o) * self.model.random.choice(self.model.params["Alt_o"])

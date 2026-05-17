@@ -1,5 +1,4 @@
-A_max: 20000 #ha
-A_min: 1000 #ha
+L_cell: 50 #m
 
 alpha_v: 0.65
 alpha_o: 0.35
@@ -25,45 +24,90 @@ gamma_soil:
 
 gamma_hydro:
     1:  # hydro type 1
-        "v": [0.95,1.0],  # wine
-        "o": [0.95,1.0],  # oil
-        "w": [0.95,1.0]   # wheat
-    2:  # hydro type 2
-        "v": [0.7,0.8],  # wine
-        "o": [0.7,0.8],  # oil
-        "w": [0.7,0.8]   # wheat
-
-eta_rain:
-    "dry":
-        "v": 0.85,  # wine
-        "o": 0.8,  # oil
-        "w": 0.65   # wheat
-    "normal":
-        "v": 1.0,  # wine
-        "o": 1.0,  # oil
-        "w": 1.0   # wheat
-    "humid":
-        "v": 1.05,  # wine
-        "o": 1.10,  # oil
-        "w": 1.15   # wheat
-
-eta_temp:
-    "cool":
-        "v": 0.9,  # wine
-        "o": 0.95,  # oil
-        "w": 1.05   # wheat
-    "normal":
-        "v": 1.0,  # wine
-        "o": 1.0,  # oil
-        "w": 1.0   # wheat
-    "warm":
         "v": 1.03,  # wine
-        "o": 1.0,   # oil
-        "w": 0.92    # wheat
-    "very_warm":
-        "v": 0.85,  # wine
-        "o": 0.9,   # oil
-        "w": 0.8    # wheat
+        "o": 1.05,  # oil
+        "w": 1.10   # wheat
+    2:  # hydro type 2
+        "v": 0.95,  # wine
+        "o": 1.0,  # oil
+        "w": 1.0   # wheat
+
+eta_climate:
+    "v":
+        "cool":
+            "very_dry": 0.63,
+            "dry": 0.77,
+            "normal": 0.9,
+            "humid": 0.95
+        "normal":
+            "very_dry": 0.7,
+            "dry": 0.85,
+            "normal": 1.0,
+            "humid": 1.05
+        "warm":
+            "very_dry": 0.72,
+            "dry": 0.88,
+            "normal": 1.03,
+            "humid": 1.08
+        "very_warm":
+            "very_dry": 0.51,
+            "dry": 0.72,
+            "normal": 0.85,
+            "humid": 0.89
+    "o":
+        "cool":
+            "very_dry": 0.62,
+            "dry": 0.76,
+            "normal": 0.95,
+            "humid": 1.05
+        "normal":
+            "very_dry": 0.65,
+            "dry": 0.80,
+            "normal": 1.0,
+            "humid": 1.10
+        "warm":
+            "very_dry": 0.65,
+            "dry": 0.80,
+            "normal": 1.0,
+            "humid": 1.10
+        "very_warm":
+            "very_dry": 0.50,
+            "dry": 0.72,
+            "normal": 0.90,
+            "humid": 0.99
+    "w":
+        "cool":
+            "very_dry": 0.47,
+            "dry": 0.69,
+            "normal": 1.05,
+            "humid": 1.20
+        "normal":
+            "very_dry": 0.45,
+            "dry": 0.65,
+            "normal": 1.0,
+            "humid": 1.15
+        "warm":
+            "very_dry": 0.41,
+            "dry": 0.60,
+            "normal": 0.92,
+            "humid": 1.06
+        "very_warm":
+            "very_dry": 0.31,
+            "dry": 0.52,
+            "normal": 0.80,
+            "humid": 0.92
+
+temp_prob:
+    "cool": 0.10,
+    "normal": 0.45,
+    "warm": 0.35,
+    "very_warm": 0.10
+
+rain_prob:
+    "very_dry": 0.125,
+    "dry": 0.125,
+    "normal": 0.5,
+    "humid": 0.25
 
 mu_site:
     "small_farm":
@@ -79,8 +123,6 @@ mu_site:
         "o": [1.15,1.25],   # oil
         "w": [1.0999,1.1]    # wheat
 
-epsilon_extreme: [0.8, 0.9]
-
 lambda:
     "v": 0.1,  # wine
     "o": 0.15, # oil
@@ -88,6 +130,7 @@ lambda:
 
 Alt_o: [0.7, 1, 1.2] 
 R_w: 0.5
+sigma_w: 130
 
 beta_w: 0.45
 
@@ -98,4 +141,13 @@ kappa_food:
     "adolescent": 0.65,
     "child": 0.45,
     "eldery": 0.70
-    
+
+farm_area_min: 0.5 #ha
+villa_area_min: 0.2 #ha
+
+
+farm_shape: 1.2069531870721115
+villa_mu: 10.761111111111111
+villa_sigma: 10.68945996395457
+farm_loc: 0.0
+farm_scale: 0.8100695726673929

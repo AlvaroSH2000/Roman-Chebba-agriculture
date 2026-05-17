@@ -40,7 +40,7 @@ class ChebbaFarms(Model):
 
         self.sites_df = pd.read_csv("input_data/sites_voronoi.csv")
         self.voronoi = pd.read_pickle("input_data/regular_grid_with_voronoi.pkl")
-        self.area_cell = self.voronoi["L_cell"] ** 2 / 1e3  # Convert from m^2 to ha
+        self.area_cell = self.voronoi["L_cell"] ** 2 / 1e4  # Convert from m^2 to ha
 
         with open("parameters.yaml", "r", encoding="utf-8") as f:
             raw_params = f.read()
@@ -53,19 +53,18 @@ class ChebbaFarms(Model):
         self.lambda_o = self.params["lambda"]["o"]
         self.lambda_w = self.params["lambda"]["w"]
         self.R_w = self.params.get("R_w", 0.5)
-        self.sigma_w = 0
-        self.epsilon = 1
+
         self.rain = "normal"
         self.temp = "normal"
+        self.get_clime()
         self.phi_base = self.params.get("food_requirement_base", 300)
 
-        self.precipitation = self.get_precipitation()
         self.sites, self.num_agents = self.Initialize()
         self.villa_agents = list(self.sites)
         self.field_agents = [cell for villa in self.villa_agents for cell in villa.cells]
         # Set up data collection
         self.datacollector = DataCollector(
-            model_reporters={"Precipitation": "precipitation"},
+            model_reporters={"Rain": "rain", "Temperature": "temp"},
             agent_reporters={
                 "ID": lambda a: getattr(a, "ID", np.nan),
                 "AgentType": lambda a: type(a).__name__,
@@ -84,7 +83,7 @@ class ChebbaFarms(Model):
         self.datacollector.collect(self)
 
     def step(self):
-        self.get_precipitation()
+        self.get_clime()
         for agent in self.sites:
             agent.step()
         self.datacollector.collect(self)  # Collect data
@@ -116,27 +115,35 @@ class ChebbaFarms(Model):
         
         return agents, num_agents
     
-    def get_precipitation(self):
-        """Generate precipitation values based on a modified gaussian distribution.
+    def get_clime(self):
+        """Generate precipitation and temperature values.
         """
-        max_val = 600
-        min_val = 350
-        mu = (max_val + min_val) / 2
-        sigma = 100
-        p = 0.6827
-        u = np.random.rand()
-        if u <= p:
-            # Part uniforme dins de l'interval central
-            x = np.random.uniform(mu - sigma, mu + sigma)
-            self.precipitation = x
-            return x
+        rand_t = self.random.random()
+        cap_t = self.params['temp_prob']['cool']
+        if rand_t < cap_t:
+            self.temp = self.get_precipitation("cool")
+        cap_t += self.params['temp_prob']['normal']
+        if rand_t < cap_t:
+            self.temp = self.get_precipitation("normal")
+        cap_t += self.params['temp_prob']['warm']
+        if rand_t < cap_t:
+            self.temp = self.get_precipitation("warm")
         else:
-            # Part gaussiana fora de l'interval (rejection sampling)
-            while True:
-                x = np.random.normal(mu, sigma)
-                if abs(x - mu) > sigma:
-                    self.precipitation = x
-                    return x
+            self.temp = self.get_precipitation("very_warm")
+        
+        rand_r = self.random.random()
+        cap_r = self.params['rain_prob']['very_dry']
+        if rand_r < cap_r:
+            self.rain = "very_dry"
+        cap_r += self.params['rain_prob']['dry']
+        if rand_r < cap_r:
+            self.rain = "dry"
+        cap_r += self.params['rain_prob']['normal']
+        if rand_r < cap_r:
+            self.rain = "normal"
+        else:
+            self.rain = "humid"
+
 
     def rand(self, list):
         """Generate a random number between a and b.
