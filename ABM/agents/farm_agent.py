@@ -18,28 +18,25 @@ class FarmAgent(Agent):
         Attributes:
             gender (int): The gender of the farmer (0 for male, 1 for female).
             age (int): The current age of the farmer.
-            death_age (int): The age at which the farmer is expected to die.
         """
 
-        def __init__(self, gender, age, death_age, sons=0, patriarch=0):
+        def __init__(self, gender, age, sons=0, patriarch=0):
             """
             Initialize a Farmer instance.
 
             Args:
                 gender (int): The gender of the farmer.
                 age (int): The current age of the farmer.
-                death_age (int): The age at which the farmer is expected to die.
                 sons (int): The number of sons the farmer has (default is 0).
                 patriarch (int): 0 if the farmer is not a patriarch, 1 if they are (default is 0).
             """
             
             self.gender = gender
             self.age = age
-            self.death_age = death_age
             self.sons = sons
             self.patriarch = patriarch
 
-    def __init__(self, model, ID, site_type, area, soil, dolia=0):
+    def __init__(self, model, ID, x, y, cells_indices, virtual_cells, site_type = ""):
         """Create a new agent.
 
         Args:

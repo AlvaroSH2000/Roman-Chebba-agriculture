@@ -13,6 +13,7 @@ from pathlib import Path
 import yaml
 import re
 import ast
+from scipy.stats import alpha, beta, rv_continuous
 
 
 class ChebbaFarms(Model):
@@ -49,6 +50,8 @@ class ChebbaFarms(Model):
         self.params = yaml.safe_load(cleaned_params)
 
         self.deltaT = 1
+        self.n_step = 0
+        self.n_cells = 0
         self.lambda_v = self.params["lambda"]["v"]
         self.lambda_o = self.params["lambda"]["o"]
         self.lambda_w = self.params["lambda"]["w"]
@@ -83,6 +86,7 @@ class ChebbaFarms(Model):
         self.datacollector.collect(self)
 
     def step(self):
+        self.n_step += 1
         self.get_clime()
         for agent in self.sites:
             agent.step()
@@ -112,37 +116,73 @@ class ChebbaFarms(Model):
                     site_type,
                 )
             )
-        
+        print(num_agents, "agents initialized.")
+        print(self.n_cells, "field agents initialized.")
         return agents, num_agents
     
     def get_clime(self):
         """Generate precipitation and temperature values.
         """
         rand_t = self.random.random()
-        cap_t = self.params['temp_prob']['cool']
-        if rand_t < cap_t:
-            self.temp = self.get_precipitation("cool")
-        cap_t += self.params['temp_prob']['normal']
-        if rand_t < cap_t:
-            self.temp = self.get_precipitation("normal")
-        cap_t += self.params['temp_prob']['warm']
-        if rand_t < cap_t:
-            self.temp = self.get_precipitation("warm")
+        if rand_t < self.params['temp_prob']['cool']:
+            self.temp = "cool"
+        elif rand_t < self.params['temp_prob']['cool']+self.params['temp_prob']['normal']:
+            self.temp = "normal"
+        elif rand_t < self.params['temp_prob']['cool']+self.params['temp_prob']['normal']+self.params['temp_prob']['warm']:
+            self.temp = "warm"
         else:
-            self.temp = self.get_precipitation("very_warm")
+            self.temp = "very_warm"
+    
         
         rand_r = self.random.random()
-        cap_r = self.params['rain_prob']['very_dry']
-        if rand_r < cap_r:
+        if rand_r < self.params['rain_prob']['very_dry']:
             self.rain = "very_dry"
-        cap_r += self.params['rain_prob']['dry']
-        if rand_r < cap_r:
+        elif rand_r < self.params['rain_prob']['very_dry']+self.params['rain_prob']['dry']:
             self.rain = "dry"
-        cap_r += self.params['rain_prob']['normal']
-        if rand_r < cap_r:
+        elif rand_r < self.params['rain_prob']['very_dry']+self.params['rain_prob']['dry']+self.params['rain_prob']['normal']:
             self.rain = "normal"
         else:
             self.rain = "humid"
+        print(rand_t, rand_r)
+
+    def get_mortality_by_age(self, age, food_ratio):
+        """Get the mortality rate for a given age.
+
+        Args:
+            age (int): The age of the individual
+        Returns:
+            bool: True if the individual survies, False if it dies
+        """
+        def mu(x):
+            return self.params["gompertz_makeham"]["alpha"] * np.exp(self.params["gompertz_makeham"]["beta"] * x) + self.params["gompertz_makeham"]["lamda"]
+        def stress_multiplier(food_ratio, ages):
+            if food_ratio < 0.6:
+                return self.params["stress_multiplier_age"][0.6][ages]
+            elif food_ratio < 0.8:
+                return self.params["stress_multiplier_age"][0.8][ages]
+            elif food_ratio < 1.0:
+                return self.params["stress_multiplier_age"][1.0][ages]
+            elif food_ratio < 1.2:
+                return self.params["stress_multiplier_age"][1.2][ages]
+            else:
+                return self.params["stress_multiplier_age"]["else"][ages]
+
+        if age == 0:
+            if self.random.random() < self.rand(self.params["mortality"]["newborn"]):
+                return False
+        elif age < 4:
+            if self.random.random() < min(self.params["q_max"], self.rand(self.params["mortality"]["infant"])*stress_multiplier(food_ratio, "child")):
+                return False
+        elif age < 9:
+            if self.random.random() < min(self.params["q_max"], self.rand(self.params["mortality"]["child"])*stress_multiplier(food_ratio, "child")):
+                return False
+        elif age < 15:
+            if self.random.random() < min(self.params["q_max"], self.rand(self.params["mortality"]["adolescent"])*stress_multiplier(food_ratio, "adolescent")):
+                return False
+        else:
+            if self.random.random() < min(self.params["q_max"], mu(age)*stress_multiplier(food_ratio, "adult")):
+                return False
+        return True
 
 
     def rand(self, list):

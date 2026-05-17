@@ -1,7 +1,6 @@
 L_cell: 50 #m
 
 alpha_v: 0.65
-alpha_o: 0.35
 
 y_base: 
     "v": [4500,5000],  # wine L/ha
@@ -141,6 +140,47 @@ kappa_food:
     "adolescent": 0.65,
     "child": 0.45,
     "eldery": 0.70
+
+
+mortality:
+    "newborn": [25,35],
+    "infant": [4,8],
+    "child": [2,4],
+    "adolescent": [0.5,1.5],
+
+gompertz_makeham:
+    alpha: 0.002
+    beta: 0.075
+    lamda: 0.004
+
+stress_multiplier_age:
+    0.6:
+        "child": 2.20,
+        "adolescent": 1.9,
+        "adult": 1.6,
+        "eldery": 2.0
+    0.8:
+        "child": 1.60,
+        "adolescent": 1.4,
+        "adult": 1.25,
+        "eldery": 1.50
+    1.0:
+        "child": 1.20,
+        "adolescent": 1.15,
+        "adult": 1.10,
+        "eldery": 1.15
+    1.2:
+        "child": 1.0,
+        "adolescent": 1.0,
+        "adult": 1.0,
+        "eldery": 1.0
+    "else":
+        "child": 0.95,
+        "adolescent": 0.95,
+        "adult": 0.95,
+        "eldery": 1.0
+
+q_max: 0.8
 
 farm_area_min: 0.5 #ha
 villa_area_min: 0.2 #ha

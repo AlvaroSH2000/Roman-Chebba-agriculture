@@ -70,6 +70,39 @@ def _plot_villa_metric(fig, model, metric_name):
     ax.grid(True, alpha=0.2)
 
 
+def _plot_climate_evolution(fig, model):
+    ax = fig.subplots()
+    model_df = model.datacollector.get_model_vars_dataframe().reset_index(names="Step")
+    if model_df.empty:
+        ax.set_title("Evolucio temporal del clima")
+        ax.text(0.5, 0.5, "Sense dades", ha="center", va="center", transform=ax.transAxes)
+        return
+
+    temp_map = {"cool": 1, "normal": 2, "warm": 3, "very_warm": 4}
+    rain_map = {"very_dry": 1, "dry": 2, "normal": 3, "humid": 4}
+
+    climate_df = model_df[["Step", "Temperature", "Rain"]].copy()
+    climate_df["TemperatureNum"] = climate_df["Temperature"].map(temp_map)
+    climate_df["RainNum"] = climate_df["Rain"].map(rain_map)
+
+    valid_df = climate_df.dropna(subset=["TemperatureNum", "RainNum"])
+    if valid_df.empty:
+        ax.set_title("Evolucio temporal del clima")
+        ax.text(0.5, 0.5, "Sense dades", ha="center", va="center", transform=ax.transAxes)
+        return
+
+    ax.plot(valid_df["Step"], valid_df["TemperatureNum"], marker="o", label="Temperature")
+    ax.plot(valid_df["Step"], valid_df["RainNum"], marker="s", label="Rain")
+
+    ax.set_yticks([1, 2, 3, 4])
+    ax.set_yticklabels(["1", "2", "3", "4"])
+    ax.set_xlabel("Step")
+    ax.set_ylabel("Categoria (1-4)")
+    ax.set_title("Evolucio temporal del clima")
+    ax.grid(True, alpha=0.2)
+    ax.legend(loc="best")
+
+
 
 def _plot_field_2d(fig, model):
     from matplotlib.colors import LinearSegmentedColormap, Normalize
@@ -154,6 +187,14 @@ def Field2DPlot(model):
     solara.FigureMatplotlib(fig)
 
 
+@solara.component
+def ClimateEvolutionPlot(model):
+    update_counter.get()
+    fig = Figure(figsize=(10, 5), constrained_layout=True)
+    _plot_climate_evolution(fig, model)
+    solara.FigureMatplotlib(fig)
+
+
 def make_villa_metric_component(metric_name):
     @solara.component
     def _component(model):
@@ -184,10 +225,11 @@ model = ChebbaFarms(seed=int(model_params["seed"]["value"]))
 page = SolaraViz(
     model,
     components=[
+        ClimateEvolutionPlot,
         make_villa_metric_component("Q_v"),
         make_villa_metric_component("Q_o"),
         make_villa_metric_component("Q_w"),
-        make_field_2d_component(),
+        # make_field_2d_component(),
     ],
     model_params=model_params,
     name="Chebba Farms Model",
